@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(.26458)" d="m8.9531 17.998a27 27 0 0 0-3.9531 14.002 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.9434-14.002 27 27 0 0 0-2e-3 0z" fill="#f9f9f9" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m8.4666 1.3229a7.1437 7.1437 0 0 0-6.0978 3.439h12.198a7.1437 7.1437 0 0 0-6.0999-3.439z" fill="#666" stroke-width="1.4072" style="paint-order:stroke markers fill"/>
+ <rect x="11.642" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="10.054" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="8.4665" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <g fill="#ccc">
+  <path d="m8.467 6.238a3.44 3.44 0 0 0-3.44 3.44 3.44 3.44 0 0 0 3.44 3.439 3.44 3.44 0 0 0 3.44-3.44 3.44 3.44 0 0 0-3.44-3.44zm0 1.393a2.046 2.046 0 0 1 2.046 2.046 2.046 2.046 0 0 1-2.046 2.045 2.046 2.046 0 0 1-2.046-2.045 2.046 2.046 0 0 1 2.046-2.046z" opacity=".15" style="paint-order:stroke markers fill"/>
+  <path d="m8.467 6.766a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.911 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.588 1.587 1.587 0 0 1-1.587 1.587 1.587 1.587 0 0 1-1.588-1.587 1.587 1.587 0 0 1 1.588-1.588z" style="paint-order:stroke markers fill"/>
+  <path d="m7.938 5.576h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.055-0.747 0.748-1.31-1.31 0.748-0.748zm-4.49-4.49-0.747 0.748-1.31-1.31 0.748-0.748zm-1.309 5.238-0.748-0.748 1.31-1.31 0.748 0.748zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.748z" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

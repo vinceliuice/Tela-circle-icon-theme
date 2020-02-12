@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+  <style type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+  <style type="text/css">.ColorScheme-Text { color:#f2f2f2 }</style>
+ </defs>
+ <circle cx="32" cy="32" r="27" fill="#0c96df" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.96296 0 0 .96296 2.1481 .22222)">
+  <path transform="matrix(1.0385 0 0 1.0385 -2.2307 -.23077)" d="m13.801 12.094a27 27 0 0 0-3.8145 4.3066h1.2129v2.5996h-2.5996v-0.42578a27 27 0 0 0-2.5996 6.252v14.443a27 27 0 0 0 4.0039 8.3301h1.1953v1.582a27 27 0 0 0 2.6016 2.7188v-4.3008h36.398v4.3066a27 27 0 0 0 2.5996-2.707v-1.5996h1.2148a27 27 0 0 0 3.9863-8.4258v-14.443a27 27 0 0 0-2.5996-6.1309v0.40039h-2.6016v-2.5996h1.1973a27 27 0 0 0-3.7969-4.3008v4.3008h-36.398v-4.3066zm0 6.9062h36.398v26h-36.398v-23.4-2.5996zm-5.2012 2.5996h2.5996v2.5996h-2.5996v-2.5996zm44.199 0h2.6016v2.5996h-2.6016v-2.5996zm-44.199 5.2012h2.5996v2.5996h-2.5996v-2.5996zm44.199 0h2.6016v2.5996h-2.6016v-2.5996zm-44.199 5.1992h2.5996v2.5996h-2.5996v-2.5996zm44.199 0h2.6016v2.5996h-2.6016v-2.5996zm-44.199 5.1992h2.5996v2.6016h-2.5996v-2.6016zm44.199 0h2.6016v2.6016h-2.6016v-2.6016zm-44.199 5.2012h2.5996v2.5996h-2.5996v-2.5996zm44.199 0h2.6016v2.5996h-2.6016v-2.5996z" opacity=".5" stroke-linejoin="round" stroke-width=".5"/>
+  <path d="m36.4 19.5-16.189 16.189h-0.0054v5.4135h5.4135v-0.0054l16.189-16.189-0.0027-0.0027 0.0027-0.0027-5.4-5.4-0.0027 0.0027zm-2.6973 4.6062 3.4965 3.4965-10.244 10.244v-2.1465h-2.7v-2.1465zm-10.797 10.797v2.1465h2.7v2.1465l-0.5535 0.5535h-2.1465l-1.35-1.35v-2.1465zm6.75 4.8465-1.35 1.35h13.5v-1.35z" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.0385" style="isolation:auto;mix-blend-mode:normal"/>
+  <rect x="22.9" y="42.45" width="16.2" height="1.35" rx="0" ry="1.35" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.0784" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

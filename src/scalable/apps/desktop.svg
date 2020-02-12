@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1.2858e-8 -280.07)">
+  <rect x="1.3229" y="281.39" width="14.287" height="14.287" ry="7.1436" fill="#8daaff" style="paint-order:stroke markers fill"/>
+  <rect x="3.44" y="291.18" width="10.054" height="1.323" ry=".265" fill="#fff" opacity=".35" style="paint-order:markers stroke fill"/>
+  <g fill="#ccdfff">
+   <rect x="4.498" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="6.703" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="8.908" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="11.113" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+  </g>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m32 5c-5.2094 0-10.063 1.4644-14.18 4h28.359c-4.1165-2.5356-8.9703-4-14.18-4z" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+  <rect x="7.1436" y="281.65" width="2.6458" height=".52916" ry=".26508" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

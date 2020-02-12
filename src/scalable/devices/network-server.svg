@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#f2f2f2" style="paint-order:stroke fill markers"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-26" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
+ <circle cx="49" cy="21" r="1" fill="#9eee5a" stroke-width=".33333"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-37" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
+ <circle cx="49" cy="32" r="1" fill="#9eee5a" stroke-width=".33333"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-48" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
+ <g fill="#9eee5a" stroke-width=".33333">
+  <circle cx="49" cy="43" r="1"/>
+  <circle cx="45" cy="21" r="1" opacity=".6"/>
+  <circle cx="45" cy="32" r="1" opacity=".6"/>
+  <circle cx="45" cy="43" r="1" opacity=".6"/>
+  <circle cx="41" cy="21" r="1" opacity=".3"/>
+  <circle cx="41" cy="32" r="1" opacity=".3"/>
+  <circle cx="41" cy="43" r="1" opacity=".3"/>
+ </g>
+ <g transform="translate(0 -.5)">
+  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+ </g>
+ <g transform="translate(0,10.5)">
+  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+ </g>
+ <g transform="translate(0,21.5)">
+  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 8.9082 20h36.184a27 27 0 0 0 8.9082-20 27 27 0 0 0-27-27z" fill="#388e3c" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m13.928 52.02a27 27 0 0 0 5.7988 4h3.2734c0.554 0 1-0.446 1-1v-3h-10.072zm13.072 0v3c0 0.554 0.446 1 1 1h16.322a27 27 0 0 0 5.748-4h-23.07z" fill="#fbc02d"/>
+ <path d="m18 37-9.7461 7.7969a27 27 0 0 0 1.2969 2.1699l4.4492-2.9668v2l-3.4805 2.3203a27 27 0 0 0 1.3984 1.6797h0.082031l0.10742 0.21484a27 27 0 0 0 1.8008 1.7852h4.0918v-5l6-5h3l-6 5v5h29.092a27 27 0 0 0 6.3555-8.6133l-3.4473-4.3867h-2l-2-2h-31z" fill="#43a047" fill-rule="evenodd"/>
+ <circle cx="53.5" cy="39.5" r="1.5" fill="#fbc02d"/>
+ <circle cx="53.5" cy="39.5" r=".5" fill="#263238"/>
+ <circle cx="10.5" cy="39.5" r="1.5" fill="#fbc02d"/>
+ <circle cx="10.5" cy="39.5" r=".5" fill="#263238"/>
+ <path d="m32 5a27 27 0 0 0-21.822 11.146l-0.17773 1.8535-2 2v2l3 3h38l6.084-6.9531a27 27 0 0 0-1.9375-2.8359l-5.1465 5.7891h-3l6.6543-7.4863a27 27 0 0 0-19.654-8.5137z" fill="#43a047" fill-rule="evenodd"/>
+ <circle cx="53.5" cy="21.5" r="1.5" fill="#fbc02d"/>
+ <g fill="#263238">
+  <circle cx="53.5" cy="21.5" r=".5"/>
+  <rect x="18" y="23" width="28" height="16" ry="1"/>
+  <rect x="15" y="13" width="14" height="6" ry="1"/>
+ </g>
+ <rect x="16" y="14" width="9" height="1" ry="0" fill="#90a4ae"/>
+ <path d="m16 16h5v1h-5zm6 0h2v1h-2z" fill="#90a4ae"/>
+ <rect x="33" y="43" width="17" height="6" ry="1" fill="#eceff1"/>
+ <g fill="#37474f">
+  <rect x="34" y="44" width="9" height="1" ry="0"/>
+  <path d="m34 46h5v1h-5z"/>
+  <path d="m45 48 2-3 2 3z" fill-rule="evenodd"/>
+ </g>
+ <rect x="26" y="16" width="2" height="2" ry="0" fill="#90a4ae"/>
+ <path d="m21 26h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2z" fill="#90a4ae" fill-rule="evenodd" opacity=".5" style="paint-order:fill markers stroke"/>
+ <circle cx="10.5" cy="21.5" r="1.5" fill="#fbc02d"/>
+ <circle cx="10.5" cy="21.5" r=".5" fill="#263238"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m32 7a25 25 0 0 0-19 8.7637v11.086c0 1.1915 0.9589 2.1504 2.1504 2.1504h33.699c1.1915 0 2.1504-0.9589 2.1504-2.1504v-11.055a25 25 0 0 0-19-8.7949z" fill="#5294e2" fill-rule="evenodd" stroke-width="1.1663"/>
+ <circle cx="32" cy="44" r="12" fill="#fff"/>
+ <circle cx="32" cy="44" r="6" fill="#666"/>
+</svg>

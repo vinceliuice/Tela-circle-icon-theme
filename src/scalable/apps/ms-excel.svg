@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#246541" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(4.61)" x="8.823" y="2.7027" width="4.9617" height="8.7788" rx=".38156" ry=".38156" opacity=".1" stroke-width=".72129" style="paint-order:markers stroke fill"/>
+ <rect transform="rotate(4.61)" x="9.2045" y="3.0843" width="4.1986" height="8.0149" rx="0" ry="0" fill="#fff" stroke-width=".72129" style="paint-order:markers stroke fill"/>
+ <g fill="#246541" stroke-width=".72129">
+  <rect transform="rotate(4.61)" x="11.495" y="9.0003" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="11.495" y="7.3464" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="11.495" y="5.6925" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="11.495" y="4.0386" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="9.7772" y="9.0003" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="9.7772" y="7.3464" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="9.7772" y="5.6925" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(4.61)" x="9.7772" y="4.0386" width="1.3358" height="1.1447" rx="0" ry="0" style="paint-order:markers stroke fill"/>
+ </g>
+ <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 12.869-3.2949l-9.5508-50.477a27 27 0 0 0-3.3184-0.22852z" fill="#357e56" stroke-width="2.7262" style="paint-order:markers stroke fill"/>
+ <path d="m8.2953 6.0847-1.1495 0.17375-0.72711 1.412-1.1118-1.1344-1.1495 0.17438 1.8068 1.8426-1.1823 2.2953 1.1495-0.17438 0.72711-1.412 1.1124 1.1344 1.1489-0.17312-1.8068-1.8439z" fill="#fff" stroke-width=".8787" style="paint-order:markers stroke fill"/>
+</svg>

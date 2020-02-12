@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="10.583" x2="10.583" y1="283.51" y2="294.62" gradientTransform="translate(-.794 .265)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#69e17c" offset="0"/>
+   <stop stop-color="#5eda82" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="27" x2="27" y1="50" y2="14" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#70bd87" offset="0"/>
+   <stop stop-color="#70bd87" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.6792 0 0 .6792 2.8059 -187.69)" style="paint-order:stroke markers fill">
+  <path d="m7.144 282.18a5.556 5.556 0 0 0-5.557 5.557v5.556h4.323a5.556 5.556 0 0 1-1.676-3.969 5.556 5.556 0 0 1 5.557-5.556 5.556 5.556 0 0 1 1.42 0.191 5.556 5.556 0 0 0-4.066-1.779z" fill="#fff" stroke="#000" stroke-opacity=".039" stroke-width=".52916"/>
+  <path d="m7.144 282.18a5.556 5.556 0 0 0-5.557 5.557v5.556h5.557a5.556 5.556 0 0 0 5.556-5.556 5.556 5.556 0 0 0-5.556-5.557z" fill="#fff"/>
+  <path d="m9.79 283.77a5.556 5.556 0 0 1 5.556 5.557v5.556h-5.556a5.556 5.556 0 0 1-5.557-5.556 5.556 5.556 0 0 1 5.557-5.556z" fill="url(#c)" opacity=".65"/>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m37 14a21 21 0 0 0-21 21 21 21 0 0 0 6.332 15h4.668a21 21 0 0 0 21-21 21 21 0 0 0-5.635-14.277 21 21 0 0 0-5.365-0.723z" fill="url(#d)"/>
+  <rect x="7.673" y="288.53" width="4.762" height=".529" ry=".265" fill="#fff"/>
+  <rect x="7.673" y="290.12" width="3.969" height=".529" ry=".265" fill="#fff"/>
+ </g>
+</svg>

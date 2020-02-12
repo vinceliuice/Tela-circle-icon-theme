@@ -1,0 +1,22 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#355687" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.67056 .051656 -.051656 .67056 19.952 -185.49)" style="paint-order:markers stroke fill">
+  <rect x="5.821" y="282.45" width="6.879" height="12.171" rx=".504" ry=".575" fill="#274069"/>
+  <rect x="6.35" y="282.98" width="5.821" height="11.113" rx="0" ry="0" fill="#fff"/>
+  <g fill="#355687">
+   <rect x="6.615" y="284.3" width="4.762" height=".529" rx="0" ry="0"/>
+   <rect x="6.615" y="285.89" width="4.762" height=".529" rx="0" ry="0"/>
+   <rect x="6.615" y="287.48" width="4.762" height=".529" rx="0" ry="0"/>
+   <rect x="6.615" y="289.06" width="4.762" height=".529" rx="0" ry="0"/>
+   <rect x="6.615" y="290.65" width="4.762" height=".529" rx="0" ry="0"/>
+   <rect x="6.615" y="292.24" width="4.762" height=".529" rx="0" ry="0"/>
+  </g>
+ </g>
+ <path d="m8.4665 1.3229a7.1436 7.1436 0 0 0-7.1436 7.1436 7.1436 7.1436 0 0 0 7.1436 7.1436 7.1436 7.1436 0 0 0 3.4049-0.87176l-2.5269-13.355a7.1436 7.1436 0 0 0-0.87797-0.06046z" fill="#4169a5" stroke-width=".72129" style="paint-order:markers stroke fill"/>
+ <g transform="matrix(.87368 0 0 .87368 .23667 -243.53)" fill="#fff" style="paint-order:markers stroke fill">
+  <path d="m3.48 286.64 1.047-0.156 2.01 4.516-1.047 0.156z"/>
+  <path d="m7.144 286.1-1.046 0.156-0.608 4.905 1.047-0.156z"/>
+  <path d="m6.098 286.26 1.046-0.156 2.01 4.516-1.047 0.156z"/>
+  <path d="m9.761 285.71-1.046 0.157-0.608 4.905 1.047-0.156z"/>
+ </g>
+</svg>

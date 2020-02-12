@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+ <g fill="#fff">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-12.7" y="-12.7" width="8.467" height="8.467" rx="4.233" ry="4.233" opacity=".1"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-11.906" y="-11.906" width="6.879" height="6.879" rx="3.44" ry="3.44" opacity=".25"/>
+  <path d="m8.467 5.556-0.786 0.943a2.117 2.117 0 1 0 1.571 0z"/>
+ </g>
+ <circle cx="4.3657" cy="4.6302" r=".661" opacity=".15" style="paint-order:stroke fill markers"/>
+ <circle cx="4.3657" cy="4.6302" r=".397" fill="#0090ff" style="paint-order:stroke fill markers"/>
+ <path d="m8.202 2.91h0.529v1.058h-0.529zm1.448 0.121 0.51 0.137-0.273 1.022-0.511-0.137zm1.365 0.492 0.458 0.264-0.529 0.916-0.458-0.264zm1.193 0.827 0.374 0.374-0.748 0.749-0.374-0.374zm0.938 1.109 0.265 0.458-0.916 0.53-0.265-0.459zm0.62 1.314 0.137 0.511-1.022 0.274-0.137-0.511zm0.257 1.429v0.529h-1.058v-0.529z" opacity=".25" style="paint-order:stroke fill markers"/>
+</svg>

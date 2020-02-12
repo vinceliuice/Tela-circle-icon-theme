@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="f" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+ </defs>
+ <g>
+  <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#29aae2" stroke-width=".37419"/>
+  <circle transform="matrix(.26458 0 0 .26458 4.6919e-6 1.9752e-5)" cx="32" cy="32" r="24" fill="#29aae2" filter="url(#f)" opacity=".15" stroke-width="1.5715"/>
+  <circle cx="8.4665" cy="8.4665" r="6.0853" fill="#fff" stroke-width=".39846"/>
+  <circle cx="8.4718" cy="8.4782" r="0" fill="#29aae2" stroke-width=".41578"/>
+ </g>
+ <path d="m4.7624 4.7624v7.4082h3.3673v-1.6837h-1.6837v-4.0409h1.6837v-1.6837h-1.7211zm4.0409 0v1.6837h1.6837v4.0409h-1.6837v1.6837h3.3673v-7.4082h-3.3673z" fill="#4d4d4d" stroke-width=".26458"/>
+</svg>

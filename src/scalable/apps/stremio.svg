@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27h54a27 27 0 0 0-27-27z" fill="#8d49bc" stroke-width="1.2525"/>
+ <path transform="scale(.26458)" d="m5 32a27 27 0 0 0 27 27 27 27 0 0 0 27-27h-54z" fill="#3a497d" stroke-width="1.2525"/>
+ <path d="m11.112 8.4665-3.9687 2.9104v-5.8207z" fill="#fff" stroke-width=".32726"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#498cd8" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0 -280.07)">
+  <path d="m8.467 285.6-1.06 2.874h2.123zm-0.441-0.77h0.886l2.2 5.775h-0.812l-0.526-1.482h-2.603l-0.526 1.482h-0.825z" fill="#fff" font-size="7.922" font-weight="400" letter-spacing="0" stroke-width=".198" word-spacing="0" aria-label="A"/>
+ </g>
+ <path transform="scale(.26458)" d="m17.16 46.84-2.8262 2.8262a25 25 0 0 0 17.666 7.334 25 25 0 0 0 17.666-7.334l-2.8262-2.8262a21 21 0 0 1-14.84 6.1602 21 21 0 0 1-14.84-6.1602z" opacity=".15" stroke-width="3.4996" style="paint-order:stroke fill markers"/>
+</svg>

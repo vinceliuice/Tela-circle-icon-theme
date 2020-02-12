@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f55" style="paint-order:stroke fill markers"/>
+ <g fill="#fff">
+  <circle cx="5.5558" cy="5.5558" r="1.058" style="paint-order:markers stroke fill"/>
+  <circle cx="11.377" cy="5.5558" r="1.058" style="paint-order:markers stroke fill"/>
+  <circle cx="5.5558" cy="11.377" r="1.058" style="paint-order:markers stroke fill"/>
+  <circle cx="11.377" cy="11.377" r="1.058" style="paint-order:markers stroke fill"/>
+  <circle cx="8.467" cy="8.466" r="1.058" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <title>Adwaita Icon Template</title>
+ <circle cx="32" cy="32" r="27" fill="#ed333b" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m19.143 46-1.1719 9.0312a27 27 0 0 0 14.029 3.9688 27 27 0 0 0 14.029-3.9609l-1.1719-9.0391h-25.715z" enable-background="new" fill="#5e5c64"/>
+ <path d="m17.041 12a25 25 0 0 0-10.041 20 25 25 0 0 0 4.3145 14h41.389a25 25 0 0 0 4.2969-14 25 25 0 0 0-10.051-20h-29.908z" enable-background="new" fill="#f6f5f4"/>
+ <path d="m9.584 21a25 25 0 0 0-2.584 11 25 25 0 0 0 1.0137 7h47.969a25 25 0 0 0 1.0176-7 25 25 0 0 0-2.5684-11h-44.848z" enable-background="new" fill="#424048"/>
+ <circle cx="19" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>
+ <circle cx="45.818" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>
+ <rect x="25" y="26" width="14" height="8" enable-background="new" fill="#949390"/>
+ <path d="m25 26v8h8.222c0.28198-1.2899 0.44153-2.6255 0.44153-4s-0.15955-2.7101-0.44153-4z" enable-background="new" fill="#424048" opacity=".5"/>
+</svg>

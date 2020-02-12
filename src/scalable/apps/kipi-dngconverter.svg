@@ -1,0 +1,7 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#c7ced2" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="24" fill="#333639" stroke-width="3.3596" style="paint-order:stroke fill markers"/>
+ <path d="m16.982 19.984h29.999v23.999h-29.999z" fill="#f73e59" stroke-linejoin="bevel" stroke-width="1.291"/>
+ <path d="m19.273 21.804v1.2727h25.454v-1.2727zm-0.0051 3.8181v12.727h1.2727c3.8181 0 5.0908-2.5429 5.0908-6.3431 0-3.8308-1.2727-6.389-5.0908-6.389zm8.9089 0v0.0025h-0.0025l0.0025 0.0076v12.717h1.2727v-9.5325l3.8105 9.5351h1.2727v-0.0025h0.0025v-12.727h-1.2727v9.5503l-3.7608-9.4116-0.05218-0.13872zm16.543 0c-3.8181 0-7.6311 1.2727-7.6311 6.324 0 5.129 2.5403 6.4017 6.3584 6.4017h1.2727v-6.3635h-2.5403v1.2727h1.2676v3.8181c-3.8181 0-5.0857-1.2727-5.0857-5.0513 0-3.8563 2.5403-5.129 6.3584-5.129zm-24.179 1.2727c3.8181 0 3.8181 3.8181 3.8181 5.0908s0 5.0908-3.8181 5.0908zm-1.2676 14v1.2727h25.454v-1.2727z" fill="#fff" stroke-linejoin="bevel" stroke-width="1.2727"/>
+ <circle cx="32" cy="32" r="24" fill-opacity="0" stroke-width="3.3596" style="paint-order:stroke fill markers"/>
+</svg>

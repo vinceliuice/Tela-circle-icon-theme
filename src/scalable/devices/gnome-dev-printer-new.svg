@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#ececec" style="paint-order:stroke fill markers"/>
+ <path d="m38.08 8.8145-12.367 0.03125a24 24 0 0 0-6.4395 2.8203v4.0176l-2.5449 0.0039v3.8477h30.545v-3.8476h-2.5469v-4.002a24 24 0 0 0-6.6465-2.8711z" fill="#333" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m32 7a25 25 0 0 0-11.453 2.7852v9.75h22.908v-9.7324a25 25 0 0 0-11.455-2.8027z" color="#000000" fill="#fff" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+ <path d="m15.455 40.506-2.1836 3.0039a22 22 0 0 0 3.1387 3.9961h31.174a22 22 0 0 0 3.4512-4.5176l-1.7793-2.4824z" fill="#333" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m17.365 41.143-3.2051 6.8691a24 24 0 0 0 17.84 7.9883 24 24 0 0 0 18.021-8.1797l-3.3848-6.6777z" color="#000000" fill="#fff" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+ <path d="m11.525 19.535a24 24 0 0 0-3.5254 12.465 24 24 0 0 0 2.7363 11.105l3.4453-3.873h35.637l3.4395 3.8711a24 24 0 0 0 2.7422-11.104 24 24 0 0 0-3.5176-12.465h-40.957z" fill="#333" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m15.456 37.96h33.09c0.742 0 1.272 0.53 1.272 1.273h-35.635c0-0.743 0.53-1.273 1.273-1.273z" color="#000000" display="block" fill-opacity=".417" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+ <g transform="matrix(.75 0 0 .75 8 10.5)">
+  <circle cx="32" cy="32" r="16" fill="#009545"/>
+  <path d="M30.667 22v8h-8v2.667h8v8h2.666v-8h8V30h-8v-8z" fill="#fff"/>
+ </g>
+</svg>

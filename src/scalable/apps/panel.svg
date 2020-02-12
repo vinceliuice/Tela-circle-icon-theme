@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 3.9453 14.002h46.102a27 27 0 0 0 3.9531-14.002 27 27 0 0 0-27-27z" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <path d="m8.9453 46.002a27 27 0 0 0 23.055 12.998 27 27 0 0 0 23.047-12.998h-46.102z" fill="#666" stroke-width="4.9746" style="paint-order:stroke markers fill"/>
+ <path d="m21 48a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="29" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="35" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="41" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>
+ <path d="m32.002 14.502a13.002 13.002 0 0 0-13.002 13.002 13.002 13.002 0 0 0 13.002 12.998 13.002 13.002 0 0 0 13.002-13.002 13.002 13.002 0 0 0-13.002-13.002zm0 5.265a7.7331 7.7331 0 0 1 7.7331 7.7331 7.7331 7.7331 0 0 1-7.7331 7.7293 7.7331 7.7331 0 0 1-7.7331-7.7293 7.7331 7.7331 0 0 1 7.7331-7.7331z" fill="#ccc" opacity=".15" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -3.32e-7 -1067.6)" fill="#ccc" style="paint-order:stroke markers fill">
+  <path d="m8.467 286.83a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.911 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.588 1.587 1.587 0 0 1-1.587 1.587 1.587 1.587 0 0 1-1.588-1.587 1.587 1.587 0 0 1 1.588-1.588z"/>
+  <path d="m7.938 285.64h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.055-0.747 0.748-1.31-1.31 0.748-0.748zm-4.49-4.49-0.747 0.748-1.31-1.31 0.748-0.748zm-1.309 5.238-0.748-0.748 1.31-1.31 0.748 0.748zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.748z"/>
+ </g>
+</svg>

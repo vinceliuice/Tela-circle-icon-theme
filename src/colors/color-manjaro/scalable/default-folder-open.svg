@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="42" x2="44" y1="51" y2="55" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.4082" fill="#258875" style="paint-order:stroke fill markers"/>
+ <path d="m8.4666 1.0583a7.4082 7.4082 0 0 0-4.886 1.8521h9.7765a7.4082 7.4082 0 0 0-4.8905-1.8521z" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m8.467 2.3812-2.382 2.381h1.323v2.382c0 0.146 0.118 0.264 0.265 0.264h1.587a0.264 0.264 0 0 0 0.265-0.264v-2.382h1.323l-2.381-2.38z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".039" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+ <path d="m7.9373 6.0853c-0.35022 0-0.6429 0.27778-0.79373 0.52916l-0.31729 0.52916h-5.6424a7.4082 7.4082 0 0 0-0.12557 1.3229 7.4082 7.4082 0 0 0 7.4082 7.4082 7.4082 7.4082 0 0 0 7.4082-7.4082 7.4082 7.4082 0 0 0-0.40255-2.3812z" fill="#16a085" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m15.164 11.613-7.327 4.2306a7.4082 7.4082 0 0 0 0.62994 0.03152 7.4082 7.4082 0 0 0 6.697-4.2621z" fill="url(#c)" opacity=".1" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+</svg>

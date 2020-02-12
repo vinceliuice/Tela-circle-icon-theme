@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#ffc859" style="paint-order:stroke fill markers"/>
+ <path d="m8.4666 1.3229a7.1437 7.1437 0 0 0-5.9351 3.1739h11.867a7.1437 7.1437 0 0 0-5.9324-3.1739z" fill="#ffa444" stroke-width="1.2092" style="paint-order:fill markers stroke"/>
+ <g>
+  <rect x="3.704" y="6.3495" width="9.525" height=".265" ry="0" opacity=".1" style="paint-order:markers stroke fill"/>
+  <rect x="3.704" y="8.9954" width="9.525" height=".265" ry="0" opacity=".1" style="paint-order:markers stroke fill"/>
+  <rect x="3.704" y="11.641" width="9.525" height=".265" ry="0" opacity=".1" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

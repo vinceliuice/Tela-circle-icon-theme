@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#3a81cc" fill-rule="evenodd" stroke-width=".9" style="paint-order:fill markers stroke"/>
+ <g transform="matrix(1 0 0 1 1.9389e-6 -.00012806)">
+  <g stroke-width=".90001">
+   <path d="m11.006 5.9268v5.0796h4.1279a7.1434 7.1436 0 0 0 0.47575-2.5398 7.1434 7.1436 0 0 0-0.46925-2.5398z" color="#000000" display="block" fill="#71abe3" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path d="m5.9266 11.006v4.128a7.1434 7.1436 0 0 0 2.5397 0.47576 7.1434 7.1436 0 0 0 2.5397-0.46926v-4.1345z" color="#000000" display="block" fill="#71abe3" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path d="m5.9266 1.7922a7.1434 7.1436 0 0 0-4.1279 4.1345h4.1279z" color="#000000" display="block" fill="#1f609e" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path d="m8.4663 1.323a7.1434 7.1436 0 0 0-2.5397 0.46926v4.1345h5.0794v-4.128a7.1434 7.1436 0 0 0-2.5397-0.47576z" color="#000000" display="block" fill="#2777c4" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path d="m11.006 1.7987v4.128h4.1344a7.1434 7.1436 0 0 0-4.1344-4.128z" color="#000000" display="block" fill="#4893db" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path d="m1.7986 5.9268a7.1434 7.1436 0 0 0-0.47575 2.5398 7.1434 7.1436 0 0 0 0.46925 2.5398h4.1344v-5.0796z" color="#000000" display="block" fill="#2777c4" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  </g>
+  <path d="m5.9263 5.9265h5.0797v5.0798h-5.0797z" color="#000000" display="block" fill="#4893db" overflow="visible" stroke-width=".89998" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  <path d="m1.7921 11.006a7.1434 7.1436 0 0 0 4.1344 4.128v-4.128z" color="#000000" display="block" fill="#4893db" stroke-width=".90001" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  <path d="m11.006 11.006v4.1345a7.1434 7.1436 0 0 0 4.1279-4.1345z" color="#000000" display="block" fill="#8abae8" stroke-width=".90001" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+ </g>
+ <g transform="matrix(.83993 0 0 .83993 3.1531 3.1523)" color="#000000" style="paint-order:fill markers stroke">
+  <path d="m10.737 6.328a4.41 4.41 0 0 0-0.144 5e-3c-8e-3 -1e-3 -0.015-5e-3 -0.024-5e-3h-4.062a0.176 0.176 0 0 0-0.176 0.175v4.13a4.41 4.41 0 0 0-5e-3 0.104 4.41 4.41 0 0 0 4.41 4.41 4.41 4.41 0 0 0 4.41-4.41 4.41 4.41 0 0 0-4.41-4.41z" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m13.004 10.737a2.267 2.267 0 0 1-2.268 2.268 2.267 2.267 0 0 1-2.267-2.268 2.267 2.267 0 0 1 2.268-2.267 2.267 2.267 0 0 1 2.267 2.267z" fill="#5299dc" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m10.648 9.855v0.794h-0.794v0.265h0.794l0.017 0.793h0.248v-0.793h0.793l0.017-0.265h-0.81v-0.794z" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

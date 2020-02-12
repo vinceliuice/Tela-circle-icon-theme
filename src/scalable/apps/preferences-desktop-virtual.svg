@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 5a27 27 0 0 0-27 27h27v-27z" fill="#638df5" style="paint-order:stroke fill markers"/>
+ <path d="m32 5v27h-27a27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" fill="#4a4a4f" style="paint-order:stroke fill markers"/>
+ <path d="m32 5v27h-27a27 27 0 0 0 0.050781 1h25.949v25.965a27 27 0 0 0 1 0.035156 27 27 0 0 0 1-0.050781v-25.949h25.965a27 27 0 0 0 0.035156-1 27 27 0 0 0-0.050781-1h-25.949v-25.965a27 27 0 0 0-1-0.035156z" fill-rule="evenodd" opacity=".15" stroke-width="1.1206" style="paint-order:fill markers stroke"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <g stroke-width="2">
+  <path d="m11.5 44c-0.44407 0-0.85414 0.12477-1.2148 0.32617a25 25 0 0 0 14.785 11.674h3.4297c1.385 0 2.5-1.115 2.5-2.5v-7c0-1.385-1.115-2.5-2.5-2.5h-17z" opacity=".35"/>
+  <path d="m35.5 44c-1.385 0-2.5 1.115-2.5 2.5v7c0 1.385 1.115 2.5 2.5 2.5h3.457a25 25 0 0 0 14.77-11.668c-0.36332-0.20537-0.77781-0.33203-1.2266-0.33203h-17z" opacity=".35"/>
+  <path d="m48 14v2h3.1797a25 25 0 0 0-1.8711-2h-1.3086zm0 4v2h5.9004a25 25 0 0 0-1.2148-2h-4.6855zm0 4v2h7.6523a25 25 0 0 0-0.77344-2h-6.8789zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8z" opacity=".35"/>
+ </g>
+</svg>

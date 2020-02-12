@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#666" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="21" fill="#fff" stroke-width="1.3125" style="paint-order:markers stroke fill"/>
+ <circle cx="32" cy="32" r="18" fill="#53a6bc" stroke-width="1.2857" style="paint-order:markers stroke fill"/>
+ <path d="m22 36h20v3h-20zm10-14 10 11h-20z" fill="#fff"/>
+</svg>

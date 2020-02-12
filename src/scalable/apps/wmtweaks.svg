@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(.26458)" d="m8.9531 17.998a27 27 0 0 0-3.9531 14.002 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.9434-14.002 27 27 0 0 0-0.001953 0h-46.102z" fill="#f9f9f9" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m8.4666 1.3229a7.1437 7.1437 0 0 0-6.0978 3.439h12.198a7.1437 7.1437 0 0 0-6.0999-3.439z" fill="#666" stroke-width="1.4072" style="paint-order:stroke markers fill"/>
+ <rect x="11.642" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="10.054" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="8.4665" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="4.233" y="6.879" width="8.467" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <circle cx="10.054" cy="7.143" r="1.058" fill="#308fcf" style="paint-order:stroke markers fill"/>
+ <rect x="4.233" y="11.112" width="8.467" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <circle cx="6.615" cy="11.377" r="1.587" opacity=".15" style="paint-order:markers stroke fill"/>
+ <circle cx="6.615" cy="11.377" r="1.058" fill="#308fcf" style="paint-order:markers stroke fill"/>
+</svg>

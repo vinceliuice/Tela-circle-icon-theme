@@ -1,0 +1,5 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#009577" style="paint-order:stroke fill markers"/>
+ <path d="m6.6145 1.5699a7.1437 7.1437 0 0 0-2.1166 0.96376v5.1381l1.0588-1.0588 1.0578 1.0578v-6.101z" fill="#fff"/>
+ <path d="m3.9687 2.9212a7.1437 7.1437 0 0 0-2.6458 5.5453 7.1437 7.1437 0 0 0 2.6458 5.5432z" fill-rule="evenodd" opacity=".2" stroke-width="1.5713" style="paint-order:fill markers stroke"/>
+</svg>

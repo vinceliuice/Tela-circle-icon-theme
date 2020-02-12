@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="e" x2="0" y1="541.8" y2="521.8" gradientTransform="translate(-71.5,-28.75)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ad7200" offset="0"/>
+   <stop stop-color="#ad7200" offset=".252"/>
+   <stop stop-color="#b38d42" offset=".35"/>
+   <stop stop-color="#a3cc6c" offset=".45"/>
+   <stop stop-color="#00d1fa" offset=".55"/>
+   <stop stop-color="#1999ff" offset=".754"/>
+   <stop stop-color="#1799ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32" cy="32" r="27" fill="#c7ced2" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="24" fill="#333639" stroke-width="3.3596" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(1.2727 0 0 1.2727 -488 -637.2)">
+  <g transform="translate(71.5,22.75)">
+   <g stroke-linejoin="bevel">
+    <path d="m324.08 493.05v19.996l8-3.996v-12c-2.334-1.333-5.667-2.668-8-4m26 0-8 4v12h8e-3l7.992 4zm-17 4v12h8v-12z" fill="url(#e)"/>
+    <circle cx="347.08" cy="498.05" r="1" fill="#ffbd36" fill-rule="evenodd" stroke-width=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

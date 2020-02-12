@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" fill="#4d4d4d" stroke-width="4.3927" style="paint-order:markers stroke fill"/>
+ <path transform="scale(.26458)" d="m32.002 5v26.998h26.998a27 27 0 0 0-26.998-26.998zm-27.002 27.004a27 27 0 0 0 27 26.996 27 27 0 0 0 0.001953 0v-26.996h-27.002z" fill="#1f8fd7" stroke-width="4.3927" style="paint-order:markers stroke fill"/>
+ <g fill="#fff" stroke-width="1.0005">
+  <path d="m5.6889 3.7214 0.572 1.2199 1.2792 0.19552-0.9256 0.94848 0.2184 1.3416-1.144-0.6344-1.145 0.6344 0.2184-1.3416-0.9256-0.94848 1.2792-0.19552z"/>
+  <circle cx="11.112" cy="5.8207" r="1.587"/>
+  <path d="m9.5248 9.5248h3.1751v3.1751h-3.1751z"/>
+  <circle cx="5.8207" cy="11.112" r="1.587"/>
+ </g>
+</svg>

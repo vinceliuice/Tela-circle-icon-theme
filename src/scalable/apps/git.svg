@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#c2352a" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0 -280.07)">
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m17.352 9.3242a27 27 0 0 0-1.6582 1.1855l11.309 11.494v15.998h1.998v-14l9.5859 9.4121 1.4141-1.4141-22.648-22.676z" fill-rule="evenodd" opacity=".5" stroke-width="3.7796"/>
+  <g fill="#fff">
+   <circle cx="7.408" cy="286.15" r="1.058" paint-order="markers stroke fill"/>
+   <circle cx="10.319" cy="288.53" r="1.058" paint-order="markers stroke fill"/>
+   <circle cx="7.673" cy="290.92" r="1.058" paint-order="markers stroke fill"/>
+  </g>
+ </g>
+</svg>

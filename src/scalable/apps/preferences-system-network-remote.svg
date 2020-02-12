@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="55.999" height="55.999" ry="28" fill="#86aeff" stroke-width="3.9198" style="paint-order:stroke markers fill"/>
+ <path d="m32 4c-5.9602 0-11.47 1.8495-16 5h32c-4.5305-3.1505-10.04-5-16-5z" opacity=".35" stroke-width="6.8086" style="paint-order:stroke markers fill"/>
+ <rect x="27" y="5.9718" width="10" height="2" ry="1.0019" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(2,0,0,2,0,-4)" fill="#fff" stroke-width=".5">
+  <path d="m16 12a9 9 0 0 0-7.877 4.668c0.129 0.364 0.357 0.677 0.656 0.908a8 8 0 0 1 7.221-4.576 4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-3.65-3.982 8 8 0 0 1 6.87 4.558c0.302-0.234 0.533-0.55 0.66-0.918a9 9 0 0 0-7.88-4.658zm0 2a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3zm0 1a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-0.09-0.588 1 1 0 0 1-0.91 0.588 1 1 0 0 1-1-1 1 1 0 0 1 0.59-0.91 2 2 0 0 0-0.59-0.09z"/>
+  <path d="m8 11v11h7v2h-3v1h8v-1h-3v-2h7v-11h-15zm1 1h14v9h-14z"/>
+ </g>
+</svg>

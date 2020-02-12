@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <rect x="39" y="44" width="8" height="8" rx="1" ry="1" fill="#ff5a5a"/>
+ <rect x="17" y="44" width="8" height="8" rx="1" ry="1" fill="#64c90e"/>
+ <g fill="#fff">
+  <rect x="28" y="22" width="8" height="8" rx="1" ry="1"/>
+  <rect x="39" y="22" width="8" height="8" rx="1" ry="1"/>
+  <rect x="17" y="22" width="8" height="8" rx="1" ry="1"/>
+  <rect x="28" y="33" width="8" height="8" rx="1" ry="1"/>
+  <rect x="39" y="33" width="8" height="8" rx="1" ry="1"/>
+  <rect x="17" y="33" width="8" height="8" rx="1" ry="1"/>
+  <rect x="28" y="11" width="8" height="8" rx="1" ry="1"/>
+  <rect x="39" y="11" width="8" height="8" rx="1" ry="1"/>
+  <rect x="17" y="11" width="8" height="8" rx="1" ry="1"/>
+  <rect x="28" y="44" width="8" height="8" rx="1" ry="1"/>
+ </g>
+</svg>

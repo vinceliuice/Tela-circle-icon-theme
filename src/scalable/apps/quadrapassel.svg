@@ -1,0 +1,25 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+ <g paint-order="markers stroke fill">
+  <g transform="matrix(1.2 0 0 1.2 -1.693 -336.19)" stroke-width=".833">
+   <g fill="#ff3b53">
+    <rect x="7.673" y="283.24" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="9.26" y="283.24" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="10.848" y="283.24" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="10.848" y="284.83" width="1.587" height="1.587" rx=".265" ry=".265"/>
+   </g>
+   <g fill="#1cbedd">
+    <rect x="7.673" y="286.42" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="7.673" y="288" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="9.26" y="288" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="9.26" y="289.59" width="1.587" height="1.587" rx=".265" ry=".265"/>
+   </g>
+   <g fill="#f5ab00">
+    <rect x="7.673" y="289.59" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="6.085" y="289.59" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="6.085" y="288" width="1.587" height="1.587" rx=".265" ry=".265"/>
+    <rect x="4.498" y="289.59" width="1.587" height="1.587" rx=".265" ry=".265"/>
+   </g>
+  </g>
+ </g>
+</svg>

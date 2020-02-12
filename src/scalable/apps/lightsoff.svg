@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(1.1857 0 0 1.1857 -1.5729 -333.66)" stroke-width="4.3113" style="paint-order:markers stroke fill">
+  <path transform="matrix(.22313 0 0 .22313 1.3265 281.39)" d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" fill="#4d4d4d"/>
+  <path transform="matrix(.22313 0 0 .22313 1.3265 281.39)" d="m32 5v27h27a27 27 0 0 0-27-27zm-27 27.004a27 27 0 0 0 27 26.996v-26.996h-27z" fill="#1f8fd7"/>
+ </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <path transform="scale(.26458)" d="m32 5v27h-27a27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" fill="#638df5" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+  <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27h27v-27z" fill="#f9f9f9" opacity=".5" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+  <path transform="scale(.26458)" d="m32 5v27h-27a27 27 0 0 0 0.035156 1h26.965v26a27 27 0 0 0 1-0.035156v-25.965h25.949a27 27 0 0 0 0.050781-1h-26v-26.949a27 27 0 0 0-1-0.050781z" opacity=".15" stroke-width=".43759" style="paint-order:stroke fill markers"/>
+  <path d="m8.4665 2.3812a6.0853 6.0853 0 0 0-6.0853 6.0853h6.0853z" fill="#f9f9f9" stroke-width=".85185" style="paint-order:stroke fill markers"/>
+  <path d="m8.7311 14.816a6.0853 6.0853 0 0 0 6.0853-6.0853h-6.0853z" opacity=".1" stroke-width=".85185" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

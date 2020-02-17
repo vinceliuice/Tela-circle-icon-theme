@@ -1,12 +1,7 @@
 <svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" x1="39.154" x2="59" y1="26" y2="26" gradientTransform="matrix(.55882 0 0 .55882 -3.9706 .97059)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="2" y="5" width="28" height="22" rx="1.077" ry="1.023" fill="#2f3337"/>
- <rect transform="matrix(0 -1 -1 0 0 0)" x="-27" y="-32" width="1" height="32" rx=".5" ry=".5" fill="#c4c7cc"/>
- <rect transform="matrix(0 -1 -1 0 0 0)" x="-25" y="-29" width="19" height="26" rx="0" ry="0" fill="#5294e2"/>
- <path d="m26.83 6a25.932 25.932 0 0 1-8.9205 19h11.09v-19h-2.1698z" fill="url(#a)" opacity=".15"/>
+ <circle cx="16" cy="16" r="14" fill="#f2f2f2" stroke-width=".51852" style="paint-order:stroke fill markers"/>
+ <rect x="7" y="9" width="18" height="13" rx="1" ry="1" fill="#2f3337" stroke-width=".31225"/>
+ <path d="m8 10h16v10h-16z" fill="#5294e2" fill-rule="evenodd" stroke-width=".2952"/>
+ <path d="m5 21.037v0.5c0 0.277 0.23362 0.5 0.52381 0.5h20.952c0.29019 0 0.52381-0.223 0.52381-0.5v-0.5h-21.476z" fill="#fff" stroke-width=".51177" style="paint-order:stroke fill markers"/>
+ <path d="m5 21.037v0.5c0 0.277 0.23362 0.5 0.52381 0.5h20.952c0.29019 0 0.52381-0.223 0.52381-0.5v-0.5h-7.3333c0 0.277-0.23362 0.5-0.52381 0.5h-6.2857c-0.29019 0-0.52381-0.223-0.52381-0.5h-6.8095z" fill="#ccc" stroke-width=".51177" style="paint-order:stroke fill markers"/>
 </svg>

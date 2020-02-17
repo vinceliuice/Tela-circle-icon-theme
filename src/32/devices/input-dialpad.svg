@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="21.27" y1="32" x2="53" y2="32" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857"><rect ry="2" rx="2" y="6" x="11" height="52" width="42" fill="#4f4f4f"/><rect ry="1" rx="1" y="44" x="39" height="8" width="8" fill="#ff5a5a"/><rect ry="1" rx="1" y="44" x="17" height="8" width="8" fill="#64c90e"/><g fill="#fff"><rect ry="1" rx="1" y="22" x="28" height="8" width="8"/><rect ry="1" rx="1" y="22" x="39" height="8" width="8"/><rect ry="1" rx="1" y="22" x="17" height="8" width="8"/><rect ry="1" rx="1" y="33" x="28" height="8" width="8"/><rect ry="1" rx="1" y="33" x="39" height="8" width="8"/><rect ry="1" rx="1" y="33" x="17" height="8" width="8"/><rect ry="1" rx="1" y="11" x="28" height="8" width="8"/><rect ry="1" rx="1" y="11" x="39" height="8" width="8"/><rect ry="1" rx="1" y="11" x="17" height="8" width="8"/><rect ry="1" rx="1" y="44" x="28" height="8" width="8"/></g><path d="M44.838 6a57.223 57.223 0 0 1 .328 5.57A57.223 57.223 0 0 1 21.27 58H51c1.108 0 2-.892 2-2V8c0-1.108-.892-2-2-2z" opacity=".25" fill="url(#b)"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="16.001" cy="16.001" r="14" fill="#4d4d4d" stroke-width=".53846" style="paint-order:stroke markers fill"/>
+ <g fill="#fff" stroke-width=".9285">
+  <rect x="9" y="7" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="14" y="7" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="19" y="7" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="9" y="12" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="14" y="12" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="19" y="12" width="4" height="4" rx=".5" ry=".5"/>
+ </g>
+ <g stroke-width=".9285">
+  <rect x="9" y="22" width="4" height="4" rx=".5" ry=".5" fill="#64c90e"/>
+  <rect x="14" y="22" width="4" height="4" rx=".5" ry=".5" fill="#fff"/>
+  <rect x="19" y="22" width="4" height="4" rx=".5" ry=".5" fill="#ff5a5a"/>
+ </g>
+ <g fill="#fff" stroke-width=".9285">
+  <rect x="9" y="17" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="14" y="17" width="4" height="4" rx=".5" ry=".5"/>
+  <rect x="19" y="17" width="4" height="4" rx=".5" ry=".5"/>
+ </g>
+</svg>

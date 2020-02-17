@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="34.636" y1="60" x2="34.636" y2="34.434" gradientUnits="userSpaceOnUse"/></defs><g transform="matrix(.53571 0 0 .53571 -1.143 -1.143)" stroke-width="1.867"><rect transform="rotate(90)" ry="2.6" rx="2.8" y="-45" x="4" height="26" width="56" fill="#e4e4e4"/><path d="M39 15.6c0-.776-.624-1.6-1.4-1.6H35v-2.6c0-.776-.824-1.4-1.6-1.4h-2.8c-.776 0-1.6.624-1.6 1.4V14h-2.6c-.776 0-1.4.825-1.4 1.6v2.8c0 .776.624 1.6 1.4 1.6H29v2.6c0 .776.824 1.4 1.6 1.4h2.8c.776 0 1.6-.624 1.6-1.4l-.002-2.6h2.599c.776 0 1.401-.824 1.401-1.6v-2.8z" fill="#4f4f4f"/><circle transform="rotate(90)" r="3" cy="-36" cx="51" fill="#ff7f2a"/><circle transform="rotate(90)" r="3" cy="-36" cx="43" fill="#729fcf"/><circle transform="rotate(90)" r="3" cy="-28" cx="51" fill="#8ccb4d"/><circle transform="rotate(90)" r="3" cy="-28" cx="43" fill="#d35f5f"/><path d="M45 34.434A48.407 48.407 0 0 1 24.271 60h18.13C43.84 60 45 58.75 45 57.2z" opacity=".25" fill="url(#b)"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="16" cy="16" r="14" fill="#333" stroke-width=".51852" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(90)" x="5" y="-21" width="22" height="10" rx="1" ry="1" fill="#e4e4e4" stroke-width=".38872"/>
+ <g fill="#999" stroke-width=".33334">
+  <circle transform="rotate(90)" cx="24" cy="-18" r="1"/>
+  <circle transform="rotate(90)" cx="20" cy="-18" r="1"/>
+  <circle transform="rotate(90)" cx="24" cy="-14" r="1"/>
+ </g>
+ <circle transform="rotate(90)" cx="20" cy="-14" r="1" fill="#d35f5f" stroke-width=".33334"/>
+ <path d="m15.5 7c-0.277 0-0.5 0.223-0.5 0.5v1.5h-1.5c-0.277 0-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5h1.5v1.5c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-1.5h1.5c0.277 0 0.5-0.223 0.5-0.5v-1c0-0.277-0.223-0.5-0.5-0.5h-1.5v-1.5c0-0.277-0.223-0.5-0.5-0.5z" fill="#666" stroke-width=".5" style="paint-order:stroke fill markers"/>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="25.652" y1="33" x2="58" y2="33" gradientUnits="userSpaceOnUse"/></defs><g transform="matrix(.54545 0 0 .54545 -2.273 -3.364)" stroke-width="1.833"><rect ry="3" rx="3" y="12" x="6" height="42" width="52" fill="#4f4f4f"/><path d="M45.78 12a50.99 50.99 0 0 1 .05 1.428A50.99 50.99 0 0 1 25.652 54H55c1.662 0 3-1.338 3-3V15c0-1.662-1.338-3-3-3z" opacity=".25" fill="url(#b)"/><circle r="16" cy="43" cx="45" fill="#1ea362"/><path d="M37 47.436V51h3.564l9.001-9.001-3.564-3.564zm15.717-8.578a.945.945 0 0 0 0-1.348l-2.227-2.227a.945.945 0 0 0-1.348 0l-1.862 1.873 3.564 3.564z" fill="#fff"/><path d="M9 12c-1.662 0-3 1.338-3 3v36c0 1.662 1.338 3 3 3h6V12z" opacity=".15" fill="#fff"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="16" cy="16" r="14" fill="#4d4d4d" stroke-width=".51852" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0,2)">
+  <circle cx="22" cy="20" r="9" fill="#1ea362" stroke-width="1.0311"/>
+  <path d="m18 22.107v1.8934h1.8934l4.7819-4.7819-1.8934-1.8934zm8.3499-4.5572a0.50204 0.50204 0 0 0 0-0.71614l-1.1831-1.1831a0.50204 0.50204 0 0 0-0.71614 0l-0.98921 0.99506 1.8934 1.8934z" fill="#fff" stroke-width=".9738"/>
+ </g>
+ <path d="m6 6.2207a14 14 0 0 0-4 9.7793 14 14 0 0 0 4 9.793v-19.572z" fill="#fff" opacity=".15" stroke-width="1.0651"/>
+</svg>

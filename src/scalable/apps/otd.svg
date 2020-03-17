@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="M 15,11.041 A 27,27 0 0 0 5,32 27,27 0 0 0 15,52.951 Z" fill="#ffffff" opacity=".15" stroke-width="1.5601"/>
+ <path d="m27.889 39.707s3.7056 5.05 11.074-0.28316c5.1677-3.7403 10.786 0.97898 10.786 0.97898" fill="none" opacity=".15" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+ <path d="m41.934 21.855c0.65 0.517 0.798 1.406 0.332 1.993l-11.794 14.822c-0.466 0.586-2.467 1.494-2.858 1.183s0.044-2.465 0.51-3.051l11.794-14.822c0.467-0.587 1.366-0.643 2.016-0.125z" fill="#cccccc"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient892" x1="-197.72" x2="-197.72" y1="263.86" y2="273.76" gradientTransform="rotate(-45,-337.55,-145.8)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="scale(.26458)" d="m27.002 8.9844-14 0.00391c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01367h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4h-16.859c-0.04729-0.0032-0.09249-0.01387-0.14062-0.01367h-7.9961c-0.58584-0.94112-0.89075-2.002-2.002-2.002z" fill="#5677fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
+ <path transform="scale(.26458)" d="m27.002 8.9844-14 0.00391c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01367h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4l-24.996-0.01367c-0.58584-0.94112-0.89075-2.002-2.002-2.002z" opacity=".18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
+ <rect x="2.381" y="3.7" width="12.171" height="5.027" ry=".53326" fill="#fff" paint-order="markers stroke fill"/>
+ <rect x="3.704" y="2.64" width="3.175" height=".529" ry=".265" opacity=".25" paint-order="stroke markers fill"/>
+ <path transform="scale(.26458)" d="m34 16-3 4h-25c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4z" fill="#5677fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <path transform="scale(.26458)" d="m32.002 29.559a3.4276 3.4276 0 0 0-3.4277 3.4277h-0.001953a3.4276 5.7148 0 0 0 3.4277 5.7148 3.4276 5.7148 0 0 0 3.4297-5.7148 3.4276 3.4276 0 0 0-3.4277-3.4277zm2.7539 10.609a3.4276 3.4276 0 0 1-2.7539 1.3945 3.4276 3.4276 0 0 1-2.7559-1.3926 7.9998 5.1424 0 0 0-5.2461 4.8203h16.002a7.9998 5.1424 0 0 0-5.2461-4.8223z" fill="#fff" stroke-width="2.1598" style="paint-order:stroke markers fill"/>
+</svg>

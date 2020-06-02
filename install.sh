@@ -16,6 +16,7 @@ usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
+  printf "  %-25s%s\n"   "-c"       "Install circular folder version"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
   printf "  %-25s%s\n"   "-h"       "Show this help"
@@ -42,6 +43,12 @@ install_theme() {
     local -r colorprefix="-$1"
   fi
 
+  if [[ "${circle}" == 'true' ]]; then
+    local -r folderstyle="-circle"
+  else
+    local -r folderstyle="-normal"
+  fi
+
   local -r brightprefix="${2:+-$2}"
 
   local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
@@ -61,10 +68,13 @@ install_theme() {
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
   if [ -z "${brightprefix}" ]; then
-    cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/src/{16,22,24,32,symbolic}                                "${THEME_DIR}"
+    mkdir -p                                                                     "${THEME_DIR}/scalable"
+    cp -r "${SRC_DIR}"/src/scalable/{apps,devices,mimetypes}                     "${THEME_DIR}/scalable"
+    cp -r "${SRC_DIR}"/src/scalable/places${folderstyle}                         "${THEME_DIR}/scalable/places"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [ -n "${colorprefix}" ]; then
-      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/scalable/*.svg   "${THEME_DIR}/scalable/places"
+    if [ -n "${colorprefix}"  ]; then
+      install -m644 "${SRC_DIR}"/src/colors${folderstyle}/color${colorprefix}/*.svg   "${THEME_DIR}/scalable/places"
     fi
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
@@ -99,7 +109,7 @@ install_theme() {
   fi
 
   if [ -n "${colorprefix}" ]; then
-    install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/16/*.svg           "${THEME_DIR}/16/places"
+    install -m644 "${SRC_DIR}"/src/colors-16/color${colorprefix}/*.svg           "${THEME_DIR}/16/places"
   fi
 
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
@@ -114,6 +124,8 @@ install_theme() {
 while [ $# -gt 0 ]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
+  elif [[ "$1" = "-c" ]]; then
+    circle="true"
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
     shift

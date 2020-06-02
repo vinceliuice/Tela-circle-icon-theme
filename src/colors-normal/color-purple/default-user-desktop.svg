@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a" x1="13.229" x2="2.1167" y1="297" y2="280.07" gradientTransform="matrix(4.0495 0 0 3.7796 -2.2858 -1058.6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff9fa7" offset="0"/>
+   <stop stop-color="#966fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="scale(.26458)" d="m6 9c-2.2164 0-4 1.7836-4 4v38c0 2.203 1.7632 3.9747 3.9609 3.9961h52.078c2.1978-0.021373 3.9609-1.7931 3.9609-3.9961v-38c0-2.2164-1.7836-4-4-4h-52z" fill="url(#a)" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m3.9687 13.494c-0.29315 0-0.52916 0.23601-0.52916 0.52916v0.52916h10.054v-0.52916c0-0.29316-0.23601-0.52916-0.52916-0.52916z" fill="#fff" opacity=".35" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+ <g fill="#f6d6df">
+  <rect x="4.4979" y="12.7" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="6.7028" y="12.7" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="8.9076" y="12.7" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="11.112" y="12.7" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+ </g>
+ <rect x="1.587" y="2.645" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="7.144" y="2.645" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="15.081" y="2.645" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="14.023" y="2.645" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="13.229" y="2.645" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m6 9c-2.2157 0-3.9989 1.7825-4 3.998h60c-0.001067-2.2155-1.7843-3.998-4-3.998h-52z" opacity=".25" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+</svg>

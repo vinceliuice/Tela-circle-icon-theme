@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m15.61 8.4665c0-0.12046-3e-3 -0.24017-0.0076-0.35684q-0.12119-2.7297-2.0842-4.695c-1.3948-1.394-3.079-2.0918-5.0518-2.0918-1.9721 0-3.657 0.69777-5.0511 2.0918-1.3948 1.394-2.0925 3.079-2.0925 5.0518 0 1.9721 0.69777 3.657 2.0925 5.0511 1.3054 1.3077 2.8691 2.0024 4.6844 2.085 0.12122 0.0045 0.24244 0.0076 0.36669 0.0076 1.9728 0 3.657-0.69853 5.0518-2.0926 1.394-1.394 2.0918-3.079 2.0918-5.0511z" fill="#24b29d" stroke-width=".23764"/>
+ <g fill="#fff">
+  <rect transform="rotate(.046859)" x="4.5015" y="4.4945" width="2.6436" height="2.6436"/>
+  <rect transform="rotate(.046859)" x="7.4119" y="4.4921" width="2.6436" height="2.6436"/>
+  <rect transform="rotate(.046859)" x="4.5061" y="7.4023" width="2.6436" height="2.6436"/>
+  <rect transform="rotate(.046859)" x="7.4143" y="7.4021" width="5.2872" height="5.2872"/>
+ </g>
+</svg>

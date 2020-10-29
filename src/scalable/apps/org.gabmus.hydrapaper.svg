@@ -1,0 +1,11 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(3 3)">
+  <g stroke-width="3.7796">
+   <circle cx="26" cy="26" r="27" fill="#f35a23" style="paint-order:stroke fill markers"/>
+   <circle cx="29" cy="29" r="27" fill="#8bc34a" style="paint-order:stroke fill markers"/>
+   <circle cx="32" cy="32" r="27" fill="#29b6f6" style="paint-order:stroke fill markers"/>
+  </g>
+  <path d="m32 9a23 23 0 0 0-23 23 23 23 0 0 0 22.838 22.998l23.16-23.16a23 23 0 0 0-22.998-22.838z" opacity=".15" stroke-width="3.2197" style="paint-order:stroke fill markers"/>
+  <path d="m31.84 55 23.16-23.16a23 23 0 0 0-0.16211-2e-3 23 23 0 0 0-23 23 23 23 0 0 0 2e-3 0.16211z" fill="#6fcdf9" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".86" stroke-width="2"/>
+ </g>
+</svg>

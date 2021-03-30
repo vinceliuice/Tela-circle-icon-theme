@@ -1,0 +1,22 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(3.7796 0 0 3.7796 -4.8598e-8 -1058.6)">
+  <rect x="1.3229" y="281.39" width="14.287" height="14.287" ry="7.1436" fill="#8daaff" style="paint-order:stroke markers fill"/>
+  <rect x="3.44" y="291.18" width="10.054" height="1.323" ry=".265" fill="#ffffff" opacity=".35" style="paint-order:markers stroke fill"/>
+  <g fill="#ccdfff">
+   <rect x="4.498" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="6.703" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="8.908" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+   <rect x="11.113" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+  </g>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m32 5c-5.2094 0-10.063 1.4644-14.18 4h28.359c-4.1165-2.5356-8.9703-4-14.18-4z" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+  <rect x="7.1436" y="281.65" width="2.6458" height=".52916" ry=".26508" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="translate(.97692 .981)">
+  <ellipse transform="matrix(.99641 .084662 -.084964 .99638 0 0)" cx="51.929" cy="43.781" rx="12" ry="12.001" fill="#666666"/>
+  <rect x="40.023" y="46.019" width="5" height="4" ry="1" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="m46.023 43.019-3 3v4l3 3z" fill="#ffffff"/>
+  <path d="m53.162 41.447c-0.545-0.428-1.139 0.224-0.684 0.732a8 8 0 0 1 2.545 5.84 8 8 0 0 1-2.554 5.852c-0.446 0.471 0.18 1.148 0.677 0.728a9 9 0 0 0 2.877-6.58 9 9 0 0 0-2.861-6.572z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="m50.798 42.908c-0.587-0.535-1.199 0.225-0.684 0.732a6 6 0 0 1 1.909 4.379 6 6 0 0 1-1.916 4.389c-0.469 0.446 0.173 1.146 0.68 0.728a7 7 0 0 0 2.236-5.117 7 7 0 0 0-2.225-5.111z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="m48.433 44.369c-0.52-0.494-1.155 0.22-0.683 0.73a4 4 0 0 1 1.273 2.92 4 4 0 0 1-1.277 2.926c-0.473 0.43 0.14 1.152 0.68 0.73a5 5 0 0 0 1.597-3.656 5 5 0 0 0-1.59-3.65z" fill="#ffffff" fill-rule="evenodd"/>
+ </g>
+</svg>

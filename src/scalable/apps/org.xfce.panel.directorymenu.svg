@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="30" x2="57" y1="44" y2="44" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="32" x2="32" y1="13" y2="9" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="6.6145" fill="#3578c7" style="paint-order:stroke markers fill"/>
+ <path d="m5.1323 3.7041a5.8208 5.8208 0 0 0-2.4866 4.7624 5.8208 5.8208 0 0 0 5.8208 5.8208 5.8208 5.8208 0 0 0 5.8208-5.8208 5.8208 5.8208 0 0 0-2.4794-4.7624z" fill="#ffffff" style="paint-order:stroke markers fill"/>
+ <path d="m8.4665 1.852a6.6145 6.6145 0 0 0-3.9444 1.3229h7.8976a6.6145 6.6145 0 0 0-3.9532-1.3229z" fill="url(#c)" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="m8.466 4.2332c-0.29211 6.879e-4 -0.38134 0.27599-0.52916 0.52967l-0.30799 0.52812-5.5525 5.167e-4a7.1436 7.1436 0 0 0-0.75343 3.1749 7.1436 7.1436 0 0 0 7.1436 7.1436 7.1436 7.1436 0 0 0 7.1436-7.1436 7.1436 7.1436 0 0 0-1.3999-4.2332h-5.7432z" fill="#5294e2" style="paint-order:stroke markers fill"/>
+ <rect x="9.2599" y="4.762" width="3.969" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/>
+ <path d="m15.61 8.4666-7.1437 7.1437a7.1437 7.1437 0 0 0 7.1437-7.1437z" fill="url(#a)" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="m21 23.004c-1.1077 0-2 0.89233-2 2v3.002h26v-3.002c0-1.1077-0.89233-2-2-2h-22zm1.002 1.9961a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002h-26zm3.002 2a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002h-26zm3.002 1.9961a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002h-26zm3.002 2a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm-3.002 4.0039v4.002c0 1.1077 0.89233 2 2 2h22c1.1077 0 2-0.89233 2-2v-4.002h-26zm3.002 1.9941a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002z" fill="#000000" opacity=".15" style="paint-order:markers stroke fill"/>
+</svg>

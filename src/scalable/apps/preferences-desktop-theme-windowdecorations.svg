@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5" y="4.9892" width="53.999" height="53.999" ry="27" fill="#8daaff" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m32 5.0001c-5.2094 0-10.063 1.4644-14.18 4h28.359c-4.1165-2.5356-8.9704-4-14.18-4z" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="27" y="5.9718" width="10" height="2" ry="1.0019" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect transform="skewX(-.000145)" x="13" y="18.001" width="37.991" height="27.819" ry="1.3092" fill="#ffffff" opacity=".35" stroke-width=".80826"/>
+ <g transform="matrix(.46586 -.055566 .057258 .45209 -209.41 -153.63)" fill="#ffffff" opacity=".75">
+  <ellipse transform="rotate(7.007)" cx="498.35" cy="384.49" rx="3.1958" ry="3.2932"/>
+  <ellipse transform="rotate(7.007)" cx="489.83" cy="384.49" rx="3.1958" ry="3.2932"/>
+  <ellipse transform="rotate(7.007)" cx="481.31" cy="384.49" rx="3.1958" ry="3.2932"/>
+ </g>
+ <path d="m49.691 18.002c0.72527-1e-6 1.3086 0.58332 1.3086 1.3086v25.201c2e-6 0.72527-0.58332 1.3086-1.3086 1.3086h-17.691v-27.818z" fill="#ffffff" opacity=".35" stroke-width=".80826"/>
+</svg>

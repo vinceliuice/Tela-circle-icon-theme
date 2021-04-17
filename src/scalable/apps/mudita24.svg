@@ -1,0 +1,13 @@
+<svg id="Apps-Opera" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#f2f2f2" stroke-width="3.6445"/>
+ <rect x="20" y="14" width="8" height="36" rx="2" ry="2" fill="#eb6447" style="paint-order:stroke fill markers"/>
+ <rect x="36" y="14" width="8" height="36" rx="2" ry="2" fill="#68d65c" style="paint-order:stroke fill markers"/>
+ <rect x="20" y="24" width="8" height="18" rx="0" ry="0" fill="#000000" opacity=".35" style="paint-order:stroke fill markers"/>
+ <rect x="36" y="24" width="8" height="18" rx="0" ry="0" fill="#000000" opacity=".35" style="paint-order:stroke fill markers"/>
+ <rect x="15" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="31" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="47" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="14" y="33" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+ <rect x="30" y="22" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+ <rect x="46" y="29" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+</svg>

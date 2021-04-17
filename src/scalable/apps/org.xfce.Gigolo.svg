@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="30" x2="57" y1="44" y2="44" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="32" x2="32" y1="13" y2="9" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <circle cx="32" cy="32" r="25" fill="#3578c7" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m19.398 14a22 22 0 0 0-9.3985 18 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-9.3712-18z" fill="#ffffff" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m32 6.9998a25 25 0 0 0-14.908 5h29.85a25 25 0 0 0-14.942-5z" fill="url(#c)" opacity=".15" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m31.998 16c-1.1041 0.0026-1.4413 1.0431-2 2.0019l-1.1641 1.9961-20.986 2e-3a27 27 0 0 0-2.8477 12 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-5.2911-16h-21.707z" fill="#5294e2" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <rect x="34.999" y="17.998" width="15.001" height="1.9994" ry="1.0016" opacity=".25" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m59 32-27 27a27 27 0 0 0 27-27z" fill="url(#a)" opacity=".15" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="m34.711 24a5.5 5.4286 0 0 0-5.406 4.4611 6.1875 6.1071 0 0 0-2.1565-0.38965 6.1875 6.1071 0 0 0-6.1875 6.1071 6.1875 6.1071 0 0 0 0.08057 0.94629 4.125 4.0714 0 0 0-1.4556-0.26772 4.125 4.0714 0 0 0-4.125 4.0714 4.125 4.0714 0 0 0 4.125 4.0714h26.125v-0.07421a3.4375 3.3929 0 0 0 2.75-3.3186 3.4375 3.3929 0 0 0-3.4375-3.3929 3.4375 3.3929 0 0 0-0.69018 0.07422 5.5 5.4286 0 0 0 0.0027-0.07422 5.5 5.4286 0 0 0-4.3372-5.304 5.5 5.4286 0 0 0 0.21216-1.4817 5.5 5.4286 0 0 0-5.5-5.4286z" fill="#ffffff"/>
+ <circle cx="25" cy="50.5" r="2.5" fill="#ffffff" opacity=".35"/>
+ <circle cx="32" cy="50.5" r="2.5" fill="#ffffff" opacity=".35"/>
+ <circle cx="39" cy="50.5" r="2.5" fill="#ffffff" opacity=".75"/>
+</svg>

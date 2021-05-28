@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="32" cy="32" r="27" fill="#ececec" style="paint-order:stroke fill markers"/>
+ <path d="m32 9a23 23 0 0 0-15 5.5645v13.436c0 0.554 0.446 1 1 1h28c0.554 0 1-0.446 1-1v-13.434a23 23 0 0 0-15-5.5664z" fill="#2a2a2a" stroke-width=".88889" style="paint-order:stroke fill markers"/>
+ <path d="m32 7c-3.9851 0.00231-7.4589 0.95725-11 2.7852v10.215h22v-10.197c-3.5402-1.8343-7.0128-2.7953-11-2.8027z" color="#000000" fill="#fff" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+ <path d="m16 40-2.7286 3.5099c0.88838 1.4488 1.9416 2.7898 3.1387 3.9961h31.174c1.3409-1.3503 2.501-2.8688 3.4512-4.5176l-2.0353-2.9884z" fill="#333" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m17 41-2.8401 7.0121c4.5438 5.0735 11.029 7.9775 17.84 7.9883 6.9039-0.0077 13.47-2.9881 18.021-8.1797l-3.0209-6.8207z" color="#000000" fill="#fff" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+ <path d="m11.271 20c-2.1261 3.643-3.2544 7.782-3.2715 12 0.00381 3.8682 0.94257 7.6783 2.7363 11.105l3.2637-4.1055h36l3.2578 4.1035c1.7955-3.4261 2.7363-7.2354 2.7422-11.104-0.009925-4.2158-1.1302-8.3547-3.248-12z" fill="#333" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m24.226 47.043s3.7056 5.05 11.074-0.28316c5.1677-3.7403 10.786 0.97898 10.786 0.97898" fill="none" opacity=".15" stroke="#000" stroke-width="1px"/>
+ <path d="m38.271 29.191c0.65 0.517 0.798 1.406 0.332 1.993l-11.794 14.822c-0.466 0.586-2.467 1.494-2.858 1.183s0.044-2.465 0.51-3.051l11.794-14.822c0.467-0.587 1.366-0.643 2.016-0.125z" fill="#666"/>
+</svg>

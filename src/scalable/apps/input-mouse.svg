@@ -1,6 +1,16 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f9f9f9" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.66667 0 0 .66667 10.667 10.667)">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="32" cy="32" r="27" fill="#ececec" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.77778 0 0 .77778 7.1111 7.1111)">
   <path d="m32 4c-0.024 0-0.05 4e-3 -0.074 4e-3h-8e-3c-8.972 0.056-17.918 9.354-17.918 16.332v23.07c0 9.482 6.75 16.594 18 16.594 11.25 2e-3 18-7.108 18-16.59v-22.438c0-7.252-8.988-16.906-18-16.964z" fill="#4f4f4f"/>
   <path d="m32 4-0.073 3e-3h-8e-3c-8.972 0.056-17.919 9.354-17.919 16.332v11.665h36v-11.028c0-7.252-8.988-16.906-18-16.964z" opacity=".1"/>
   <path d="m32 4-0.073 3e-3h-8e-3c-8.972 0.056-17.919 9.354-17.919 16.332v11.665h18v-27.992z" opacity=".1"/>

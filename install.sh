@@ -143,6 +143,7 @@ while [ $# -gt 0 ]; do
     colors=("${COLOR_VARIANTS[@]}")
   elif [[ "$1" = "-c" ]]; then
     circle="true"
+    echo -e "Install circular folder version! ..."
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"
     shift

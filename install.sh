@@ -85,7 +85,7 @@ install_theme() {
     cp -r "${SRC_DIR}"/src/scalable/{apps,devices,mimetypes}                     "${THEME_DIR}/scalable"
     cp -r "${SRC_DIR}"/src/scalable/places${folderstyle}                         "${THEME_DIR}/scalable/places"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [ ${ICON_VERION} == 'elementary' ]; then
+    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
       cp -r "${SRC_DIR}"/links/elementary/*                                      "${THEME_DIR}"
     fi
     if [ -n "${colorprefix}"  ]; then

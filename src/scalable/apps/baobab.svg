@@ -1,6 +1,5 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#999" style="paint-order:stroke fill markers"/>
- <path d="m32 6.0004a26 26 0 0 0-26 26 26 26 0 0 0 1.04 7.2352v-2.0352c0-1.7285 1.3915-3.12 3.12-3.12h1.2736a21.84 21.84 0 0 0 18.486 14.454v5.3056c0 1.7285-1.3915 3.12-3.12 3.12h-2.0069a26 26 0 0 0 7.2068 1.04 26 26 0 0 0 26-26 26 26 0 0 0-26-26z" fill="#cacbcf" stroke-width="1.04" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="27" fill="#cacbcf" style="paint-order:stroke fill markers"/>
  <g transform="translate(-2,2)">
   <path d="m53 13a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
   <path d="m52 13a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
@@ -22,12 +21,13 @@
   <path d="m53 51a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
   <path d="m52 51a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
  </g>
- <g transform="translate(0,-4)">
-  <path d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#6a6a6a"/>
-  <path d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
- </g>
  <circle cx="32" cy="27" r="12" fill="#ff964a" paint-order="markers stroke fill"/>
  <path d="m23.515 18.515a12 12 0 0 0 0 16.97 12 12 0 0 0 16.97 0z" fill="#6fbb55" paint-order="markers stroke fill"/>
  <path d="m32 15a12 12 0 0 0-12 12 12 12 0 0 0 12 12z" fill="#4babbe" paint-order="markers stroke fill"/>
  <circle cx="32" cy="27" r="2" fill="#fff" paint-order="markers stroke fill"/>
+ <path d="m11 34c-2.216 0-4 1.784-4 4v4.0391c2.744 6.8146 8.1463 12.217 14.961 14.961h4.0391c2.216 0 4-1.784 4-4v-7.1055c-7.1464-0.74767-13.109-5.4589-15.662-11.895z" fill="#000000" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <g transform="translate(0,-4)">
+  <path d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#6a6a6a"/>
+  <path d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
+ </g>
 </svg>

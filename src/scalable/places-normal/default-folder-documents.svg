@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
   <linearGradient id="linearGradient892" x1="-197.72" x2="-197.72" y1="263.86" y2="273.76" gradientTransform="rotate(-45,-337.55,-145.8)" gradientUnits="userSpaceOnUse">
    <stop offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="scale(.26458)" d="m27.002 8.9844-14 0.00391c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01367h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4h-16.859c-0.04729-0.0032-0.09249-0.01387-0.14062-0.01367h-7.9961c-0.58584-0.94112-0.89075-2.002-2.002-2.002z" fill="#5294e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
- <path transform="scale(.26458)" d="m27.002 8.9844-14 0.00391c-1.1097 0-1.4927 1.0128-2.002 1.998v0.01367h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4l-24.996-0.01367c-0.58584-0.94112-0.89075-2.002-2.002-2.002z" opacity=".18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8619" style="paint-order:stroke fill markers"/>
- <rect x="2.381" y="3.7" width="12.171" height="5.027" ry=".53326" fill="#fff" paint-order="markers stroke fill"/>
- <rect x="3.704" y="2.64" width="3.175" height=".529" ry=".265" opacity=".25" paint-order="stroke markers fill"/>
- <path transform="scale(.26458)" d="m34 16-3 4h-25c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4z" fill="#5294e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <path d="m6.615 7.67a0.264 0.264 0 0 0-0.265 0.264v4.233c0 0.147 0.118 0.265 0.265 0.265h2.38l1.588-1.587v-2.91a0.264 0.264 0 0 0-0.264-0.265zm0.264 0.529h0.85v0.989h-0.212a0.4 0.4 0 0 0 0.212 0.288v0.361c-0.288-0.059-0.502-0.188-0.641-0.387-0.14-0.2-0.209-0.467-0.209-0.801zm1.136 0h0.85v0.989h-0.212c0.01 0.074 0.029 0.13 0.058 0.17 0.03 0.04 0.08 0.078 0.154 0.118v0.361c-0.288-0.059-0.502-0.188-0.641-0.387-0.14-0.2-0.209-0.467-0.209-0.801z" fill="#fff" paint-order="stroke markers fill"/>
+ <g transform="scale(3.7796)">
+  <path class="ColorScheme-Highlight" transform="scale(.26458)" d="m27.002 8.9844-14 0.00391c-1.1097 0-1.4926 1.0128-2.002 1.998v0.01367h-1c-2.216 0-4 1.784-4 4v5c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4v-1c0-2.216-1.784-4-4-4h-16.859c-0.04729-0.0032-0.09249-0.01387-0.14062-0.01367h-7.9961c-0.58584-0.94113-0.8907-2.002-2.002-2.002z" fill="currentColor"/>
+  <path d="m7.1441 2.3771-3.7041 0.00103c-0.2936 0-0.39492 0.26798-0.52967 0.52864v0.00362h-0.26458c-0.58631 0-1.0583 0.472-1.0583 1.0583v1.3229h6.6145l0.79373-1.0583h6.3499v-0.26458c0-0.58631-0.472-1.0583-1.0583-1.0583l-6.6134-0.00362c-0.155-0.249-0.23566-0.52967-0.52967-0.52967z" fill="#000000" opacity=".2"/>
+  <path transform="scale(.26458)" d="m11.016 13.984c-1.1166 0-2.0156 0.89903-2.0156 2.0156v4h22l3-4h21c0-1.1166-0.89903-2.0156-2.0156-2.0156h-41.969z" fill="#ffffff"/>
+  <rect x="3.704" y="2.64" width="3.175" height=".529" rx=".2645" ry=".2645" opacity=".25"/>
+  <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <path d="m25.001 28a0.99787 0.99788 0 0 0-1.0016 0.99788v16c0 0.55564 0.44602 1.0017 1.0016 1.0017h8.996l6.0024-5.9986v-11a0.99787 0.99788 0 0 0-0.99787-1.0017zm0.99787 1.9995h3.2129v3.7383h-0.80132a1.5119 1.5119 0 0 0 0.80132 1.0886v1.3645c-1.0886-0.22301-1.8975-0.71062-2.4228-1.4628-0.52918-0.75598-0.78998-1.7652-0.78998-3.0277zm4.2939 0h3.2129v3.7383h-0.80132c0.0378 0.27971 0.10962 0.49138 0.21923 0.64258 0.1134 0.15119 0.30238 0.29483 0.58209 0.44603v1.3645c-1.0886-0.22301-1.8975-0.71062-2.4228-1.4628-0.52918-0.75598-0.78998-1.7652-0.78998-3.0277z" fill="#ffffff"/>
 </svg>

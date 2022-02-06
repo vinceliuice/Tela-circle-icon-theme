@@ -4,7 +4,7 @@
    <feGaussianBlur stdDeviation="6.2610835"/>
   </filter>
  </defs>
- <circle transform="rotate(-90)" cx="-32" cy="32" r="27" fill="#f9f9f9" stroke-width="3.3056"/>
+ <circle transform="rotate(-90)" cx="-32" cy="32" r="27" fill="#f0f0f0" stroke-width="3.3056"/>
  <g transform="matrix(.070312 0 0 .085287 51.378 4.0565)">
   <g transform="translate(-61.355 -92.238)">
    <path d="m-216.35 437.3-138.48 3.862s-26.169 11.532-41.931 30.897c-12.874 15.816-21.333 58.115 8.828 97.103 27.007 34.911 82.759 44.69 105.93 35.31 25.876-10.473 70.621-123.58 70.621-123.58z" fill="#ffaa41"/>

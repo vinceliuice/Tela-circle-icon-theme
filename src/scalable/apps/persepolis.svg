@@ -2,7 +2,7 @@
  <g transform="translate(0 -1058.5)">
   <circle cx="32" cy="1090.5" r="26.923" fill="#ef5350"/>
  </g>
- <g transform="matrix(1.3333 0 0 1.3333 -1.3333 -22.667)" fill="#f9f9f9">
+ <g transform="matrix(1.3333 0 0 1.3333 -1.3333 -22.667)" fill="#f0f0f0">
   <g stroke-width=".75">
    <path d="m17 27 17 3.5-17 3.5z"/>
    <path d="m17 37 17 3.5-17 3.5z"/>

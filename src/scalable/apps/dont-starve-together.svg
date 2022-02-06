@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f9f9f9" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="27" fill="#f0f0f0" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.84 0 0 .84 5.12 6.0856)">
   <path d="m47.501 36.954c1.4218 9.935-5.2233 22.371-8.0315 23.025-1.3017 0.2785-15.525-8.1394-17.238-17.9-0.15986-0.9106-4.2493-7.2876-2.3752-5.296 2.6649 2.832-2.7542-5.598-1.5473-8.1928 1.7795-3.8262 11.657-4.387 16.283-4.387 4.2218 0 9.1712-1.918 11.291 0.495 1.7784 2.024 1.0026 7.9554 1.618 12.256z" fill="#fec786"/>
   <g fill="#4f4f4f">

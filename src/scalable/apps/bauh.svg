@@ -9,7 +9,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.68 0 0 .68 2.7093 2.7093)">
   <g fill-rule="evenodd" stroke-width=".015243">
    <path d="m8.4658 15.671 6.6152-3.7386-0.04503-7.0332-6.5701 3.6002z" fill="#d5833f"/>

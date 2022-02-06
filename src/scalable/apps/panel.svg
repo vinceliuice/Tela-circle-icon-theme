@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 3.9453 14.002h46.102a27 27 0 0 0 3.9531-14.002 27 27 0 0 0-27-27z" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <path d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 3.9453 14.002h46.102a27 27 0 0 0 3.9531-14.002 27 27 0 0 0-27-27z" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
  <path d="m8.9453 46.002a27 27 0 0 0 23.055 12.998 27 27 0 0 0 23.047-12.998h-46.102z" fill="#666" stroke-width="4.9746" style="paint-order:stroke markers fill"/>
  <path d="m21 48a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" opacity=".35" style="paint-order:fill markers stroke"/>
  <rect x="29" y="49" width="4" height="4" rx="1" ry="1" opacity=".35" style="paint-order:fill markers stroke"/>

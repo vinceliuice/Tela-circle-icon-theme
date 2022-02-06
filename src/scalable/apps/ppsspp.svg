@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="5" y="5" width="54" height="54" ry="27" fill="#f9f9f9" stroke-width=".9104"/>
+ <rect x="5" y="5" width="54" height="54" ry="27" fill="#f0f0f0" stroke-width=".9104"/>
  <g transform="matrix(1.4999,0,0,1.4999,-580.81,-753.64)" font-size="12.666px" stroke-width=".66672">
   <text x="730.88" y="132.19" font-family="'Droid Sans'" stroke-width=".66672"/>
  </g>

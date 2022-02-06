@@ -5,7 +5,7 @@
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.69229 0 0 .69229 2.5955 2.9766)">
   <path d="m2.57 2.117s-0.982 0-0.982 0.977c0 0-0.053 4.779 0.982 6.838 0.62 1.236 3.927 3.908 3.927 3.908h3.928s3.306-2.672 3.927-3.908c1.035-2.06 0.982-6.838 0.982-6.838 0.139-0.968-0.982-0.977-0.982-0.977 0 1.954-1.964 1.954-1.964 1.954h-7.855s-1.963 0-1.963-1.954z" fill="#5c4e3c"/>
   <g transform="matrix(.34395 0 0 .34223 -43.43 -80.23)">

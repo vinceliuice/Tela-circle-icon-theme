@@ -4,6 +4,6 @@
   <circle cx="24" cy="24" r="15.333" fill="#a663e5" stroke-width="1.0222" style="paint-order:normal"/>
   <path d="m18.084 11.312a14 14 0 0 0-8.084 12.688h6a8 8 0 0 1 4.623-7.2422zm13.916 12.688a8 8 0 0 1-4.623 7.2441l2.5391 5.4453a14 14 0 0 0 8.084-12.689z" fill="#e5baf4" style="paint-order:normal"/>
   <circle cx="24" cy="24" r="5.1111" fill="#313131" stroke-width="1.0222" style="paint-order:normal"/>
-  <circle cx="24" cy="24" r="1.7037" fill="#f9f9f9" stroke-width="1.7037" style="paint-order:normal"/>
+  <circle cx="24" cy="24" r="1.7037" fill="#f0f0f0" stroke-width="1.7037" style="paint-order:normal"/>
  </g>
 </svg>

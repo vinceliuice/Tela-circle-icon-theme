@@ -3,6 +3,9 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#333333;
       }
+      .ColorScheme-Background{
+        color:#ffffff;
+      }
       .ColorScheme-Highlight {
         color:#5294e2;
       }</style>
@@ -18,5 +21,5 @@
   <rect x="3.704" y="2.64" width="3.175" height=".529" rx=".2645" ry=".2645" opacity=".25"/>
   <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
- <path class="ColorScheme-Text" d="m29.057 26 6.9703 12.856h6.973l-6.973-12.856zm-1.1172 1.1401-6.9393 11.472 3.2489 6.6627 6.7579-12.129zm0.95246 13.145-3.5258 5.7155h14.106l3.5282-5.7155z" fill="#ffffff" stroke-width="3.7796"/>
+ <path d="m29.057 26 6.9703 12.856h6.973l-6.973-12.856zm-1.1172 1.1401-6.9393 11.472 3.2489 6.6627 6.7579-12.129zm0.95246 13.145-3.5258 5.7155h14.106l3.5282-5.7155z" class="ColorScheme-Background" fill="currentColor"/>
 </svg>

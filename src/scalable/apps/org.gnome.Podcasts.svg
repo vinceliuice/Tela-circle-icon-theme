@@ -1,8 +1,19 @@
-<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <title>Adwaita Icon Template</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>Adwaita Icon Template</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <circle cx="32" cy="32" r="27" fill="#ed333b" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <path d="m19.143 46-1.1719 9.0312a27 27 0 0 0 14.029 3.9688 27 27 0 0 0 14.029-3.9609l-1.1719-9.0391h-25.715z" enable-background="new" fill="#5e5c64"/>
- <path d="m17.041 12a25 25 0 0 0-10.041 20 25 25 0 0 0 4.3145 14h41.389a25 25 0 0 0 4.2969-14 25 25 0 0 0-10.051-20h-29.908z" enable-background="new" fill="#f6f5f4"/>
+ <g fill="#fff">
+  <circle cx="32" cy="32" r="25" opacity=".25" stroke-width="3.4996" style="paint-order:stroke fill markers"/>
+  <path d="m19.143 46-0.89062 6.8574a25 25 0 0 0 13.748 4.1426 25 25 0 0 0 13.746-4.1406l-0.88867-6.8594h-25.715z" opacity=".35"/>
+  <path d="m17.041 12a25 25 0 0 0-7.4746 9h44.865a25 25 0 0 0-7.4824-9zm-9.0293 27a25 25 0 0 0 3.3027 7h41.389a25 25 0 0 0 3.291-7h-47.982z"/>
+ </g>
  <path d="m9.584 21a25 25 0 0 0-2.584 11 25 25 0 0 0 1.0137 7h47.969a25 25 0 0 0 1.0176-7 25 25 0 0 0-2.5684-11h-44.848z" enable-background="new" fill="#424048"/>
  <circle cx="19" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>
  <circle cx="45.818" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>

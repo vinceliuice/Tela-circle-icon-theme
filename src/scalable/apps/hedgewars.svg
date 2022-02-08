@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="30.583" r="27" fill="#f2f2f2" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="30.583" r="27" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.73077 0 0 .73077 8.6154 8.6154)">
   <rect transform="matrix(0,-1,-1,0,0,0)" x="-54" y="-54" width="14" height="14" rx="7" ry="7" fill="#df82d9"/>
   <path d="m8 38 8.4298-12.768 6.8422 11.851z" fill="#72acef"/>

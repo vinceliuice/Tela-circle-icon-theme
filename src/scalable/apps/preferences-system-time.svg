@@ -1,9 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <circle cx="8.4665" cy="288.54" r="7.1436" fill="#fff" stroke="#000" stroke-opacity=".098039" stroke-width=".52916"/>
-  <circle cx="8.4665" cy="288.54" r="7.1436" fill="#fff"/>
-  <path d="M8.202 284.3h.529v4.233h-.529z" fill="#333"/>
-  <path d="M8.654 288.534l4.116 4.116-.188.187-4.116-4.116z" fill="#c08589"/>
-  <ellipse cx="8.467" cy="288.53" rx=".265" ry=".265" fill="#333"/>
- </g>
+ <circle cx="8.4665" cy="8.47" r="7.1436" fill="#ececec" style="paint-order:stroke markers fill"/>
+ <path d="m8.202 4.23h0.529v4.233h-0.529z" fill="#333" style="paint-order:stroke markers fill"/>
+ <path d="m8.654 8.464 4.116 4.116-0.188 0.187-4.116-4.116z" fill="#c08589" style="paint-order:stroke markers fill"/>
+ <circle cx="8.467" cy="8.46" r=".265" fill="#333" style="paint-order:stroke markers fill"/>
 </svg>

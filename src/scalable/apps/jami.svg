@@ -5,7 +5,7 @@
    <stop stop-color="#2B3B6A" offset="1"/>
   </linearGradient>
  </defs>
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.087961 0 0 .088897 3.3516 3.3245)">
   <polygon class="st0" points="54.9 55.8 62 55.6 58.4 62.2" fill="url(#SVGID_1_)"/>
   <g fill="#222856">

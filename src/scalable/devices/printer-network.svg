@@ -1,16 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#ececec" style="paint-order:stroke fill markers"/>
- <path d="m12.82 48a25 25 0 0 0 1.875 2h34.605a25 25 0 0 0 1.9004-2h-38.381z" fill="#666" stroke-width=".92593" style="paint-order:stroke fill markers"/>
- <path d="m14.691 50a25 25 0 0 0 17.309 7 25 25 0 0 0 17.342-7h-34.65z" fill="#4f4f4f" stroke-width=".92593" style="paint-order:stroke fill markers"/>
- <path d="m32 9a23 23 0 0 0-22 16.311v6.6895h44v-6.6406a23 23 0 0 0-22-16.359z" fill="#fff" stroke-width="1.2042"/>
- <path d="m12 17.053a25 25 0 0 0-2 3.0859v11.861h2v-14.947zm40 0.03125v14.916h2v-11.828a25 25 0 0 0-2-3.0879z" fill="#666" stroke-width="1.2042"/>
- <path d="m8.3398 24a25 25 0 0 0-1.3398 8 25 25 0 0 0 5.8203 16h38.381a25 25 0 0 0 5.7988-16 25 25 0 0 0-1.3477-8h-47.313z" fill="#4f4f4f"/>
- <path d="m9.5781 37a23 23 0 0 0 2.248 6h40.371a23 23 0 0 0 2.2344-6h-44.854z" opacity=".2"/>
- <path d="m17.721 50a23 23 0 0 0 14.279 5 23 23 0 0 0 14.314-5h-28.594z" opacity=".15" stroke-width=".92593" style="paint-order:stroke fill markers"/>
- <g>
-  <rect x="11" y="26" width="2" height="9" opacity=".35" style="paint-order:stroke fill markers"/>
-  <rect x="15" y="26" width="2" height="9" opacity=".35" style="paint-order:stroke fill markers"/>
-  <rect x="19" y="26" width="2" height="9" opacity=".35" style="paint-order:stroke fill markers"/>
-  <rect x="23" y="26" width="2" height="9" opacity=".35" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="27" fill="#ccc" style="paint-order:stroke fill markers"/>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path d="m18 30.8v-14.7c0-1.1634 0.9366-2.1 2.1-2.1h23.8c1.1634 0 2.1 0.9366 2.1 2.1v14.7z" fill="#fff" stroke-width="6.0246" style="paint-order:stroke fill markers"/>
+  <rect x="12" y="22" width="40" height="20" rx="4.2857" ry="4.2857" fill="#4d4d4d" stroke-width="7.2743" style="paint-order:stroke fill markers"/>
+  <path d="m18 33v14.9c0 1.1634 0.9366 2.1 2.1 2.1h23.8c1.1634 0 2.1-0.9366 2.1-2.1v-14.9z" fill="#fff" stroke-width="6.0246" style="paint-order:stroke fill markers"/>
+  <rect x="15" y="25" width="2" height="2" rx="2" ry="2" fill="#f0f0f0" stroke-width="6.6667" style="paint-order:stroke fill markers"/>
+  <rect x="15" y="30" width="34" height="3" rx="1.4783" ry="1.5" fill="#fff" opacity=".35" stroke-width="2.5973" style="paint-order:stroke fill markers"/>
+ </g>
+ <circle cx="47" cy="47" r="14" fill="#33a7ff" stroke-width=".9992"/>
+ <g transform="matrix(.625 0 0 .625 27 27.812)" fill="#fff">
+  <path d="m32.062 20.5c-6.068 0-11.531 2.156-16.062 5.5l16.062 17.5 15.938-17.563c-4.513-3.307-9.915-5.437-15.938-5.437z" opacity=".5"/>
+  <path d="m32 25.1a21.632 21.632 0 0 0-12.925 4.262l12.993 14.138 12.857-14.138a21.632 21.632 0 0 0-12.925-4.262z" opacity=".5"/>
+  <path d="m32 29.7c-3.626 0-6.99 1.189-9.693 3.196l9.744 10.605 9.643-10.604a16.222 16.222 0 0 0-9.694-3.196z"/>
+  <path d="m32.002 29.695c-3.626 0-6.992 1.19-9.695 3.199l0.325 0.353a16.213 16.213 0 0 1 9.37-2.977 16.2 16.2 0 0 1 9.369 2.979l0.322-0.355a16.213 16.213 0 0 0-9.691-3.199z" opacity=".1"/>
  </g>
 </svg>

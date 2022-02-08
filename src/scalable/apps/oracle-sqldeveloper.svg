@@ -1,5 +1,5 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f9f9f9" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="27" fill="#f0f0f0" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
  <g transform="matrix(2.3259 0 0 2.3259 12.923 13.538)">
   <path d="m1.3229 10.319v3.1749a6.879 1.5875 0 0 0 6.879 1.5875 6.879 1.5875 0 0 0 6.879-1.5875v-3.1749z" fill="#e6e6e6"/>
   <ellipse cx="8.2019" cy="10.319" rx="6.879" ry="1.5875" fill="#cccccc"/>

@@ -3,6 +3,9 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#333333;
       }
+      .ColorScheme-Background{
+        color:#ffffff;
+      }
       .ColorScheme-Highlight {
         color:#5294e2;
       }</style>
@@ -18,10 +21,10 @@
   <rect x="3.704" y="2.64" width="3.175" height=".529" rx=".2645" ry=".2645" opacity=".25"/>
   <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
- <g transform="matrix(3.402 0 0 3.4014 3.1969 -949.72)" fill="#ffffff">
-  <path d="m8.467 287.48a2.646 2.646 0 0 0-2.646 2.646 2.646 2.646 0 0 0 2.646 2.646 2.646 2.646 0 0 0 2.645-2.646 2.646 2.646 0 0 0-2.645-2.646zm0 0.265a2.381 2.381 0 0 1 2.38 2.38 2.381 2.381 0 0 1-2.38 2.382 2.381 2.381 0 0 1-2.382-2.381 2.381 2.381 0 0 1 2.382-2.381z" paint-order="stroke markers fill"/>
-  <rect x="8.202" y="288.53" width=".529" height="1.587" ry=".265" paint-order="stroke markers fill"/>
-  <rect transform="rotate(135)" x="199.03" y="-213.04" width=".265" height="1.852" ry=".132" paint-order="stroke markers fill"/>
-  <circle cx="8.467" cy="290.12" r=".529" paint-order="stroke markers fill"/>
+ <g transform="matrix(3.402 0 0 3.4014 3.1969 -949.72)" class="ColorScheme-Background" fill="currentColor">
+  <path d="m8.467 287.48a2.646 2.646 0 0 0-2.646 2.646 2.646 2.646 0 0 0 2.646 2.646 2.646 2.646 0 0 0 2.645-2.646 2.646 2.646 0 0 0-2.645-2.646zm0 0.265a2.381 2.381 0 0 1 2.38 2.38 2.381 2.381 0 0 1-2.38 2.382 2.381 2.381 0 0 1-2.382-2.381 2.381 2.381 0 0 1 2.382-2.381z"/>
+  <rect x="8.202" y="288.53" width=".529" height="1.587" ry=".265"/>
+  <rect transform="rotate(135)" x="199.03" y="-213.04" width=".265" height="1.852" ry=".132"/>
+  <circle cx="8.467" cy="290.12" r=".529"/>
  </g>
 </svg>

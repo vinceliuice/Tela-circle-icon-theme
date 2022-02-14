@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
- <path transform="scale(.26458)" d="m21 17v4h-4v1h4v4h1v-4h4v-1h-4v-4h-1z" fill="#999" stroke-width="2.3148" style="paint-order:stroke markers fill"/>
- <circle cx="10.848" cy="10.848" r="3.1749" fill="#ea7078" style="paint-order:stroke fill markers"/>
- <rect x="9.5248" y="10.319" width="2.6458" height=".26458" ry="0" fill="#fff" stroke-width=".64559" style="paint-order:stroke markers fill"/>
- <rect x="9.5248" y="11.112" width="2.6458" height=".26458" ry="0" fill="#fff" stroke-width=".64559" style="paint-order:stroke markers fill"/>
- <rect x="4.4978" y="10.583" width="2.3813" height=".26458" ry="0" fill="#999" stroke-width=".61246" style="paint-order:stroke markers fill"/>
- <path d="m11.861 4.7436-0.74834 0.74834-0.74834-0.74834-0.18708 0.18708 0.74834 0.74834-0.74834 0.74834 0.18708 0.18708 0.74834-0.74834 0.74834 0.74834 0.18708-0.18708-0.74834-0.74834 0.74834-0.74834z" fill="#999" stroke-width=".61246" style="paint-order:stroke markers fill"/>
-</svg>
+<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><circle cx="8.466" cy="8.466" r="7.144" fill="#f0f0f0" style="paint-order:stroke fill markers"/><path transform="scale(.26458)" d="M21 17v4h-4v1h4v4h1v-4h4v-1h-4v-4h-1z" fill="#999" style="paint-order:stroke markers fill"/><circle cx="10.848" cy="10.848" r="3.175" fill="#ea7078" style="paint-order:stroke fill markers"/><rect x="9.525" y="10.319" width="2.646" height=".265" ry="0" fill="#fff" style="paint-order:stroke markers fill"/><rect x="9.525" y="11.112" width="2.646" height=".265" ry="0" fill="#fff" style="paint-order:stroke markers fill"/><rect x="4.498" y="10.583" width="2.381" height=".265" ry="0" fill="#999" style="paint-order:stroke markers fill"/><path d="m11.861 4.744-.748.748-.749-.748-.187.187.749.748-.749.748.187.187.749-.748.748.748.187-.187-.748-.748.748-.748z" fill="#999" style="paint-order:stroke markers fill"/></svg>

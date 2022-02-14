@@ -1,15 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#e6e6e6" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="22" fill="#f0f0f0" stroke-width="3.0797" style="paint-order:stroke fill markers"/>
- <circle cx="21.5" cy="28.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
- <circle cx="21.5" cy="38.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
- <g fill="#b3b3b3">
-  <rect x="11" y="17" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="21" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="44" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="48" width="42" height="1" opacity=".5"/>
-  <rect transform="rotate(90)" x="15" y="-15" width="36" height="1" opacity=".5"/>
-  <rect transform="rotate(90)" x="15" y="-50" width="36" height="1" opacity=".5"/>
- </g>
- <path d="m7 51h48v-32zm41-7h-18l18-12z" fill="#64cf00" opacity=".7" stroke-width="1.1606"/>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#e6e6e6" style="paint-order:stroke fill markers"/><circle cx="32" cy="32" r="22" fill="#f0f0f0" style="paint-order:stroke fill markers"/><circle cx="21.5" cy="28.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/><circle cx="21.5" cy="38.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/><g fill="#b3b3b3"><path opacity=".5" d="M11 17h42v1H11zM11 21h42v1H11zM11 44h42v1H11zM11 48h42v1H11z"/><path opacity=".5" d="M15 15v36h-1V15zM50 15v36h-1V15z"/></g><path d="M7 51h48V19zm41-7H30l18-12z" fill="#64cf00" opacity=".7"/></svg>

@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#4f4f4f" stroke-width="1.0016"/>
- <g transform="matrix(.97297 0 0 .97297 .37838 1.3514)">
-  <path d="m32.5 31.5h-18.5c0-10.217 8.2827-18.5 18.5-18.5z" fill="#1ac63a"/>
-  <path d="m32.5 31.5h-18.5c0 10.217 8.2827 18.5 18.5 18.5z" fill="#2186ff"/>
-  <path d="m32.5 31.5h18.5c0 10.217-8.2827 18.5-18.5 18.5z" fill="#f54646"/>
-  <path d="m32.5 31.5h18.5c0-10.217-8.2827-18.5-18.5-18.5z" fill="#ffeb23"/>
-  <circle cx="32.5" cy="31.5" r="15.417" fill="#6b6b6b" stroke-width=".99462"/>
-  <circle cx="32.5" cy="31.5" r="8.2222" fill="#3f3f3f" stroke-width=".96732"/>
- </g>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#4f4f4f"/><g transform="translate(.378 1.351) scale(.97297)"><path d="M32.5 31.5H14C14 21.283 22.283 13 32.5 13z" fill="#1ac63a"/><path d="M32.5 31.5H14C14 41.717 22.283 50 32.5 50z" fill="#2186ff"/><path d="M32.5 31.5H51C51 41.717 42.717 50 32.5 50z" fill="#f54646"/><path d="M32.5 31.5H51C51 21.283 42.717 13 32.5 13z" fill="#ffeb23"/><circle cx="32.5" cy="31.5" r="15.417" fill="#6b6b6b"/><circle cx="32.5" cy="31.5" r="8.222" fill="#3f3f3f"/></g></svg>

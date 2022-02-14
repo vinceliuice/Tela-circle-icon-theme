@@ -1,12 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f0f0f0" stroke-width="1.9662"/>
- <g transform="matrix(.88889 0 0 .88889 3.5556 3.5555)" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m14 41 9-4 9-7v-21l-18 14z" fill="#b8a98b" stroke-width="1.7481"/>
-  <path d="m14 23 18 14v18l-18-14z" fill="#dfcca8" stroke-width="1.7481"/>
-  <path d="m50 41-9-4-9-7v-21l18 14z" fill="#ddc79b" stroke-width="1.7481"/>
-  <path d="m50 23-18 14v18l18-14z" fill="#bbac8e" stroke-width="1.7481"/>
-  <path d="m32 9-18 14 18 14 18-14zm0 3 15 11-15 11-15-11z" fill="#ece1cd" stroke-width="1.7269"/>
-  <path d="m14 39.713v1.2871l18 14v-1.2871z" opacity=".1" stroke-width="1.7481"/>
-  <path d="m50 39.713-18 14v1.2871l18-14z" opacity=".1" stroke-width="1.7481"/>
- </g>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#f0f0f0"/><g stroke-linecap="round" stroke-linejoin="round"><path d="m16 40 8-3.556 8-6.222V11.556L16 24z" fill="#b8a98b"/><path d="m16 24 16 12.444v16L16 40z" fill="#dfcca8"/><path d="m48 40-8-3.556-8-6.222V11.556L48 24z" fill="#ddc79b"/><path d="M48 24 32 36.444v16L48 40z" fill="#bbac8e"/><path d="M32 11.556 16 24l16 12.444L48 24zm0 2.666L45.333 24 32 33.778 18.667 24z" fill="#ece1cd"/><path d="M16 38.856V40l16 12.445V51.3zM48 38.856 32 51.3v1.145L48 40z" opacity=".1"/></g></svg>

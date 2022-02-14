@@ -1,12 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#c7ced2" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="24" fill="#333639" stroke-width="3.3596" style="paint-order:stroke fill markers"/>
- <g transform="matrix(1.2727 0 0 1.2727 -488 -637.2)">
-  <g transform="translate(71.5,22.75)">
-   <g stroke-linejoin="bevel">
-    <path d="m324.08 493.05v19.996l8-3.996v-12c-2.334-1.333-5.667-2.668-8-4m26 0-8 4v12h8e-3l7.992 4zm-17 4v12h8v-12z" fill="#08bffc"/>
-    <circle cx="347.08" cy="498.05" r="1" fill="#ffffff" fill-rule="evenodd" stroke-width=".2"/>
-   </g>
-  </g>
- </g>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#c7ced2" style="paint-order:stroke fill markers"/><circle cx="32" cy="32" r="24" fill="#333639" style="paint-order:stroke fill markers"/><g stroke-linejoin="bevel" transform="translate(-397.002 -608.246) scale(1.2727)"><path d="M324.08 493.05v19.996l8-3.996v-12c-2.334-1.333-5.667-2.668-8-4m26 0-8 4v12h.008l7.992 4zm-17 4v12h8v-12z" fill="#08bffc"/><circle cx="347.08" cy="498.05" r="1" fill="#fff" fill-rule="evenodd"/></g></svg>

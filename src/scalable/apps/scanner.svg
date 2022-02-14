@@ -1,6 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="23" fill="#fff" stroke-width="3.2197" style="paint-order:stroke fill markers"/>
- <path d="m11.32 22a23 23 0 0 0-2.3203 10 23 23 0 0 0 23 23 23 23 0 0 0 23-23 23 23 0 0 0-2.3086-10h-41.371z" fill="#388dd4" opacity=".25" stroke-width="1.3333"/>
- <path d="m7.3652 21a27 27 0 0 0-1.1523 3h51.545a27 27 0 0 0-1.1367-3h-49.256z" fill="#388dd4"/>
-</svg>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#4f4f4f" style="paint-order:stroke fill markers"/><circle cx="32" cy="32" r="23" fill="#fff" style="paint-order:stroke fill markers"/><path d="M11.32 22A23 23 0 0 0 9 32a23 23 0 0 0 23 23 23 23 0 0 0 23-23 23 23 0 0 0-2.309-10h-41.37z" fill="#388dd4" opacity=".25"/><path d="M7.365 21a27 27 0 0 0-1.152 3h51.545a27 27 0 0 0-1.137-3H7.365z" fill="#388dd4"/></svg>

@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#62acf3"/>
- <g fill="#fff">
-  <circle cx="8.4665" cy="8.4665" r="6.3499" opacity=".15" stroke-width=".88889"/>
-  <circle cx="12.171" cy="5.82" r=".794" style="paint-order:stroke markers fill"/>
-  <path transform="scale(.26458)" d="m38 28.99-20.479 20.477c-0.23801-0.3348-0.2004-0.79135 0.087891-1.084l5.8926-5.8965-8.5039-8.4961-5.7109 5.7168a24 24 0 0 0 22.713 16.293 24 24 0 0 0 20.863-12.148l-14.863-14.861z" stroke-width="3.3596"/>
- </g>
-</svg>
+<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><circle cx="8.466" cy="8.466" r="7.144" fill="#62acf3"/><g fill="#fff"><circle cx="8.466" cy="8.466" r="6.35" opacity=".15"/><circle cx="12.171" cy="5.82" r=".794" style="paint-order:stroke markers fill"/><path d="m10.054 7.67-5.418 5.418a.224.224 0 0 1 .023-.287l1.559-1.56-2.25-2.248-1.51 1.513a6.35 6.35 0 0 0 6.008 4.31 6.35 6.35 0 0 0 5.52-3.214L10.054 7.67z"/></g></svg>

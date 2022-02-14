@@ -1,9 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f35a23" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="24" fill="#8bc34a" stroke-width="3.3596" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.91304 0 0 .91304 2.7826 2.7826)">
-  <circle cx="32" cy="32" r="23" fill="#239bd1" stroke-width="3.2197" style="paint-order:stroke fill markers"/>
-  <path d="M 32.001,9 A 23.001,23.001 0 0 0 9,32.001 23.001,23.001 0 0 0 31.838993,55 L 55,31.838993 A 23.001,23.001 0 0 0 32.001,9 Z" fill="#28b2f0" stroke-width="3.2198" style="paint-order:stroke fill markers"/>
-  <path d="m31.84 55 23.16-23.16a23 23 0 0 0-0.16211-2e-3 23 23 0 0 0-23 23 23 23 0 0 0 2e-3 0.16211z" fill="#6fcdf9" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".86" stroke-width="2"/>
- </g>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#f35a23" style="paint-order:stroke fill markers"/><circle cx="32" cy="32" r="24" fill="#8bc34a" style="paint-order:stroke fill markers"/><g transform="translate(2.783 2.783) scale(.91304)"><circle cx="32" cy="32" r="23" fill="#239bd1" style="paint-order:stroke fill markers"/><path d="M32.001 9A23.001 23.001 0 0 0 9 32.001 23.001 23.001 0 0 0 31.839 55L55 31.839A23.001 23.001 0 0 0 32.001 9Z" fill="#28b2f0" style="paint-order:stroke fill markers"/><path d="M31.84 55 55 31.84a23 23 0 0 0-.162-.002 23 23 0 0 0-23 23 23 23 0 0 0 .002.162z" fill="#6fcdf9"/></g></svg>

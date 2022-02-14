@@ -21,9 +21,9 @@
   <rect x="3.704" y="2.64" width="3.175" height=".529" rx=".2645" ry=".2645" opacity=".25"/>
   <path transform="scale(.26458)" d="m62 40-16 16h12c2.216 0 4-1.784 4-4z" fill="url(#linearGradient892)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
- <g transform="translate(-3,-2)" class="ColorScheme-Background" fill="currentColor">
-  <circle class="ColorScheme-Text" cx="25" cy="38" r="3"/>
-  <circle class="ColorScheme-Text" cx="35" cy="38" r="3"/>
-  <circle class="ColorScheme-Text" cx="45" cy="38" r="3"/>
+ <g class="ColorScheme-Background" transform="translate(-3,-2)" fill="currentColor">
+  <circle cx="25" cy="38" r="3"/>
+  <circle cx="35" cy="38" r="3"/>
+  <circle cx="45" cy="38" r="3"/>
  </g>
 </svg>

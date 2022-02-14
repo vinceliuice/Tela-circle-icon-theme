@@ -1,13 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" x1="49.571" x2="51.714" y1="52.714" y2="54.857" gradientTransform="matrix(2.3333,0,0,2.3333,-68.667,-72.001)" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
- </g>
- <path class="ColorScheme-Text" d="m8.4665 4.7624c-0.29289 0-0.52916 0.23627-0.52916 0.52916v2.9558l-0.96735-0.96735c-0.20729-0.20729-0.54096-0.20729-0.74828 0-0.20732 0.20729-0.20729 0.54096 0 0.74828l1.8655 1.8655c0.050012 0.05144 0.11022 0.092194 0.17776 0.11989 0.1282 0.0532 0.27252 0.05435 0.401 0.0021 0.0011-4.59e-4 2e-3 -0.0016 0.0031-0.0021 0.06483-0.026728 0.12385-0.065976 0.17259-0.11472l1.8707-1.8707c0.20729-0.20729 0.20729-0.54096 0-0.74828-0.20729-0.20729-0.54096-0.20729-0.74828 0l-0.96841 0.96735v-2.9558c0-0.29289-0.23627-0.52916-0.52916-0.52916zm-3.1749 5.2916v1.0583c0 0.5863 0.47201 1.0583 1.0583 1.0583h4.2332c0.5863 0 1.0583-0.47201 1.0583-1.0583v-1.0583h-1.0583v1.0583h-4.2332v-1.0583z" fill="#ccc" stroke-width=".52916"/>
-</svg>
+<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="a" x1="49.571" x2="51.714" y1="52.714" y2="54.857" gradientTransform="translate(-68.667 -72.001) scale(2.3333)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient></defs><g transform="scale(.26458)"><rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/><path d="M56 46 42 60h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" style="paint-order:stroke fill markers"/></g><path class="ColorScheme-Text" d="M8.466 4.762a.528.528 0 0 0-.529.53v2.955L6.97 7.28a.528.528 0 1 0-.748.748l1.865 1.866a.528.528 0 0 0 .579.122l.003-.002a.53.53 0 0 0 .173-.115l1.87-1.87a.528.528 0 1 0-.748-.749l-.968.967V5.292a.528.528 0 0 0-.53-.53zm-3.174 5.292v1.058c0 .587.472 1.059 1.058 1.059h4.233c.586 0 1.058-.472 1.058-1.059v-1.058h-1.058v1.058H6.35v-1.058z" fill="#ccc"/></svg>

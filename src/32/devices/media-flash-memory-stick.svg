@@ -1,10 +1,1 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="16" cy="16" r="14" fill="#f2f2f2" stroke-width="1.9598" style="paint-order:stroke fill markers"/>
- <path d="m10 5h12v8h-12z" fill="#b7b7b7" stroke-width=".34641"/>
- <path d="m6 12v6c0 5.54 4.46 10 10 10s10-4.46 10-10v-6h-20z" fill="#333" style="paint-order:stroke fill markers"/>
- <rect x="10" y="21" width="12" height="1" rx=".54545" ry=".5" opacity=".4" stroke-width=".30619"/>
- <rect x="11" y="23" width="10" height="1" rx=".55556" ry=".5" opacity=".4" stroke-width=".32275"/>
- <rect x="12" y="25" width="8" height="1" rx=".57143" ry=".5" opacity=".4" stroke-width=".35355"/>
- <path d="m12 7h3v2h-3z" opacity=".35" stroke-width=".31623"/>
- <path d="m17 7h3v2h-3z" opacity=".35" stroke-width=".31623"/>
-</svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16" r="14" fill="#f2f2f2" style="paint-order:stroke fill markers"/><path d="M10 5h12v8H10z" fill="#b7b7b7"/><path d="M6 12v6c0 5.54 4.46 10 10 10s10-4.46 10-10v-6H6z" fill="#333" style="paint-order:stroke fill markers"/><rect x="10" y="21" width="12" height="1" rx=".545" ry=".5" opacity=".4"/><rect x="11" y="23" width="10" height="1" rx=".556" ry=".5" opacity=".4"/><rect x="12" y="25" width="8" height="1" rx=".571" ry=".5" opacity=".4"/><path d="M12 7h3v2h-3zM17 7h3v2h-3z" opacity=".35"/></svg>

@@ -8,45 +8,38 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange"
-                         "pink" "purple" "red" "yellow" "manjaro" "ubuntu")
+readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "nord")
 readonly BRIGHT_VARIANTS=("" "dark")
 
-if command -v lsb_release &> /dev/null; then
-  Distributor_ID=$(lsb_release -i)
-  if [[ "${Distributor_ID}" == "Distributor ID:	elementary" || "${Distributor_ID}" == "Distributor ID:	Elementary" ]]; then
-    ICON_VERION="elementary"
-  else
-    ICON_VERION="normal"
-  fi
-  echo -e "Install $ICON_VERION version! ..."
-else
-  ICON_VERION="normal"
-fi
-
 usage() {
-  printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
-  printf "\n%s\n" "OPTIONS:"
-  printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
-  printf "  %-25s%s\n"   "-c"       "Install circular folder version"
-  printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
-  printf "  %-25s%s\n"   "-h"       "Show this help"
-  printf "\n%s\n" "COLOR VARIANTS:"
-  printf "  %-25s%s\n"   "standard" "Standard color folder version"
-  printf "  %-25s%s\n"   "black"    "Black color folder version"
-  printf "  %-25s%s\n"   "blue"     "Blue color folder version"
-  printf "  %-25s%s\n"   "brown"    "Brown color folder version"
-  printf "  %-25s%s\n"   "green"    "Green color folder version"
-  printf "  %-25s%s\n"   "grey"     "Grey color folder version"
-  printf "  %-25s%s\n"   "orange"   "Orange color folder version"
-  printf "  %-25s%s\n"   "pink"     "Pink color folder version"
-  printf "  %-25s%s\n"   "purple"   "Purple color folder version"
-  printf "  %-25s%s\n"   "red"      "Red color folder version"
-  printf "  %-25s%s\n"   "yellow"   "Yellow color folder version"
-  printf "  %-25s%s\n"   "manjaro"  "Manjaro default color folder version"
-  printf "  %-25s%s\n"   "ubuntu"   "Ubuntu default color folder version"
-  printf "\n  %s\n" "By default, only the standard one is selected."
+cat << EOF
+Usage: $0 [OPTION] | [COLOR VARIANTS]...
+
+OPTIONS:
+  -a                       Install all color folder versions
+  -c                       Install circular folder version
+  -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
+  -n NAME                  Specify theme name (Default: Tela)
+  -h                       Show this help
+
+COLOR VARIANTS:
+  standard                 Standard color folder version
+  black                    Black color folder version
+  blue                     Blue color folder version
+  brown                    Brown color folder version
+  green                    Green color folder version
+  grey                     Grey color folder version
+  orange                   Orange color folder version
+  pink                     Pink color folder version
+  purple                   Purple color folder version
+  red                      Red color folder version
+  yellow                   Yellow color folder version
+  manjaro                  Manjaro default color folder version
+  ubuntu                   Ubuntu default color folder version
+  nord                     nord color folder version
+
+  By default, only the standard one is selected.
+EOF
 }
 
 install_theme() {
@@ -85,9 +78,7 @@ install_theme() {
     cp -r "${SRC_DIR}"/src/scalable/{apps,devices,mimetypes}                     "${THEME_DIR}/scalable"
     cp -r "${SRC_DIR}"/src/scalable/places${folderstyle}                         "${THEME_DIR}/scalable/places"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
-      cp -r "${SRC_DIR}"/elementary/*                                            "${THEME_DIR}"
-    fi
+
     if [ -n "${colorprefix}"  ]; then
       install -m644 "${SRC_DIR}"/src/colors${folderstyle}/color${colorprefix}/*.svg   "${THEME_DIR}/scalable/places"
     fi

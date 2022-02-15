@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg43"
+   sodipodi:docname="emulationstation.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="44.180051"
+     inkscape:cy="26.092961"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="SVGID_1_"
+       x1="69.033"
+       x2="64.443"
+       y1="454.92"
+       y2="449.57"
+       gradientTransform="translate(-8.0854,-395.13)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2B3B6A"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#2B3B6A"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="8.4665"
+     cy="8.4665"
+     r="7.1436"
+     style="paint-order:stroke fill markers"
+     id="circle9"
+     fill="#f9f9f9" />
+  <path
+     style="opacity:1;fill:#004b80;fill-opacity:1;stroke-width:0.99490225"
+     d="M 16.828125 17.898438 C 16.450977 17.898438 15.990915 17.956331 15.740234 18.212891 L 12.599609 21.425781 C 12.367421 21.663401 12.175781 21.995894 12.175781 22.328125 L 12.175781 44.441406 C 12.175781 45.042352 12.658816 45.525391 13.259766 45.525391 L 29.578125 45.525391 L 34.257812 45.525391 L 47.007812 45.525391 C 47.38496 45.525391 47.845022 45.467485 48.095703 45.210938 L 51.236328 41.998047 C 51.468518 41.760425 51.660156 41.427933 51.660156 41.095703 L 51.660156 18.982422 C 51.660156 18.381473 51.177121 17.898437 50.576172 17.898438 L 34.257812 17.898438 L 29.578125 17.898438 L 16.828125 17.898438 z "
+     id="rect1146"
+     transform="scale(0.26457812)" />
+  <path
+     id="path1169"
+     d="m 4.7549778,6.3378072 -0.927368,0.927368 V 10.6037 l 0.927368,0.927368 H 7.9080292 L 6.7951875,10.418226 H 4.7549778 V 9.4908586 H 6.7951875 V 8.3780169 H 4.7549778 V 7.4506488 H 6.7951875 L 7.9080292,6.3378072 Z m 4.0804193,0 -0.9273679,0.927368 V 8.5634905 L 8.8353971,9.4908586 H 11.061081 V 10.418226 H 7.9080292 l 1.1128415,1.112842 H 11.061081 L 11.988448,10.6037 V 9.3053849 L 11.061081,8.3780169 H 8.8353971 V 7.4506488 h 2.0402099 l 1.112841,-1.1128416 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.18547361"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:0.18547361"
+     d="m 5.2841341,5.808651 -0.927368,0.927368 v 3.338525 l 0.927368,0.927368 H 8.4371855 L 7.3243438,9.88907 H 5.2841341 V 8.9617024 H 7.3243438 V 7.8488607 H 5.2841341 V 6.9214926 H 7.3243438 L 8.4371855,5.808651 Z m 4.0804193,0 -0.9273679,0.927368 V 8.0343343 L 9.3645534,8.9617024 H 11.590237 V 9.88907 H 8.4371855 l 1.1128415,1.112842 h 2.04021 l 0.927367,-0.927368 V 8.7762287 L 11.590237,7.8488607 H 9.3645534 V 6.9214926 H 11.404763 L 12.517604,5.808651 Z"
+     id="path8" />
+</svg>

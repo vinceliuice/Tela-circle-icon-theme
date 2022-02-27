@@ -19,7 +19,7 @@ OPTIONS:
   -a                       Install all color folder versions
   -c                       Install circular folder version
   -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
-  -n NAME                  Specify theme name (Default: Tela)
+  -n NAME                  Specify theme name (Default: Tela-circle)
   -h                       Show this help
 
 COLOR VARIANTS:

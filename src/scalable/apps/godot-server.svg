@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg10"
-   sodipodi:docname="godot.svg"
+   sodipodi:docname="godot-server.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -49,6 +49,7 @@
     <path
        d="m 26.667,32.57 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z m 14.666,0 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        fill="#4d4d4d"
-       id="path6" />
+       id="path6"
+       style="fill:#d95e59;fill-opacity:1" />
   </g>
 </svg>

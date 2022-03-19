@@ -1,8 +1,8 @@
-# Tela circle Icon Theme
+# Tela Circle Icon Theme
 
-A flat colorful Design icon theme
+A flat, colorful icon theme
 
-## Installation
+[Discord](https://discord.gg/d9hWvFd7hS)
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
@@ -30,7 +30,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | `manjaro`         | Manjaro default color folder version  |
 | `ubuntu`          | Ubuntu default color folder version   |
 
-By default, only **the `standard` one** is selected.
+By default, only **the `standard` variant** is selected.
 
 ## Preview
 

@@ -1,8 +1,8 @@
 # Tela Circle Icon Theme
 
-A flat, colorful icon theme
+A flat, colorful icon theme [Discord](https://discord.gg/d9hWvFd7hS)
 
-[Discord](https://discord.gg/d9hWvFd7hS)
+## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 

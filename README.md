@@ -1,8 +1,11 @@
 # Tela Circle Icon Theme
+![Discord](https://img.shields.io/discord/953321802124378202?logo=discord)
+![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
+![Twitter Follow](https://img.shields.io/twitter/follow/Molasses_Lover)
 
 A flat, colorful icon theme
 
-[Discord](https://discord.gg/d9hWvFd7hS)
+## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 

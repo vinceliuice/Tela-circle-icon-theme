@@ -31,13 +31,6 @@
      inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
-  <circle
-     cx="8.467"
-     cy="8.4918995"
-     r="7.1440001"
-     fill="#333333"
-     style="fill:#d47938;fill-opacity:1;paint-order:markers stroke fill"
-     id="circle2" />
   <ellipse
      fill="#333333"
      style="fill:#d47938;fill-opacity:1;stroke-width:0.457572;paint-order:markers stroke fill"
@@ -56,6 +49,17 @@
      cy="6.0999937"
      cx="12.321816"
      transform="rotate(-2.3933785)" />
+  <rect
+     x="1.322969"
+     y="1.322969"
+     width="14.288062"
+     height="14.288062"
+     rx="7.144031"
+     ry="7.144031"
+     fill="#3584e4"
+     stroke-width="0.255145"
+     id="rect2"
+     style="fill:#d47938;fill-opacity:1" />
   <circle
      cx="4.9915061"
      cy="10.755904"

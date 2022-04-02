@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-16.933,5e-4)">
-  <path transform="rotate(-90,16.933,0)" d="m8.466 1.323v7.144h-7.142a7.144 7.144 0 0 0 7.143 7.143 7.144 7.144 0 0 0 7.144-7.144 7.144 7.144 0 0 0-7.144-7.143z" fill="#638df5" style="paint-order:stroke fill markers"/>
-  <path transform="rotate(-90,16.933,0)" d="m8.466 1.323a7.144 7.144 0 0 0-7.143 7.144h7.143z" fill="#f0f0f0" opacity=".5" style="paint-order:stroke fill markers"/>
-  <path transform="rotate(-90,16.933,0)" d="m8.466 1.323v7.144h-7.142a7.144 7.144 0 0 0 0.01 0.264h7.133v6.88a7.144 7.144 0 0 0 0.265-0.01v-6.871h6.866a7.144 7.144 0 0 0 0.013-0.264h-6.88v-7.13a7.144 7.144 0 0 0-0.264-0.014z" opacity=".15" style="paint-order:stroke fill markers"/>
-  <path transform="rotate(-90,16.933,0)" d="m8.466 2.381a6.085 6.085 0 0 0-6.085 6.086h6.085z" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
- </g>
-</svg>
+<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><path transform="rotate(-90 8.467 8.467)" d="M8.466 1.323v7.144H1.324a7.144 7.144 0 0 0 7.143 7.143 7.144 7.144 0 0 0 7.144-7.144 7.144 7.144 0 0 0-7.144-7.143z" fill="#638df5" style="paint-order:stroke fill markers"/><path transform="rotate(-90 8.467 8.467)" d="M8.466 1.323a7.144 7.144 0 0 0-7.143 7.144h7.143z" fill="#f0f0f0" opacity=".5" style="paint-order:stroke fill markers"/><path transform="rotate(-90 8.467 8.467)" d="M8.466 1.323v7.144H1.324a7.144 7.144 0 0 0 .01.264h7.133v6.88a7.144 7.144 0 0 0 .265-.01V8.73h6.866a7.144 7.144 0 0 0 .013-.264h-6.88v-7.13a7.144 7.144 0 0 0-.264-.014z" opacity=".15" style="paint-order:stroke fill markers"/><path transform="rotate(-90 8.467 8.467)" d="M8.466 2.381a6.085 6.085 0 0 0-6.085 6.086h6.085z" fill="#f0f0f0" style="paint-order:stroke fill markers"/></svg>

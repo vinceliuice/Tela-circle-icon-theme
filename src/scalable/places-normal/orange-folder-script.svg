@@ -5,7 +5,7 @@
    viewBox="0 0 16.933 16.933"
    version="1.1"
    id="svg21"
-   sodipodi:docname="purple-folder-script.svg"
+   sodipodi:docname="orange-folder-script.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -51,7 +51,7 @@
   <path
      transform="scale(.26458)"
      d="m27.002 8.984-14 .004c-1.11 0-1.493 1.013-2.002 1.998V11h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4V15c0-2.216-1.784-4-4-4H37.141c-.047-.003-.092-.014-.14-.014h-7.997c-.586-.94-.89-2.002-2.002-2.002z"
-     fill="#7e57c2"
+     fill="#ff9800"
      style="paint-order:stroke fill markers"
      id="path9" />
   <path
@@ -81,7 +81,7 @@
   <path
      transform="scale(.26458)"
      d="m34 16-3 4H6c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4V20c0-2.216-1.784-4-4-4z"
-     fill="#7e57c2"
+     fill="#ff9800"
      style="paint-order:stroke fill markers"
      id="path17" />
   <path
@@ -92,7 +92,7 @@
      style="paint-order:stroke fill markers"
      id="path19" />
   <path
-     d="M 6.4879583,7.1436094 6.0852969,7.3306662 7.7502605,8.9956298 6.0852969,10.660593 6.4879583,10.84765 7.6237393,9.7118693 7.6216491,9.7097791 8.3378621,8.9935661 7.6237128,8.2794169 Z m 1.7139636,3.7040936 v 0.529209 h 2.6457551 v -0.529209 z"
+     d="m 6.4879579,7.1436094 -0.402661,0.1870567 1.664963,1.6649636 -1.664963,1.6649633 0.402661,0.187057 1.135781,-1.1357808 -0.0021,-0.00209 0.716213,-0.716213 -0.714149,-0.7141492 z m 1.713964,3.7040936 v 0.529209 h 2.6457541 v -0.529209 z"
      class="ColorScheme-Background"
      fill="currentColor"
      id="path22"

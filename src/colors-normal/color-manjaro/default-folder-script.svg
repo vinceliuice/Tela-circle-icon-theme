@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg23"
-   sodipodi:docname="default-folder.svg"
+   sodipodi:docname="default-folder-script.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -65,7 +65,7 @@
   <path
      transform="scale(.26458)"
      d="m27.002 8.9844-14 0.0039062c-1.1097 0-1.4927 1.0128-2.002 1.998v0.013672h-1c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h44c2.216 0 4-1.784 4-4v-28c0-2.216-1.784-4-4-4h-16.859c-0.047294-0.003154-0.092488-0.013872-0.14062-0.013672h-7.9961c-0.58584-0.94112-0.89075-2.002-2.002-2.002z"
-     fill="#fb8441"
+     fill="#16a085"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.8619"
@@ -101,7 +101,7 @@
   <path
      transform="scale(.26458)"
      d="m34 16-3 4h-25c-2.216 0-4 1.784-4 4v28c0 2.216 1.784 4 4 4h52c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4z"
-     fill="#fb8441"
+     fill="#16a085"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="2"

@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg23"
-   sodipodi:docname="default-folder-script (copy).svg"
+   sodipodi:docname="default-folder.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -117,4 +117,10 @@
      stroke-width="2"
      style="paint-order:stroke fill markers"
      id="path21" />
+  <path
+     d="M 6.4879584,7.1436094 6.0852969,7.3306662 7.7502606,8.9956298 6.0852969,10.660593 6.4879584,10.84765 7.6237393,9.7118693 7.6216491,9.7097791 8.3378618,8.9935661 7.6237129,8.2794169 Z m 1.7139634,3.7040936 v 0.529209 h 2.6457552 v -0.529209 z"
+     class="ColorScheme-Background"
+     fill="currentColor"
+     id="path22"
+     style="color:#ffffff;stroke-width:0.264578" />
 </svg>

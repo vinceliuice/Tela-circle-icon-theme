@@ -4,8 +4,30 @@
    height="64"
    version="1.1"
    id="svg17"
+   sodipodi:docname="gradle.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="7.9107571"
+     inkscape:cx="72.053786"
+     inkscape:cy="45.128424"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13" />
   <defs
      id="defs7">
     <linearGradient
@@ -34,7 +56,7 @@
        height="56"
        ry="5"
        fill="#3d58a5"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#2d6e7b;fill-opacity:1"
        id="rect9" />
     <path
        d="M56 46 42 60h9c2.77 0 5-2.23 5-5z"

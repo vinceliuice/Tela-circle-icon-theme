@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "nord")
+readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "dracula" "nord")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 if command -v lsb_release &> /dev/null; then
@@ -48,6 +48,7 @@ COLOR VARIANTS:
   yellow                   Yellow color folder version
   manjaro                  Manjaro default color folder version
   ubuntu                   Ubuntu default color folder version
+  dracula                  Dracula default color folder version
   nord                     nord color folder version
 
   By default, only the standard one is selected.

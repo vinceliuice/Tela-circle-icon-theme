@@ -1,5 +1,4 @@
 # Tela Circle Icon Theme
-![Discord](https://img.shields.io/discord/953321802124378202?logo=discord)
 ![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Molasses_Lover)
 
@@ -32,6 +31,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | `yellow`          | yellow color folder version           |
 | `manjaro`         | Manjaro default color folder version  |
 | `ubuntu`          | Ubuntu default color folder version   |
+| `dracula`         | Dracula default color folder version   |
 
 By default, only **the `standard` variant** is selected.
 

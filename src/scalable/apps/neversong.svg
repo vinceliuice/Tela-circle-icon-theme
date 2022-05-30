@@ -1,1 +1,8 @@
-<svg width="64" height="64" viewBox="0 0 16.934 16.934" xmlns="http://www.w3.org/2000/svg"><ellipse fill="#333" style="fill:#d47938;fill-opacity:1;stroke-width:.457572;paint-order:markers stroke fill" ry="1.974" rx="5.775" cy="4.75" cx="9.193" transform="matrix(.97674 -.2144 .25781 .9662 0 0)"/><ellipse fill="#333" style="fill:#d47938;fill-opacity:1;stroke-width:.407498;paint-order:markers stroke fill" ry="1.968" rx="4.306" cy="6.1" cx="12.322" transform="rotate(-2.393)"/><rect x="1.323" y="1.323" width="14.288" height="14.288" rx="7.144" ry="7.144" fill="#3584e4" style="fill:#d47938;fill-opacity:1"/><circle cx="4.992" cy="10.756" r="1.023" fill="#333" style="fill:#000;fill-opacity:1;stroke-width:.143141;paint-order:markers stroke fill"/><circle cx="11.942" cy="10.756" r="1.023" fill="#333" style="fill:#000;fill-opacity:1;stroke-width:.143141;paint-order:markers stroke fill"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.934 16.934" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.323" y="1.323" width="14.288" height="14.288" rx="7.144" ry="7.144" fill="#ffdcc2"/>
+ <ellipse transform="matrix(.97675 -.2144 .25781 .9662 0 0)" cx="8.6426" cy="5.9425" rx="4.4256" ry="1.5128" fill="#d47938" stroke-width=".35066" style="paint-order:markers stroke fill"/>
+ <ellipse transform="rotate(-2.393)" cx="11.517" cy="6.6449" rx="3.2999" ry="1.5082" fill="#d47938" stroke-width=".31228" style="paint-order:markers stroke fill"/>
+ <rect x="2.9105" y="2.9105" width="11.113" height="11.113" rx="5.5565" ry="5.5565" fill="#d47938" stroke-width=".77778"/>
+ <circle cx="5.804" cy="9.9608" r=".79378" fill="#000000" stroke-width=".11107" style="paint-order:markers stroke fill"/>
+ <circle cx="11.13" cy="9.9608" r=".79378" fill="#000000" stroke-width=".11107" style="paint-order:markers stroke fill"/>
+</svg>

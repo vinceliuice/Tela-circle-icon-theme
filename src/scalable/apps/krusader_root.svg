@@ -1,1 +1,19 @@
-<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a"><stop offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="b" x1="32" x2="32" y1="13" y2="9" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse" xlink:href="#a"/><linearGradient id="c" x1="30" x2="57" y1="44" y2="44" gradientUnits="userSpaceOnUse" xlink:href="#a"/></defs><circle cx="8.466" cy="8.466" r="6.614" fill="#b64141" style="paint-order:stroke markers fill"/><path transform="scale(.26458)" d="M19.398 14A22 22 0 0 0 10 32a22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-9.371-18z" fill="#fff" style="paint-order:stroke markers fill"/><path d="M8.466 1.852a6.614 6.614 0 0 0-3.944 1.323h7.898a6.614 6.614 0 0 0-3.954-1.323z" fill="url(#b)" opacity=".15" style="paint-order:stroke markers fill"/><path d="M8.466 4.233c-.292 0-.381.276-.53.53l-.307.528H2.076a7.144 7.144 0 0 0-.753 3.175 7.144 7.144 0 0 0 7.144 7.144 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-1.4-4.233H8.467z" fill="#f55" style="paint-order:stroke markers fill"/><rect x="9.26" y="4.762" width="3.969" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/><path transform="scale(.26458)" d="M59 32 32 59a27 27 0 0 0 27-27z" fill="url(#c)" opacity=".15" style="paint-order:stroke markers fill"/><path d="M8.229 10.939c-.304.225-.769.959-.914.672-.072-.041-.188-3.331-.03-3.458.139-.11 3.154 1.733 3.011 1.925-.018.197-.704.259-1.056.39l.76 1.258-.944.524z" fill="#d14444" stroke="#f0f0f0" stroke-linejoin="round" stroke-width=".529" style="paint-order:stroke fill markers"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="32" x2="32" y1="13" y2="9" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a-9" x1="42" x2="44" y1="51" y2="55" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.466" cy="8.466" r="6.614" fill="#b64141" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="M19.398 14A22 22 0 0 0 10 32a22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-9.371-18z" fill="#fff" style="paint-order:stroke markers fill"/>
+ <path d="m8.466 1.852a6.614 6.614 0 0 0-3.944 1.323h7.898a6.614 6.614 0 0 0-3.954-1.323z" fill="url(#b)" opacity=".15" style="paint-order:stroke markers fill"/>
+ <path d="M8.466 4.233c-.292 0-.381.276-.53.53l-.307.528H2.076a7.144 7.144 0 0 0-.753 3.175 7.144 7.144 0 0 0 7.144 7.144 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-1.4-4.233H8.467z" fill="#f55" style="paint-order:stroke markers fill"/>
+ <rect x="9.26" y="4.762" width="3.969" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/>
+ <path d="M8.229 10.939c-.304.225-.769.959-.914.672-.072-.041-.188-3.331-.03-3.458.139-.11 3.154 1.733 3.011 1.925-.018.197-.704.259-1.056.39l.76 1.258-.944.524z" fill="#d14444" stroke="#f0f0f0" stroke-linejoin="round" stroke-width=".529" style="paint-order:stroke fill markers"/>
+ <path d="m15.164 11.613-7.327 4.2306a7.4082 7.4082 0 0 0 0.6297 0.03175 7.4082 7.4082 0 0 0 6.6973-4.2624z" fill="url(#a-9)" opacity=".1" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+</svg>

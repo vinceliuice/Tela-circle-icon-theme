@@ -10,8 +10,8 @@
         color:#5294e2;
       }</style>
  </defs>
- <rect class="ColorScheme-Highlight" x="2.0004" y="9" width="59.999" height="46" rx="3.9994" ry="3.9994" fill="currentColor"/>
- <rect x="2" y="9" width="60" height="46" rx="4" ry="4" fill="#ffffff" opacity=".15" style="mix-blend-mode:overlay"/>
+ <rect class="ColorScheme-Highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="currentColor"/>
+ <rect id="highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="#ffffff" opacity=".25"/>
  <path class="ColorScheme-Background" d="m15.003 50.998c-1.1077 0-1.9999 0.89231-1.9999 1.9999v2.0019h37.999v-2.0019c0-1.1077-0.89231-1.9999-1.9999-1.9999z" fill="currentColor" opacity=".35"/>
  <path class="ColorScheme-Highlight" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="currentColor"/>
  <path class="ColorScheme-Background" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="currentColor" opacity=".65"/>

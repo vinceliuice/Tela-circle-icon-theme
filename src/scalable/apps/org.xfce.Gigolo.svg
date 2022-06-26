@@ -1,1 +1,18 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="30" x2="57" y1="44" y2="44" gradientUnits="userSpaceOnUse" xlink:href="#a"/><linearGradient id="a"><stop offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="b" x1="32" x2="32" y1="13" y2="9" gradientUnits="userSpaceOnUse" xlink:href="#a"/></defs><circle cx="32" cy="32" r="25" fill="#3578c7" style="paint-order:stroke markers fill"/><path d="M19.398 14a22 22 0 0 0-9.399 18 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-9.37-18z" fill="#fff" style="paint-order:stroke markers fill"/><path d="M32 7a25 25 0 0 0-14.908 5h29.85A25 25 0 0 0 32 7z" fill="url(#b)" opacity=".15" style="paint-order:stroke markers fill"/><path d="M31.998 16c-1.104.003-1.441 1.043-2 2.002l-1.164 1.996L7.848 20A27 27 0 0 0 5 32a27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-5.29-16H32.001z" fill="#5294e2" style="paint-order:stroke markers fill"/><rect x="34.999" y="17.998" width="15.001" height="1.999" ry="1.002" opacity=".25" style="paint-order:stroke markers fill"/><path d="M59 32 32 59a27 27 0 0 0 27-27z" fill="url(#c)" opacity=".15" style="paint-order:stroke markers fill"/><path d="M34.711 24a5.5 5.429 0 0 0-5.406 4.461 6.188 6.107 0 0 0-2.156-.39 6.188 6.107 0 0 0-6.188 6.108 6.188 6.107 0 0 0 .08.946 4.125 4.071 0 0 0-1.455-.268 4.125 4.071 0 0 0-4.125 4.072 4.125 4.071 0 0 0 4.125 4.07h26.125v-.073a3.438 3.393 0 0 0 2.75-3.319 3.438 3.393 0 0 0-3.438-3.393 3.438 3.393 0 0 0-.69.074 5.5 5.429 0 0 0 .003-.074 5.5 5.429 0 0 0-4.337-5.304 5.5 5.429 0 0 0 .212-1.481 5.5 5.429 0 0 0-5.5-5.43z" fill="#fff"/><circle cx="25" cy="50.5" r="2.5" fill="#fff" opacity=".35"/><circle cx="32" cy="50.5" r="2.5" fill="#fff" opacity=".35"/><circle cx="39" cy="50.5" r="2.5" fill="#fff" opacity=".75"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a-9" x1="42" x2="44" y1="51" y2="55" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="31.998" cy="31.998" r="27.999" fill="#5294e2" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <path d="m57.314 43.893-27.693 15.99a28 28 0 0 0 2.38 0.12 28 28 0 0 0 25.313-16.11z" fill="url(#a-9)" opacity=".1" style="paint-order:stroke fill markers"/>
+ <path id="shadow" d="m31.998 3.9981a27.999 27.999 0 0 0-25.293 16.004h19.094l1.2031-2c0.56694-0.95246 1.6732-2.0019 2.9961-2.0019h24.977a27.999 27.999 0 0 0-22.977-12.002z" fill="#000000" opacity=".2" stroke-width="3.7796"/>
+ <path d="m16.17 14a24 24 0 0 0-4.8749 6.002h14.504l1.2031-2c0.56694-0.95246 1.6732-2.0019 2.9961-2.0019h19.82a24 24 0 0 0-1.9766-2z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ <path d="m32 4a28 28 0 0 0-18.467 7.0002h36.951a28 28 0 0 0-18.484-7.0002z" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="34.999" y="17.998" width="15.001" height="1.9994" ry="1.0016" opacity=".25" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <path d="M34.711 24a5.5 5.429 0 0 0-5.406 4.461 6.188 6.107 0 0 0-2.156-.39 6.188 6.107 0 0 0-6.188 6.108 6.188 6.107 0 0 0 .08.946 4.125 4.071 0 0 0-1.455-.268 4.125 4.071 0 0 0-4.125 4.072 4.125 4.071 0 0 0 4.125 4.07h26.125v-.073a3.438 3.393 0 0 0 2.75-3.319 3.438 3.393 0 0 0-3.438-3.393 3.438 3.393 0 0 0-.69.074 5.5 5.429 0 0 0 .003-.074 5.5 5.429 0 0 0-4.337-5.304 5.5 5.429 0 0 0 .212-1.481 5.5 5.429 0 0 0-5.5-5.43z" fill="#fff"/>
+ <circle cx="25" cy="50.5" r="2.5" fill="#fff" opacity=".35"/>
+ <circle cx="32" cy="50.5" r="2.5" fill="#fff" opacity=".35"/>
+ <circle cx="39" cy="50.5" r="2.5" fill="#fff" opacity=".75"/>
+</svg>

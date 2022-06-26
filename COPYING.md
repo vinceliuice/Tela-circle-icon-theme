@@ -1,11 +1,9 @@
 ## Licenses
 The [Tela-Circle](https://github.com/MolassesLover/Tela-Circle) icon theme
-is licensed under the third version of the [GNU General Public License]
-(https://www.gnu.org/licenses/gpl-3.0.en.html). However, certain vector
+is licensed under the third version of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). However, certain vector
 artworks found within some `.svg` files were licensed under the second version 
 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0.html). Said
-artworks primarily include those from [Google's Material icon library]
-(https://fonts.google.com/icons?selected=Material+Icons).
+artworks primarily include those from [Google's Material icon library](https://fonts.google.com/icons?selected=Material+Icons).
 
 ### GNU GENERAL PUBLIC LICENSE
 

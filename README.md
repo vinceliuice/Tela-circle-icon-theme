@@ -2,6 +2,8 @@
 
 My fork [Tela-circle-icons-theme](https://github.com/vinceliuice/Tela-circle-icon-theme). Please, try original icon pack.
 
+###Suggestions for adding icons to the Issue tab are welcome.
+
 ## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**

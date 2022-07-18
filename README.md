@@ -39,4 +39,4 @@ By default, only **the `standard` variant** is selected.
 
 ![Tela-light](preview-light.png)
 
-### Check out @tfk004 on [Telegram](https://t.me/tfk004) and stared original repository
+### Check out @tfk004 on [Telegram](https://t.me/tfk004) and star original repository

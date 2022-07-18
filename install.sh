@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "ubuntu" "dracula" "nord")
+readonly COLOR_VARIANTS=("standard" "black" "blue" "brown" "green" "grey" "orange" "pink" "purple" "red" "yellow" "manjaro" "arch" "ubuntu" "dracula" "nord")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 if command -v lsb_release &> /dev/null; then
@@ -47,6 +47,7 @@ COLOR VARIANTS:
   red                      Red color folder version
   yellow                   Yellow color folder version
   manjaro                  Manjaro default color folder version
+  arch                     Archlinux default color folder version
   ubuntu                   Ubuntu default color folder version
   dracula                  Dracula default color folder version
   nord                     nord color folder version
@@ -54,7 +55,6 @@ COLOR VARIANTS:
   By default, only the standard one is selected.
 EOF
 }
-
 install_theme() {
   case "$1" in
     standard)
@@ -93,6 +93,9 @@ install_theme() {
     manjaro)
       local -r theme_color='#16a085'
       ;;
+    arch)
+      local -r theme_color='#0F94D2'
+    ;;
     ubuntu)
       local -r theme_color='#fb8441'
       ;;

@@ -1,8 +1,6 @@
 # Tela Circle Icon Theme
-![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
-![Twitter Follow](https://img.shields.io/twitter/follow/Molasses_Lover)
 
-A flat, colorful icon theme
+My fork [Tela-circle-icons-theme](https://github.com/vinceliuice/Tela-circle-icon-theme). Please, try original icon pack.
 
 ## Installation
 
@@ -40,3 +38,5 @@ By default, only **the `standard` variant** is selected.
 ![Tela](preview.png)
 
 ![Tela-light](preview-light.png)
+
+### Check out @tfk004 on [Telegram](https://t.me/tfk004) and stared original repository

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="rotate(-45)" x="-26.975" y="18.279" width="53.951" height="53.951" rx="26.975" ry="26.975" fill="#474747" stroke-width="1.1236"/>
+ <path d="m23 15v17l9.75-6.375 9.75 6.375-19.5 12.75v4.25l26-17-13-8.5z" fill="#79ce24" fill-rule="evenodd"/>
+</svg>

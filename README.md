@@ -1,8 +1,8 @@
 # Tela Circle Icon Theme
+![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
+![Twitter Follow](https://img.shields.io/twitter/follow/Molasses_Lover)
 
-My fork [Tela-circle-icons-theme](https://github.com/vinceliuice/Tela-circle-icon-theme). Please, try original icon pack.
-
-### Suggestions for adding icons to the Issue tab are welcome.
+A flat, colorful icon theme
 
 ## Installation
 
@@ -28,11 +28,10 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | `pink`            | Pink color folder version             |
 | `purple`          | Purple color folder version           |
 | `red`             | Red color folder version              |
-| `yellow`          | Yellow color folder version           |
-| `arch`            | ArchLinux color folder version        |
+| `yellow`          | yellow color folder version           |
 | `manjaro`         | Manjaro default color folder version  |
 | `ubuntu`          | Ubuntu default color folder version   |
-| `dracula`         | Dracula default color folder version  |
+| `dracula`         | Dracula default color folder version   |
 
 By default, only **the `standard` variant** is selected.
 
@@ -41,5 +40,3 @@ By default, only **the `standard` variant** is selected.
 ![Tela](preview.png)
 
 ![Tela-light](preview-light.png)
-
-### Check out @tfk004 on [Telegram](https://t.me/tfk004) and star original repository

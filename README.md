@@ -39,4 +39,6 @@ By default, only **the `standard` variant** is selected.
 
 ![Tela](preview.png)
 
+![Tela](icons.png)
+
 ![Tela-light](preview-light.png)

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg22"
+   sodipodi:docname="ventoy.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="7.09375"
+     inkscape:cx="32"
+     inkscape:cy="32.140969"
+     inkscape:window-width="1350"
+     inkscape:window-height="683"
+     inkscape:window-x="35"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f0f0f0"
+     style="paint-order:stroke fill markers"
+     id="circle2" />
+  <path
+     d="M23 10c-1.662 0-3 1.338-3 3v13h24V13c0-1.662-1.338-3-3-3z"
+     fill="#b7b7b7"
+     id="path4" />
+  <path
+     d="M16 26c-1.662 0-3 1.338-3 3v8c0 10.526 8.474 19 19 19s19-8.474 19-19v-8c0-1.662-1.338-3-3-3z"
+     fill="#4d4d4d"
+     id="path6" />
+  <rect
+     x="21"
+     y="42"
+     width="22"
+     height="2"
+     rx="1"
+     ry="1"
+     opacity=".4"
+     id="rect8" />
+  <rect
+     x="23"
+     y="46"
+     width="18"
+     height="2"
+     rx="1"
+     ry="1"
+     opacity=".4"
+     id="rect10" />
+  <rect
+     x="25"
+     y="50"
+     width="14"
+     height="2"
+     rx="1"
+     ry="1"
+     opacity=".4"
+     id="rect12" />
+  <path
+     d="M23 14h7v3h-7zm11 0h7v3h-7z"
+     opacity=".35"
+     id="path14" />
+  <path
+     d="M25 14h3v3h-3zm11 0h3v3h-3z"
+     fill="#fb5"
+     id="path16" />
+  <circle
+     cx="48"
+     cy="48"
+     r="14"
+     fill="#4bd296"
+     id="circle18"
+     style="fill:#2596be;fill-opacity:1" />
+  <path
+     d="m41 49 7 8 7-8h-4V39h-6v10z"
+     fill="#fff"
+     id="path20" />
+</svg>

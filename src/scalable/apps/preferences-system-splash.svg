@@ -1,26 +1,18 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" x1="39.154" x2="59" y1="26" y2="26" gradientUnits="userSpaceOnUse">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <linearGradient id="c" x1="19.577" x2="16" y1="12.05" y2="12.05" gradientTransform="translate(44.967 1009.3)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x1="19.577" x2="16" y1="12.05" y2="12.05" gradientTransform="translate(44.967,1009.3)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffffff" stop-opacity="0" offset="0"/>
   <stop stop-color="#fcfcfc" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x1="19.514" x2="15" y1="15.555" y2="11" gradientTransform="translate(44.967 1009.3)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="b" x1="19.514" x2="15" y1="15.555" y2="11" gradientTransform="translate(44.967,1009.3)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#f3f3f3" offset="0"/>
   <stop stop-color="#fcfcfc" stop-opacity="0" offset="1"/>
  </linearGradient>
- <g transform="translate(270.4 69.763)">
-  <path d="M-244.5-25.929c-.52 0-.9.378-.9.834v10.955l-4.078.377h-.022c-.52 0-.9.378-.9.834v1.166h24v-1.166c0-.456-.381-.834-.9-.834h-.024l-4.076-.377v-10.955c0-.456-.38-.834-.9-.834z" fill="#c4c7cc"/>
-  <rect x="-268.4" y="-63.763" width="60" height="40" rx="2" ry="2" fill="#2f3337"/>
-  <path d="m-265.4-60.763h54v34h-54z" fill="#5294e2" fill-rule="evenodd"/>
-  <path transform="translate(-270.4 -69.763)" d="M55.117 9a46.405 46.405 0 0 1-15.963 34H59V9h-3.883z" fill="url(#a)" opacity=".15"/>
- </g>
- <g stroke-width=".5">
-  <path transform="matrix(2 0 0 2 -89.934 -2016.7)" d="m60.967 1015.3a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="url(#b)"/>
-  <path transform="matrix(2 0 0 2 -89.934 -2016.7)" d="M60.967 1015.3a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 4.215-1.736l-.701-.71a5 5 0 0 1-3.514 1.446 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="url(#c)"/>
+ <circle cx="32" cy="32" r="27" fill="#f0f0f0" style="paint-order:stroke fill markers"/>
+ <rect x="22" y="33" width="20" height="15" rx="2.5838" ry="2.5838" fill="#6d7680" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ <rect x="13" y="17" width="38" height="28" rx="6" ry="6" fill="#2f3337" stroke-width="1.1927"/>
+ <rect x="15" y="19" width="34" height="24" rx="4" ry="4" fill="#5294e2" stroke-width="1.0445"/>
+ <g transform="matrix(.66667 0 0 .66667 10.667 13.733)" stroke-width=".5">
+  <path transform="matrix(2,0,0,2,-89.934,-2016.7)" d="m60.967 1015.3a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="url(#b)"/>
+  <path transform="matrix(2,0,0,2,-89.934,-2016.7)" d="m60.967 1015.3a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 4.215-1.736l-0.701-0.71a5 5 0 0 1-3.514 1.446 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" fill="url(#c)"/>
  </g>
 </svg>

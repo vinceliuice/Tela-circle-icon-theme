@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#ff9955"/>
+ <path d="m32 59c14.912 0 27-12.088 27-27h-27v27z" fill="#C0C0C0"/>
+ <path d="M33 5H31V31H5V33H31V59H33V33H59V31H33V5Z" clip-rule="evenodd" fill="#ffccaa" fill-rule="evenodd"/>
+ <path d="m20 20v-3h3v3h3v3h-3v3h-3v-3h-3v-3h3zm27 3h-9v-3h9v3zm-9 18.5h9v-3h-9v3zm9 5h-9v-3h9v3zm-29.879-6.2574 2.1213 2.1214-2.1213 2.1213 2.1213 2.1213 2.1214-2.1213 2.1213 2.1213 2.1213-2.1213-2.1213-2.1213 2.1213-2.1214-2.1213-2.1213-2.1213 2.1213-2.1214-2.1213-2.1213 2.1213z" clip-rule="evenodd" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

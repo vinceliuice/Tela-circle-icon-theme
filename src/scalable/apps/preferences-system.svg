@@ -1,1 +1,6 @@
-<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0 -280.07)" paint-order="stroke markers fill"><circle cx="8.466" cy="288.53" r="7.144" fill="#5da3ee"/><path d="M8.467 282.71a5.82 5.82 0 0 0-3.705 1.336v8.97a5.82 5.82 0 0 0 3.705 1.335 5.82 5.82 0 0 0 5.82-5.82 5.82 5.82 0 0 0-5.82-5.821z" fill="#3e74b7"/><circle cx="8.467" cy="288.53" r="5.292" fill="#3e74b7"/><rect x="4.762" y="287.21" width="7.408" height="2.646" ry="1.323" fill="#fff" opacity=".35"/><circle cx="10.583" cy="288.53" r="2.117" fill="#fff"/></g></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.466" cy="8.46" r="7.144" fill="#5294e2" style="paint-order:stroke markers fill"/>
+ <path d="m8.467 2.6401a5.82 5.82 0 0 0-3.7051 1.3358v0.71002a5.292 5.292 0 0 0-1.587 3.7739 5.292 5.292 0 0 0 1.587 3.7739v0.7126a5.82 5.82 0 0 0 3.7051 1.3348 5.82 5.82 0 0 0 5.8202-5.8202 5.82 5.82 0 0 0-5.8202-5.8207z" fill="#000000" opacity=".1" style="paint-order:stroke markers fill"/>
+ <rect x="4.762" y="7.14" width="7.408" height="2.646" ry="1.323" fill="#ffffff" opacity=".35" style="paint-order:stroke markers fill"/>
+ <circle cx="10.583" cy="8.46" r="2.117" fill="#ffffff" style="paint-order:stroke markers fill"/>
+</svg>

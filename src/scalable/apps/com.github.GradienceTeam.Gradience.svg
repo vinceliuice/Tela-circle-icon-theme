@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.466" cy="8.466" r="7.144" fill="#ebebeb" style="paint-order:stroke fill markers"/>
+ <circle cx="8.466" cy="8.466" r="5.8202" fill="#fafafa" stroke-width=".8147" style="paint-order:stroke fill markers"/>
+ <g transform="rotate(-45 7.9664 9.0212)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m12.699 8.4668a0.26458 0.26458 0 0 0-0.26367 0.26367 0.26458 0.26458 0 0 0 0.26367 0.26562h0.5293v1.8516h-4.7617a0.2646 0.2646 0 0 0-0.26562 0.26367v5.8223a0.26458 0.26458 0 0 0 0.26562 0.26367 0.26458 0.26458 0 0 0 0.26367-0.26367v-5.5566h4.7637a0.2646 0.2646 0 0 0 0.26367-0.26562v-2.3809a0.2646 0.2646 0 0 0-0.26367-0.26367z" color="#000000" fill="#b3b3b3"/>
+  <g transform="translate(.00050052 .0005004)" fill-rule="evenodd" stroke-width=".96075">
+   <path d="m6.3495 2.2393a7.144 7.144 0 0 0-2.1168 1.1828l3.654e-4 6.3693c0 0.29315 0.23595 0.5291 0.5291 0.5291h1.5873v-8.0812z" fill="#70a7ea" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <path d="m8.4659 1.8425a7.144 7.144 0 0 0-2.1164 0.39682v8.0812h2.1164v-8.478z" fill="#6fdda0" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <path d="m10.583 2.0877a7.144 7.144 0 0 0-2.1168-0.24518v8.478l2.1168 3.66e-4v-8.2332z" fill="#f7de6a" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <path d="m12.699 3.0596a7.144 7.144 0 0 0-2.1164-0.97196v8.2332l1.5877-3.66e-4c0.29315 0 0.5291-0.23595 0.5291-0.5291l-3.65e-4 -6.7318z" fill="#e35a60" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </g>
+  <rect x="4.2333" y="7.1461" width="8.4665" height="3.1749" rx=".52916" ry=".52916" fill="#000000" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-width="1.3638" style="mix-blend-mode:soft-light;paint-order:stroke fill markers"/>
+  <rect x="7.6728" y="13.229" width="1.5875" height="4.2333" rx=".52916" ry=".52916" fill="#ad7c55" fill-rule="evenodd" stop-color="#000000" stroke-width=".54651" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

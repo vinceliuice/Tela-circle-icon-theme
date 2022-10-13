@@ -167,10 +167,6 @@ install_theme() {
     if [[ "${ICON_VERION}" == 'elementary' || "$DESKTOP_SESSION" == 'xfce' ]]; then
       cp -r "${SRC_DIR}/elementary/"*                                            "${THEME_DIR}"
     fi
-
-#    if [ -n "${colorprefix}"  ]; then
-#      install -m644 "${SRC_DIR}/src/colors${folderstyle}/color${colorprefix}/"*.svg   "${THEME_DIR}/scalable/places"
-#    fi
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
 
@@ -204,10 +200,6 @@ install_theme() {
     ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
     ln -sr "${STD_THEME_DIR}/24/panel"                                           "${THEME_DIR}/24/panel"
   fi
-
-#  if [ -n "${colorprefix}" ]; then
-#    install -m644 "${SRC_DIR}"/src/colors-16/color${colorprefix}/*.svg           "${THEME_DIR}/16/places"
-#  fi
 
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@2x"

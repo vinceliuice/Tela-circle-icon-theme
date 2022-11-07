@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 16.9 16.9" width="63.987px" height="63.987px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-2" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 -0.1 0.2 0.2 0.5 rgba(0,0,0,0.3)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0.2"/>
+      <feOffset dx="-0.1" dy="0.2"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="filter-2" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 -0.1 0.2 0.2 0.5 rgba(0,0,0,0.3)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0.2"/>
+      <feOffset dx="-0.1" dy="0.2"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="feFuncA-2" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M 271.464 262.702 A 7.15 7.15 0 0 1 264.314 269.852 A 7.15 7.15 0 0 1 257.164 262.702 A 7.15 7.15 0 0 1 264.314 255.552 A 7.15 7.15 0 0 1 271.464 262.702 Z" style="fill: rgb(28, 144, 237);" transform="matrix(1, 0, 0, 0.999997, -255.863998, -254.251221)" bx:origin="-3.742381 -3.629666">
+    <title>Background</title>
+  </path>
+  <path d="M 9.426 10.054 C 9.426 11.697 8.094 13.029 6.451 13.029 C 4.808 13.029 3.476 11.697 3.476 10.054 C 3.476 8.411 4.808 7.079 6.451 7.079 C 8.094 7.079 9.426 8.411 9.426 10.054 Z" style="fill: rgb(71, 206, 255); filter: url(#drop-shadow-filter-2);">
+    <title>Blue ball</title>
+  </path>
+  <path d="M 12.114 8.954 C 12.114 9.828 10.298 10.536 8.059 10.536 C 5.819 10.536 4.004 9.828 4.004 8.954 C 4.004 8.08 5.819 7.372 8.059 7.372 C 10.298 7.372 12.114 8.08 12.114 8.954 Z" style="stroke-width: 0.5px; fill: none; stroke: rgb(255, 255, 255); stroke-opacity: 0.28;" transform="matrix(0.681523, 0.731797, -0.731797, 0.681523, 9.119116, -3.045907)">
+    <title>Light 1</title>
+  </path>
+  <path d="M 12.706 8.362 C 12.706 9.235 10.891 9.944 8.651 9.944 C 6.412 9.944 4.596 9.235 4.596 8.362 C 4.596 7.488 6.412 6.78 8.651 6.78 C 10.891 6.78 12.706 7.488 12.706 8.362 Z" style="stroke-width: 0.5px; fill: none; stroke: rgb(255, 255, 255); stroke-opacity: 0.65;" transform="matrix(0.681523, 0.731797, -0.731797, 0.681523, 8.874431, -3.667669)">
+    <title>Strong</title>
+  </path>
+  <path d="M 13.558 7.917 C 13.558 8.791 11.742 9.499 9.503 9.499 C 7.263 9.499 5.448 8.791 5.448 7.917 C 5.448 7.044 7.263 6.335 9.503 6.335 C 11.742 6.335 13.558 7.044 13.558 7.917 Z" style="stroke-width: 0.5px; fill: none; stroke: rgb(255, 255, 255); stroke-opacity: 0.28;" transform="matrix(0.681523, 0.731797, -0.731797, 0.681523, 8.820123, -4.432882)">
+    <title>Light 2</title>
+  </path>
+  <path d="M 12.716 6.555 C 12.716 7.61 11.861 8.465 10.806 8.465 C 9.751 8.465 8.896 7.61 8.896 6.555 C 8.896 5.5 9.751 4.645 10.806 4.645 C 11.861 4.645 12.716 5.5 12.716 6.555 Z" style="filter: url(#filter-2); fill: rgb(249, 180, 0);">
+    <title>Orange ball</title>
+  </path>
+</svg>

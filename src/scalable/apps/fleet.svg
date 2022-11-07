@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <title>Fleet</title>
+      <stop offset="0" style="stop-color: rgb(128, 255, 255);"/>
+      <stop offset="0.497" style="stop-color: rgb(148, 111, 252);"/>
+      <stop offset="0.796" style="stop-color: rgb(192, 72, 198);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1-0" gradientUnits="userSpaceOnUse" x1="8.475" y1="4.454" x2="8.475" y2="10.598" gradientTransform="matrix(0.465608, -1.439691, 0.738094, 0.238705, 1.900603, 18.398539)" xlink:href="#gradient-1"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="8.536" y1="8.195" x2="8.536" y2="11.495" id="gradient-0" gradientTransform="matrix(-1.160614, 0.419906, -0.29059, -0.899111, 21.288569, 15.055315)">
+      <stop offset="0" style="stop-color: rgba(24, 228, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 156, 177, 1)"/>
+    </linearGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="10.584" cy="7.158" r="1.491" id="gradient-3" gradientTransform="matrix(1.522547, 0.320221, -0.176784, 0.840557, -3.313049, -2.363372)">
+      <stop offset="0" style="stop-color: rgb(66, 90, 221);"/>
+      <stop offset="1" style="stop-color: rgb(169, 101, 255);"/>
+    </radialGradient>
+  </defs>
+  <path d="M 15.61 8.466 C 15.61 12.412 12.412 15.61 8.466 15.61 C 4.521 15.609 1.323 12.411 1.323 8.466 C 1.324 4.521 4.521 1.324 8.466 1.323 C 12.411 1.323 15.609 4.521 15.61 8.466 Z" style="fill: rgb(153, 139, 231);"/>
+  <path d="M 14.503 8.466 A 6.037 6.037 0 0 1 8.466 14.503 A 6.037 6.037 0 0 1 2.429 8.466 A 6.037 6.037 0 0 1 8.466 2.429 A 6.037 6.037 0 0 1 14.503 8.466 Z" style="fill: rgb(48, 48, 48);">
+    <title>Circle</title>
+  </path>
+  <path style="fill-opacity: 0.81; fill: url(#gradient-3);" d="M 8.59 6.204 C 8.59 6.204 8.451 6.179 9.171 6.123 C 10.15 6.045 10.45 6.071 10.74 6.123 C 11.289 6.218 12.241 6.342 12.754 7.079 C 12.909 7.298 13.685 9.043 12.182 8.613 L 10.707 7.554 L 9.286 6.804 L 8.59 6.204 Z">
+    <title>Shadow 2</title>
+  </path>
+  <path d="M 13.114 8.468 C 13.114 11.036 11.034 13.116 8.466 13.116 C 5.898 13.116 3.818 11.036 3.818 8.468 C 3.818 5.9 5.898 3.82 8.466 3.82 C 8.484 3.82 8.504 3.82 8.522 3.82 C 8.522 3.82 8.522 3.821 8.522 3.821 C 8.525 3.821 8.528 3.821 8.531 3.821 C 8.531 3.823 8.536 3.823 8.537 3.823 C 8.746 4.019 9.12 4.46 9.493 5.31 C 9.613 5.582 9.675 5.837 9.701 6.067 C 9.941 6.338 10.215 6.599 10.518 6.844 C 11.358 7.522 12.276 7.951 13.101 8.1 C 13.11 8.223 13.114 8.344 13.114 8.468 Z" style="fill: url(#gradient-1-0);"/>
+  <path d="M 11.699 10.183 C 11.699 11.365 10.392 12.324 8.781 12.324 C 7.17 12.324 5.864 11.365 5.864 10.183 C 5.864 9 7.17 8.042 8.781 8.042 C 10.392 8.042 11.699 9 11.699 10.183 Z" style="fill-rule: nonzero; fill: url(#gradient-0); fill-opacity: 0.68;" transform="matrix(0.977466, -0.211091, 0.211091, 0.977466, -1.951662, 2.083156)">
+    <title>Shadow 1</title>
+  </path>
+</svg>

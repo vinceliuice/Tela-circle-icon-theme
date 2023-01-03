@@ -1,66 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="64"
-   height="64"
-   viewBox="0 0 16.933 16.933"
-   version="1.1"
-   id="svg294"
-   sodipodi:docname="accessories-system-cleaner.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs298" />
-  <sodipodi:namedview
-     id="namedview296"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="12.105777"
-     inkscape:cx="23.046848"
-     inkscape:cy="35.148508"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg294" />
-  <circle
-     cx="8.4659996"
-     cy="8.4599991"
-     r="7.1440001"
-     fill="#89d1f5"
-     style="paint-order:stroke markers fill;fill:#80d4ff;fill-opacity:1"
-     id="circle282" />
-  <circle
-     cx="7.5294557"
-     cy="9.5143719"
-     r="5.7151999"
-     fill="#4cb3e6"
-     style="fill:#33bbff;fill-opacity:1;stroke-width:0.8;paint-order:stroke markers fill"
-     id="circle282-3" />
-  <circle
-     cx="6.1440945"
-     cy="11.013529"
-     r="3.657728"
-     fill="#0a85c2"
-     style="fill:#0088cc;fill-opacity:1;stroke-width:0.512;paint-order:stroke markers fill"
-     id="circle282-3-6" />
-  <g
-     aria-label="F"
-     transform="matrix(0.87319958,0,0,1.0468207,0.28608315,0.40368557)"
-     id="text964"
-     style="font-size:5.72462px;fill:#ffffff;stroke-width:0.477052">
-    <path
-       d="M 4.9727967,8.3268081 H 8.1034482 V 9.2073038 H 6.2446239 V 9.9228813 H 7.8323115 V 10.750268 H 6.2446239 v 1.674339 H 4.9727967 Z"
-       style="font-weight:900;font-family:Arial;-inkscape-font-specification:'Arial Heavy'"
-       id="path1040" />
-  </g>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="8.466" cy="8.46" r="7.144" fill="#80d4ff" style="paint-order:stroke markers fill"/>
+ <circle cx="7.5295" cy="9.5144" r="5.7152" fill="#33bbff" stroke-width=".8" style="paint-order:stroke markers fill"/>
+ <circle cx="6.1441" cy="11.014" r="3.6577" fill="#0088cc" stroke-width=".512" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(.8732 0 0 1.0468 .28608 .40369)" fill="#ffffff" stroke-width=".47705" aria-label="F">
+  <path d="m4.9728 8.3268h3.1307v0.8805h-1.8588v0.71558h1.5877v0.82739h-1.5877v1.6743h-1.2718z"/>
+ </g>
 </svg>

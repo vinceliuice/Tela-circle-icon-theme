@@ -1,6 +1,5 @@
 <svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="25" fill="#666" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="27" fill="#666666" style="paint-order:stroke fill markers"/>
  <g fill="#fff">
   <rect x="20" y="37.975" width="24" height="5" ry="1.025" paint-order="markers stroke fill"/>
   <circle cx="16" cy="20" r="2" style="paint-order:stroke fill markers"/>

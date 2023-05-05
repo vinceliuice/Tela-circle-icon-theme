@@ -5,7 +5,8 @@
       }
       .ColorScheme-Highlight {
         color:#5294e2;
-      }</style>
+      }
+  </style>
   <linearGradient id="linearGradient892" x1="-197.72" x2="-197.72" y1="263.86" y2="273.76" gradientTransform="rotate(-45,-337.55,-145.8)" gradientUnits="userSpaceOnUse">
    <stop offset="0"/>
    <stop stop-opacity="0" offset="1"/>

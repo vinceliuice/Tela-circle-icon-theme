@@ -37,7 +37,8 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | `yellow`          | yellow color folder version           |
 | `manjaro`         | Manjaro default color folder version  |
 | `ubuntu`          | Ubuntu default color folder version   |
-| `dracula`         | Dracula default color folder version   |
+| `dracula`         | Dracula default color folder version  |
+| `nord`            | Nord default color folder version     |
 
 By default, only **the `standard` variant** is selected.
 

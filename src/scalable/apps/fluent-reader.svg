@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.466" cy="8.46" r="7.144" fill="#80d4ff" style="paint-order:stroke markers fill"/>
- <circle cx="7.5295" cy="9.5144" r="5.7152" fill="#33bbff" stroke-width=".8" style="paint-order:stroke markers fill"/>
- <circle cx="6.1441" cy="11.014" r="3.6577" fill="#0088cc" stroke-width=".512" style="paint-order:stroke markers fill"/>
- <g transform="matrix(.8732 0 0 1.0468 .28608 .40369)" fill="#ffffff" stroke-width=".47705" aria-label="F">
-  <path d="m4.9728 8.3268h3.1307v0.8805h-1.8588v0.71558h1.5877v0.82739h-1.5877v1.6743h-1.2718z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><circle cx="8.466" cy="8.46" r="7.144" fill="#80d4ff" style="paint-order:stroke markers fill"/><circle cx="7.529" cy="9.514" r="5.715" fill="#3bf" style="paint-order:stroke markers fill"/><circle cx="6.144" cy="11.014" r="3.658" fill="#08c" style="paint-order:stroke markers fill"/><path fill="#fff" stroke-width=".477" d="M4.628 9.12h2.734v.922H5.74v.749h1.386v.866H5.74v1.753h-1.11z" aria-label="F"/></svg>

@@ -1,10 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.4665" cy="8.466" r="7.144" fill="#f0f0f0"/>
- <g transform="matrix(.26458 0 0 .26458 6.5577e-5 0)" fill-rule="evenodd">
-  <path transform="matrix(1.3035,0,0,1.317,-2.475,-7.884)" d="m14.173 23.2 12.275 21.257 12.273-21.257-12.273-7.09" fill="#549a42"/>
-  <path d="m16 22.67v4.666l15.999 9.338 1e-3 -4.671z" fill="#59a849"/>
-  <path d="m32 36.666 16-9.334v-4.666l-16 9.334z" fill="#458235"/>
-  <path transform="matrix(1.3035,0,0,1.317,-2.475,-7.884)" d="m14.173 26.74v10.63l12.274 7.087v-10.63z" fill="#a97956"/>
-  <path d="m32 36.666 16-9.334v14l-16 9.334z" fill="#7a523e"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><circle cx="8.466" cy="8.466" r="7.144" fill="#f0f0f0"/><g fill-rule="evenodd"><path fill="#549a42" d="m4.233 5.998 4.234 7.407 4.232-7.407-4.232-2.47"/><path fill="#59a849" d="M4.233 5.998v1.235l4.233 2.47V8.467z"/><path fill="#458235" d="m8.467 9.701 4.233-2.47V5.998l-4.233 2.47z"/><path fill="#a97956" d="M4.233 7.232v3.704l4.233 2.47V9.7z"/><path fill="#7a523e" d="m8.467 9.701 4.233-2.47v3.705l-4.233 2.47z"/></g></svg>

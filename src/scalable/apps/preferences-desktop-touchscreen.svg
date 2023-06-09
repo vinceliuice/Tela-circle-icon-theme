@@ -1,0 +1,13 @@
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+                color:#3daee9;
+            }</style>
+ </defs>
+ <rect x="4" y="4" width="55.999" height="55.999" ry="28" fill="#86aeff" style="paint-order:stroke markers fill"/>
+ <path d="m32 4c-5.96 0-11.47 1.85-16 5h32c-4.53-3.15-10.04-5-16-5z" fill="#000000" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="27" y="5.972" width="10" height="2" ry="1.002" fill="#000000" opacity=".35" style="paint-order:stroke markers fill"/>
+ <path class="ColorScheme-Highlight" d="m37 24c0 4.4183-3.5817 8-8 8-4.4182 0-8-3.5817-8-8 0-4.4182 3.5818-8 8-8 4.4183 0 8 3.5817 8 8z" fill="#ffffff" opacity=".15" stroke-width="1.8601"/>
+ <path class="ColorScheme-Highlight" d="m35 24c0 3.3138-2.6862 6-6 6-3.3136 0-6-2.6862-6-6s2.6864-6 6-6c3.3138 0 6 2.6862 6 6z" fill="#ffffff" opacity=".15" stroke-width="1.7051"/>
+ <path d="m30.226 51.806c3.3887 0.37646 8.1756 0.40342 8.8419 0.40534 0.05405 1.36e-4 0.10537 0.0011 0.15929 0.0019 2.9429 0.04722 5.4888-1.9119 5.8665-4.8387l0.94534-6.5162c0.81091-4.8657-2.8382-6.082-4.0546-3.6493 0-2.8384-3.2438-4.4601-4.8657-2.0274 0-2.4327-3.4971-4.0546-5.119-1.6219v-8.9201c0-3.2437-4.7896-4.0546-4.7896 0v17.308s-0.68423-2.0527-2.0527-3.4212c-4.4606-4.4606-6.6903-0.1014-6.6903-0.1014 3.2438 2.4328 5.7003 12.707 11.759 13.38z" fill="#ffffff" stroke-width="1.3685"/>
+</svg>

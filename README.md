@@ -1,7 +1,4 @@
 # Tela Circle Icon Theme
-![Twitter Follow](https://img.shields.io/twitter/follow/vinceliuice)
-![Twitter Follow](https://img.shields.io/twitter/follow/Molasses_Lover)
-
 A flat, colorful icon theme
 
 ## Donate

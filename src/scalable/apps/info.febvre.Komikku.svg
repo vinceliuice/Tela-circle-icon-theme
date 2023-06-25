@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32" cy="32" r="27" fill="#e0e0e0" stroke-width=".96429"/>
+ <g transform="matrix(.69091 0 0 .69091 9.8909 9.5455)">
+  <rect x="15" y="9" width="42" height="51" rx="5" ry="5" fill="#c2352a" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  <path d="m12 5c-2.77 0-5.0008 2.2308-5.0008 5.0008v40.998c0 2.77 2.2308 5.0008 5.0008 5.0008h28 4.0001 5.0008v-5.0008-4.0001-36.998c0-2.77-2.2308-5.0008-5.0008-5.0008h-32z" fill="#f5f5f5" style="paint-order:stroke fill markers"/>
+  <path d="m45 20-9 1v9h9z" fill="#90caf9"/>
+  <path d="m30 9v11l15-3v-7c0-0.554-0.446-1-1-1z" fill="#bdbdbd"/>
+  <path d="m27 9h-16v14l16-3z" fill="#ffcc80"/>
+  <path d="m11 39v12c0 0.554 0.446 1 1 1h32c0.554 0 1-0.446 1-1v-6z" fill="#ff8a80"/>
+  <path d="m34 21-23 4v12l23 4z" fill="#bdbdbd"/>
+  <path d="m45 32h-9v9l9 2z" fill="#bdbdbd"/>
+  <path d="m15 5-8 8h2.2734c2.3811-0.28747 4.8494-0.39868 5.7266-3.7148z" fill="#ffffff"/>
+  <path d="m53 5c-2.216 0-4 1.784-4 4v47c0-2.2091 1.7909-4 4-4s4 1.7909 4 4v-47c0-2.216-1.784-4-4-4z" fill="#df574d" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

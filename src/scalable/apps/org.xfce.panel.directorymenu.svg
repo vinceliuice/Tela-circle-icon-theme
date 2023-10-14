@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><defs><linearGradient id="a" x1="42" x2="44" y1="51" y2="55" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><circle cx="8.466" cy="8.466" r="7.408" fill="#5294e2" style="paint-order:stroke fill markers"/><path fill="url(#a)" d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z" opacity=".1" style="paint-order:stroke fill markers"/><path d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z" opacity=".2"/><path fill="#fff" d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z" style="paint-order:stroke fill markers"/><path d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z" opacity=".15" style="paint-order:stroke fill markers"/><rect width="3.969" height=".529" x="9.26" y="4.762" opacity=".25" ry=".265" style="paint-order:stroke markers fill"/><path d="M21 23.004c-1.108 0-2 .892-2 2v3.002h26v-3.002c0-1.108-.892-2-2-2H21zM22.002 25a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002A1.002 1.002 0 0 1 21 26.002 1.002 1.002 0 0 1 22.002 25zM19 29.002v5.002h26v-5.002H19zm3.002 2a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002A1.002 1.002 0 0 1 21 32.004a1.002 1.002 0 0 1 1.002-1.002zM19 35.004v5.002h26v-5.002H19zM22.002 37a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002A1.002 1.002 0 0 1 21 38.002 1.002 1.002 0 0 1 22.002 37zM19 41.002v5.002h26v-5.002H19zm3.002 2a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002A1.002 1.002 0 0 1 21 44.004a1.002 1.002 0 0 1 1.002-1.002zM19 47.006v4.002c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2v-4.002H19zM22.002 49a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002A1.002 1.002 0 0 1 21 50.002 1.002 1.002 0 0 1 22.002 49z" opacity=".15" style="paint-order:markers stroke fill" transform="scale(.26458)"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
+ </defs>
+ <defs>
+  <linearGradient id="a" x1="42" x2="44" y1="51" y2="55" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(3.6447 0 0 3.6447 1.1439 1.1421)">
+  <circle class="ColorScheme-Highlight" cx="8.466" cy="8.4665" r="7.408" fill="currentColor"/>
+  <path d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 0.63 0.032 7.408 7.408 0 0 0 6.697-4.262z" fill="url(#a)" opacity=".1" style="paint-order:stroke fill markers"/>
+  <path d="m8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l0.318-0.53c0.15-0.251 0.443-0.529 0.793-0.529h6.608a7.408 7.408 0 0 0-6.079-3.175z" opacity=".2"/>
+  <path d="m4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l0.318-0.53c0.15-0.251 0.443-0.529 0.793-0.529h5.244a6.35 6.35 0 0 0-0.523-0.529z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+  <path d="m8.467 1.058a7.408 7.408 0 0 0-4.887 1.852h9.776a7.408 7.408 0 0 0-4.89-1.852z" opacity=".15" style="paint-order:stroke fill markers"/>
+  <rect x="9.26" y="4.762" width="3.969" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/>
+  <path transform="scale(.26458)" d="m21 23.004c-1.108 0-2 0.892-2 2v3.002h26v-3.002c0-1.108-0.892-2-2-2zm1.002 1.996a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002 1.002 1.002 0 0 1-1.002-1.002 1.002 1.002 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002zm3.002 2a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002 1.002 1.002 0 0 1-1.002-1.002 1.002 1.002 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002zm3.002 1.996a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002 1.002 1.002 0 0 1-1.002-1.002 1.002 1.002 0 0 1 1.002-1.002zm-3.002 4.002v5.002h26v-5.002zm3.002 2a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002 1.002 1.002 0 0 1-1.002-1.002 1.002 1.002 0 0 1 1.002-1.002zm-3.002 4.004v4.002c0 1.108 0.892 2 2 2h22c1.108 0 2-0.892 2-2v-4.002zm3.002 1.994a1.002 1.002 0 0 1 1 1.002 1.002 1.002 0 0 1-1 1.002 1.002 1.002 0 0 1-1.002-1.002 1.002 1.002 0 0 1 1.002-1.002z" opacity=".15" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

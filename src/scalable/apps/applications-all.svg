@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><circle cx="32" cy="32" r="28" fill="#5294e2"/><rect width="14" height="14" x="16" y="16" fill="#fff" rx="2" ry="2"/><path fill="#fff" d="M36 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2zm0 2h10v10H36zm0 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H36zm-18-2c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H18z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
+ </defs>
+<circle cx="32" cy="32" r="28" class="ColorScheme-Highlight" fill="currentColor"/><rect width="14" height="14" x="16" y="16" fill="#fff" rx="2" ry="2"/><path fill="#fff" d="M36 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2zm0 2h10v10H36zm0 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H36zm-18-2c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H18z"/></svg>

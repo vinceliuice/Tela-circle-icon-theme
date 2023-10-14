@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><circle cx="8.466" cy="8.466" r="7.144" fill="#5294e2" style="paint-order:stroke fill markers"/><path d="M32 5A27 27 0 0 0 5 31.998h54A27 27 0 0 0 32 5z" opacity=".15" style="paint-order:stroke markers fill" transform="scale(.26458)"/><g fill="#fff"><rect width="8.467" height=".529" x="4.233" y="6.085" opacity=".75" ry=".265" style="paint-order:stroke markers fill"/><circle cx="10.054" cy="6.35" r="1.058" style="paint-order:stroke markers fill"/><rect width="8.467" height=".529" x="4.233" y="10.318" opacity=".75" ry=".265" style="paint-order:stroke markers fill"/></g><circle cx="6.615" cy="10.583" r="1.587" opacity=".25" style="paint-order:markers stroke fill"/><circle cx="6.615" cy="10.583" r="1.058" fill="#fff" style="paint-order:markers stroke fill"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
+ </defs>
+ <circle class="ColorScheme-Highlight" cx="32" cy="32" r="27" fill="currentColor" stroke-width="3.7793"/>
+ <path d="m32.002 5.0038a26.998 26.998 0 0 0-26.998 26.996h53.997a26.998 26.998 0 0 0-26.998-26.996z" opacity=".15" stroke-width=".99994" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(3.7793 0 0 3.7793 .0037181 .0041345)" fill="#ffffff">
+  <rect x="4.233" y="6.085" width="8.467" height=".529" ry=".265" opacity=".75" style="paint-order:stroke markers fill"/>
+  <circle cx="10.054" cy="6.35" r="1.058" style="paint-order:stroke markers fill"/>
+  <rect x="4.233" y="10.318" width="8.467" height=".529" ry=".265" opacity=".75" style="paint-order:stroke markers fill"/>
+ </g>
+ <circle cx="25.004" cy="40.001" r="5.9978" opacity=".25" stroke-width="3.7793" style="paint-order:markers stroke fill"/>
+ <circle cx="25.004" cy="40.001" r="3.9985" fill="#ffffff" stroke-width="3.7793" style="paint-order:markers stroke fill"/>
+</svg>

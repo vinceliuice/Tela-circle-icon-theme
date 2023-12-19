@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#3f3f3f" stroke-width=".96428"/>
+ <path d="m50 45h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m42 45h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m34 45h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m26 45h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m18 45h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m50 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m42 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m34 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m26 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m18 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m18 37h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m50 28h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m42 28h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m34 28h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m26 28h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m18 28h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m50 19h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m42 19h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m34 19h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m26 19h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m18 19h-4" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m33.004 5.0254v18.471c-0.03149 0.38234 0.1127 0.67688 0.60352 0.38476l4.8926-4.3066 4.8926 4.3066c0.49082 0.29212 0.63502-0.002446 0.60352-0.38476v-15.703c-3.3288-1.6459-7.0501-2.6245-10.992-2.7676z" fill="#ffc540"/>
+ <path d="m16 28v17" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+ <path d="m27 28-10.023 7.9882" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+ <path d="m27 45-10.023-7.7555" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+ <circle cx="16" cy="20" r="3" fill="#ffc540"/>
+</svg>

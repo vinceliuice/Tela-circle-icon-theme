@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Highlight {
+        color:#5294e2;
+      }</style>
+ </defs>
+ <circle class="ColorScheme-Highlight" cx="32" cy="32" r="28" fill="currentColor"/>
+ <path d="m22 15c-2.77 0-5 2.23-5 5v24c0 2.77 2.23 5 5 5h20c2.77 0 5-2.23 5-5v-24c0-2.77-2.23-5-5-5h-20zm0 2h20c1.662 0 3 1.338 3 3v24c0 1.662-1.338 3-3 3h-20c-1.662 0-3-1.338-3-3v-24c0-1.662 1.338-3 3-3z" fill="#ffffff" stroke-width="0"/>
+ <rect x="23" y="23" width="18" height="2" rx="1" ry="1" fill="#ffffff" stroke-width="0"/>
+ <rect x="23" y="31" width="18" height="2" rx="1" ry="1" fill="#ffffff" stroke-width="0"/>
+ <rect x="23" y="39" width="18" height="2" rx="1" ry="1" fill="#ffffff" stroke-width="0"/>
+</svg>

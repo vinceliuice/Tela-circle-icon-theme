@@ -1,10 +1,8 @@
 <svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#333333;
-      }
-      .ColorScheme-Highlight {
-        color:#5294e2;
-      }</style>
- </defs>
-<circle cx="16" cy="16" r="14" fill="#f2f2f2" style="paint-order:stroke fill markers"/><path d="M10 6c-1.108 0-2 .892-2 2v15c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3V8c0-1.108-.892-2-2-2z" fill="#333"/><rect x="9" y="7" width="14" height="15" rx="1" ry="1" class="ColorScheme-Highlight" fill="currentColor"/><g fill="#fff"><circle cx="11.5" cy="23.5" r=".5" opacity=".5"/><circle cx="20.5" cy="23.5" r=".5" opacity=".5"/><circle cx="16" cy="24" r="1" opacity=".75"/></g></svg>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-26.889" y="-26" width="24.889" height="20" rx="2" ry="2" fill="#333333" stroke-width=".95853"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-30" y="-26" width="24.889" height="20" rx="5" ry="5" fill="#333333" stroke-width=".95853"/>
+ <rect x="7" y="3" width="18" height="18" rx="1" ry=".91353" fill="#5294e2" stroke-width=".93878"/>
+ <circle cx="10" cy="24.944" r="1" fill="#ffffff" opacity=".5" stroke-width=".9645"/>
+ <circle cx="22" cy="25" r="1" fill="#ffffff" opacity=".5" stroke-width=".9645"/>
+ <circle cx="16" cy="25" r="2" fill="#ffffff" opacity=".75" stroke-width="1.286"/>
+</svg>

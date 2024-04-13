@@ -1,1 +1,16 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="16.001" cy="16.001" r="14" fill="#4d4d4d" style="paint-order:stroke markers fill"/><g fill="#fff" stroke-width=".928"><rect x="9" y="7" width="4" height="4" rx=".5" ry=".5"/><rect x="14" y="7" width="4" height="4" rx=".5" ry=".5"/><rect x="19" y="7" width="4" height="4" rx=".5" ry=".5"/><rect x="9" y="12" width="4" height="4" rx=".5" ry=".5"/><rect x="14" y="12" width="4" height="4" rx=".5" ry=".5"/><rect x="19" y="12" width="4" height="4" rx=".5" ry=".5"/></g><g stroke-width=".928"><rect x="9" y="22" width="4" height="4" rx=".5" ry=".5" fill="#64c90e"/><rect x="14" y="22" width="4" height="4" rx=".5" ry=".5" fill="#fff"/><rect x="19" y="22" width="4" height="4" rx=".5" ry=".5" fill="#ff5a5a"/></g><g fill="#fff" stroke-width=".928"><rect x="9" y="17" width="4" height="4" rx=".5" ry=".5"/><rect x="14" y="17" width="4" height="4" rx=".5" ry=".5"/><rect x="19" y="17" width="4" height="4" rx=".5" ry=".5"/></g></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="5" y="2" width="22" height="28" rx="4" ry="4" fill="#4f4f4f" stroke-width=".98622"/>
+ <rect x="8" y="5" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="14" y="5" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="20" y="5" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="8" y="11" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="14" y="11" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="20" y="11" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="8" y="17" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="14" y="17" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="20" y="17" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <path d="m5 22v4c0 2.216 1.784 4 4 4h14c2.216 0 4-1.784 4-4v-4z" fill="#ffffff" opacity=".15" stroke-width=".98622"/>
+ <rect x="8" y="23" width="4" height="4" rx="1" ry="1" fill="#64c90e" stroke-width=".9285"/>
+ <rect x="14" y="23" width="4" height="4" rx="1" ry="1" fill="#ffffff" stroke-width=".9285"/>
+ <rect x="20" y="23" width="4" height="4" rx="1" ry="1" fill="#ff5a5a" stroke-width=".9285"/>
+</svg>

@@ -1,1 +1,8 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16" r="15" fill="#666" style="paint-order:stroke fill markers"/><circle cx="16" cy="16" r="11" fill="#4d4d4d" style="paint-order:markers stroke fill"/><path d="M16 10a6 6 0 0 0-6 6v6h6a6 6 0 0 0 0-12zm0 3a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" fill="#fff"/></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-58" y="-58" width="52" height="52" rx="11.144" ry="11.144" fill="#666666"/>
+  <path d="m31.999 13.427a18.571 18.571 0 0 0-18.571 18.571 18.571 18.571 0 0 0 18.571 18.571 18.571 18.571 0 0 0 18.571-18.571 18.571 18.571 0 0 0-18.571-18.571zm0 11.143a7.4286 7.4286 0 0 1 7.4286 7.4286 7.4286 7.4286 0 0 1-7.4286 7.4286 7.4286 7.4286 0 0 1-7.4286-7.4286 7.4286 7.4286 0 0 1 7.4286-7.4286z" fill="#4d4d4d" stroke-width="1.916"/>
+  <circle cx="32" cy="32" r="13" fill="#fff" paint-order="markers stroke fill"/>
+  <circle cx="31.999" cy="31.999" r="9.2857" fill="#ed5f6c" stroke-width="2.1554" paint-order="markers stroke fill"/>
+ </g>
+</svg>

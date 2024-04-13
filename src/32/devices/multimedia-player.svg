@@ -1,1 +1,8 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="16.001" cy="16.001" r="14" fill="#4d4d4d" style="paint-order:stroke markers fill"/><path d="M16.002 3A13.001 13.001 0 0 0 6 7.7V14c0 .554.446 1 1 1h18c.554 0 1-.446 1-1V7.709A13.001 13.001 0 0 0 16.002 3z" fill="#5294e2" fill-rule="evenodd"/><circle cx="16" cy="23" r="6" fill="#fff"/><circle cx="16" cy="23" r="3" fill="#666"/></svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1.23 -1.23) scale(.53846)">
+  <rect transform="scale(-1,1)" x="-52.427" y="5.9987" width="40.857" height="52" rx="3.7143" ry="3.7143" fill="#4d4d4d" stroke-width="1.8316"/>
+  <rect x="13.427" y="8" width="37.143" height="20.429" rx="1.8571" ry="1.8571" fill="#5294e2" fill-rule="evenodd" stroke-width="1.8108"/>
+  <circle cx="31.999" cy="43.143" r="11.143" fill="#ffffff" stroke-width="1.7244"/>
+  <circle cx="31.999" cy="43.142" r="5.5714" fill="#666666" stroke-width="1.7244"/>
+ </g>
+</svg>

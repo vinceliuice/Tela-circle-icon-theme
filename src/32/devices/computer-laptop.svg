@@ -1,5 +1,1 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
- <rect x="2" y="5" width="28" height="22" rx="1.077" ry="1.023" fill="#2f3337"/>
- <rect transform="matrix(0 -1 -1 0 0 0)" x="-27" y="-32" width="1" height="32" rx=".5" ry=".5" fill="#c4c7cc"/>
- <rect transform="matrix(0 -1 -1 0 0 0)" x="-25" y="-29" width="19" height="26" rx="0" ry="0" fill="#5294e2"/>
-</svg>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16" r="14" fill="#f2f2f2" style="paint-order:stroke fill markers"/><rect x="7" y="9" width="18" height="13" rx="1" ry="1" fill="#2f3337"/><path d="M8 10h16v10H8z" fill="#5294e2" fill-rule="evenodd"/><path d="M5 21.037v.5c0 .277.234.5.524.5h20.952c.29 0 .524-.223.524-.5v-.5H5.524z" fill="#fff" style="paint-order:stroke fill markers"/><path d="M5 21.037v.5c0 .277.234.5.524.5h20.952c.29 0 .524-.223.524-.5v-.5h-7.334c0 .277-.233.5-.523.5h-6.286a.511.511 0 0 1-.524-.5h-6.81z" fill="#ccc" style="paint-order:stroke fill markers"/></svg>

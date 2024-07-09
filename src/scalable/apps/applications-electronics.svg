@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#4e9a06" stroke-width="1.0385"/>
- <rect x="24" y="16" width="3" height="32" rx="1.5" ry="1.5" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7"/>
- <rect x="19" y="27" width="13" height="3" rx="1.5" ry="1.5" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".63693"/>
- <rect x="19" y="34" width="13" height="3" rx="1.5" ry="1.5" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".63693"/>
- <rect x="36" y="24" width="9" height="16" rx="1" ry="1" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74246"/>
- <rect x="39" y="16" width="3" height="32" rx="1.5" ry="1.5" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.0"><rect width="54" height="54" x="5" y="5" fill="#4e9a06" rx="27" ry="27"/><rect width="3" height="32" x="24" y="16" fill="#fff" opacity=".5" rx="1.5" ry="1.5"/><rect width="13" height="3" x="19" y="27" fill="#fff" rx="1.5" ry="1.5"/><rect width="13" height="3" x="19" y="34" fill="#fff" rx="1.5" ry="1.5"/><rect width="9" height="16" x="36" y="24" fill="#fff" rx="1" ry="1"/><rect width="3" height="32" x="39" y="16" fill="#fff" opacity=".5" rx="1.5" ry="1.5"/></svg>

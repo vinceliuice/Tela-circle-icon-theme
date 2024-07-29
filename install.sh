@@ -25,7 +25,7 @@ fi
 
 usage() {
 cat << EOF
-Usage: $0 [OPTION] | [COLOR VARIANTS]...
+Usage: $0 [OPTION] | [COLOR VARIANTS]... [HEX CODES]...
 
 OPTIONS:
   -a                       Install all color folder versions
@@ -52,57 +52,70 @@ COLOR VARIANTS:
   nord                     nord color folder version
 
   By default, only the standard one is selected.
+
+HEX CODES:
+  Any six-digit hexadecimal code, without a preceding # symbol
+
 EOF
 }
 
+# Function to check if a string is a valid hex color code
+is_hex_color() {
+  [[ $1 =~ ^[0-9A-Fa-f]{6}$ ]]
+}
+
 install_theme() {
-  case "$1" in
-    standard)
-      local -r theme_color='#5294e2'
-      ;;
-    black)
-      local -r theme_color='#4d4d4d'
-      ;;
-    blue)
-      local -r theme_color='#5677fc'
-      ;;
-    brown)
-      local -r theme_color='#795548'
-      ;;
-    green)
-      local -r theme_color='#66bb6a'
-      ;;
-    grey)
-      local -r theme_color='#bdbdbd'
-      ;;
-    orange)
-      local -r theme_color='#ff9800'
-      ;;
-    pink)
-      local -r theme_color='#f06292'
-      ;;
-    purple)
-      local -r theme_color='#7e57c2'
-      ;;
-    red)
-      local -r theme_color='#ef5350'
-      ;;
-    yellow)
-      local -r theme_color='#ffca28'
-      ;;
-    manjaro)
-      local -r theme_color='#16a085'
-      ;;
-    ubuntu)
-      local -r theme_color='#fb8441'
-      ;;
-    dracula)
-      local -r theme_color='#44475a'
-      ;;
-    nord)
-      local -r theme_color='#4d576a'
-      ;;
-  esac
+  if is_hex_color "$1"; then
+    local -r theme_color="#$1"
+  else
+    case "$1" in
+      standard)
+        local -r theme_color='#5294e2'
+        ;;
+      black)
+        local -r theme_color='#4d4d4d'
+        ;;
+      blue)
+        local -r theme_color='#5677fc'
+        ;;
+      brown)
+        local -r theme_color='#795548'
+        ;;
+      green)
+        local -r theme_color='#66bb6a'
+        ;;
+      grey)
+        local -r theme_color='#bdbdbd'
+        ;;
+      orange)
+        local -r theme_color='#ff9800'
+        ;;
+      pink)
+        local -r theme_color='#f06292'
+        ;;
+      purple)
+        local -r theme_color='#7e57c2'
+        ;;
+      red)
+        local -r theme_color='#ef5350'
+        ;;
+      yellow)
+        local -r theme_color='#ffca28'
+        ;;
+      manjaro)
+        local -r theme_color='#16a085'
+        ;;
+      ubuntu)
+        local -r theme_color='#fb8441'
+        ;;
+      dracula)
+        local -r theme_color='#44475a'
+        ;;
+      nord)
+        local -r theme_color='#4d576a'
+        ;;
+    esac
+  fi
 
   # Appends a dash if the variables are not empty
   if [[ "$1" != "standard" ]]; then
@@ -275,6 +288,9 @@ while [ $# -gt 0 ]; do
   # If the argument is a color variant, append it to the colors to be installed
   elif [[ " ${COLOR_VARIANTS[*]} " = *" $1 "* ]] && \
        [[ "${colors[*]}" != *$1* ]]; then
+    colors+=("$1")
+  # Check if the argument is a valid hex color code and if so, append it to colors
+  elif is_hex_color "$1"; then
     colors+=("$1")
   else
     echo "ERROR: Unrecognized installation option '$1'."

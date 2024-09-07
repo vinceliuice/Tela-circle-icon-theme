@@ -3,5 +3,5 @@
  <path d="M8.467 1.323a7.144 7.144 0 0 0-7.144 7.144A7.14 7.14 0 0 0 6.27 15.26a10.14 10.14 0 0 0 9.283-7.62 7.144 7.144 0 0 0-7.086-6.317" fill="#457eff" style="paint-order:stroke fill markers"/>
  <path d="M8.467 1.323A7.14 7.14 0 0 0 1.97 5.512a8.767 8.767 0 0 0 8.694 7.725 8.8 8.8 0 0 0 3.776-.864 7.14 7.14 0 0 0 1.17-3.907 7.144 7.144 0 0 0-7.144-7.143z" fill="#00f" opacity=".1" style="paint-order:stroke fill markers"/>
  <path d="M5.292 3.969a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-.794A2.38 2.38 0 0 1 8.467 6.35a2.38 2.38 0 0 1-2.382-2.381z" fill="#fff" style="paint-order:stroke markers fill"/>
- <path d="m7.6728 13.493v-2.6458h-1.3229l2.1172-2.1161 2.1161 2.1161h-1.3229v2.6458z" fill="#ffffff" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26458)" d="M29 33v10h-5l8.002 7.998L40 43h-5V33z" fill="#fff" style="paint-order:stroke markers fill"/>
 </svg>

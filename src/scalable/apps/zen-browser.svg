@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg1" width="64" height="64" version="1.1"><defs id="defs1"><linearGradient id="e" x1="40" x2="40" y1="80" gradientUnits="userSpaceOnUse"><stop id="stop1" offset=".1" stop-color="#fff" stop-opacity=".02"/><stop id="stop2" offset=".9" stop-color="#fff" stop-opacity=".1"/></linearGradient><style id="style1">.i{stroke-width:0;fill:#fef9fe}</style></defs><circle id="circle1" cx="32" cy="32" r="27" fill="#101010"/><path id="path3" d="M63.435 57.677c-.054 3.213-2.742 5.759-5.955 5.759H35.404c-1.122 0-1.83-1.21-1.275-2.186 1.463-2.574 4.32-6.783 8.553-9.154a2.95 2.95 0 0 1 1.442-.378h13.453a5.86 5.86 0 0 1 5.858 5.959z" class="i" transform="translate(8.107 8.107)scale(.59733)"/><path id="path4" d="M45.871 18.75c-1.463 2.574-4.32 6.783-8.553 9.154a2.95 2.95 0 0 1-1.441.378H22.519c-3.212 0-5.9-2.546-5.954-5.759a5.86 5.86 0 0 1 5.858-5.959h22.173c1.122 0 1.83 1.21 1.275 2.186z" class="i" transform="translate(8.107 8.107)scale(.59733)"/><path id="path5" d="M22.421 63.438a5.859 5.859 0 0 1-5.41-8.103 38.2 38.2 0 0 1 8.113-12.25 38.1 38.1 0 0 1 12.634-8.497c6.569-2.721 11.685-7.838 14.406-14.406a5.86 5.86 0 0 1 10.826 4.484 38.2 38.2 0 0 1-8.114 12.25 38.1 38.1 0 0 1-12.634 8.498c-6.569 2.72-11.685 7.837-14.406 14.406a5.86 5.86 0 0 1-5.415 3.618" class="i" transform="translate(8.107 8.107)scale(.59733)"/></svg>
+<svg xml:space="preserve" id="svg1" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs1">
+        <linearGradient id="e" x1="40" x2="40" y1="80" gradientUnits="userSpaceOnUse">
+            <stop id="stop1" offset=".1" stop-color="#fff" stop-opacity=".02"/>
+            <stop id="stop2" offset=".9" stop-color="#fff" stop-opacity=".1"/>
+        </linearGradient>
+        <style id="style1">
+            .i{stroke-width:0;fill:#fef9fe}
+        </style>
+    </defs>
+    <circle id="circle1" cx="32" cy="32" r="27" fill="#101010" style="fill:#232323;fill-opacity:1"/>
+    <circle style="fill:none;stroke:#fffbec;stroke-width:3.007;stroke-dasharray:none;stroke-opacity:1" id="path1" cx="31.946" cy="31.946" r="19.473"/>
+    <circle style="fill:none;stroke:#fffbec;stroke-width:2.269;stroke-dasharray:none;stroke-opacity:1" id="path1-5" cx="31.925" cy="32.09" r="11.453"/>
+    <circle style="fill:none;stroke:#fffbec;stroke-width:1.673;stroke-dasharray:none;stroke-opacity:1" id="path1-5-2" cx="31.873" cy="32.041" r="5.532"/>
+</svg>

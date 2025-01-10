@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="a" x1="42" x2="44" y1="51" y2="55" gradientTransform="matrix(.96432 0 0 .96425 1.144 1.144)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<circle cx="32" cy="32" r="27" style="fill:currentColor" class="ColorScheme-Highlight"/><path fill="url(#a)" d="M56.412 43.467 29.707 58.883a27 26.998 0 0 0 2.296.117 27 26.998 0 0 0 24.41-15.533z" opacity=".1" /><path d="M32 5A27 26.998 0 0 0 7.61 20.431h18.413l1.159-1.932c.547-.914 1.615-1.928 2.89-1.928h24.084A27 26.998 0 0 0 32 5.001z" opacity=".2"/><path fill="#fff" d="M16.736 14.643a23.144 23.142 0 0 0-4.702 5.787h13.988l1.16-1.931c.546-.915 1.614-1.928 2.89-1.928h19.113a23.144 23.142 0 0 0-1.907-1.928z"/><path d="M32.004 5a27 26.998 0 0 0-17.812 6.75h35.631A27 26.998 0 0 0 32 5z" opacity=".15"/><rect width="14.466" height="1.928" x="34.894" y="18.499" opacity=".25" ry=".966"/></svg>

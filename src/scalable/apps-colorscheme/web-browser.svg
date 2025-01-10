@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <circle cx="32" cy="32" r="27" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <circle cx="32" cy="32" r="27" fill="#ffffff" opacity=".1"/>
+ <path d="m32 20.038a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12 12 12 0 0 0-12-12m0 5.0001a6.9919 6.9919 0 0 1 6.9994 6.9994 6.9919 6.9919 0 0 1-6.9994 6.9994 6.9919 6.9919 0 0 1-6.9994-6.9994 6.9919 6.9919 0 0 1 6.9994-6.9994" opacity=".15"/>
+ <path d="m17.003 17.034 17 12.986-4.0024 3.9986z" fill="#ffffff"/>
+ <path d="m47 47.042-17-13.001 4.0024-4.0062z" fill="#e6e6e6"/>
+</svg>

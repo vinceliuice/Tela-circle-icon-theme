@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+<circle cx="32" cy="32" r="27" style="fill:currentColor" class="ColorScheme-Highlight"/><path d="M32.002 5.004A27 27 0 0 0 5.004 32h53.997A27 27 0 0 0 32.003 5.004z" opacity=".15" style="paint-order:stroke markers fill"/><g fill="#fff" transform="translate(.004 .004)scale(3.7793)"><rect width="8.467" height=".529" x="4.233" y="6.085" opacity=".75" ry=".265" style="paint-order:stroke markers fill"/><circle cx="10.054" cy="6.35" r="1.058" style="paint-order:stroke markers fill"/><rect width="8.467" height=".529" x="4.233" y="10.318" opacity=".75" ry=".265" style="paint-order:stroke markers fill"/></g><circle cx="25.004" cy="40.001" r="5.998" opacity=".25" style="paint-order:markers stroke fill"/><circle cx="25.004" cy="40.001" r="3.998" fill="#fff" style="paint-order:markers stroke fill"/></svg>

@@ -172,6 +172,8 @@ install_theme() {
       else
         sed -i "s/#5294e2/${theme_color}/g" "${THEME_DIR}/scalable/devices/"*.svg "${THEME_DIR}/32/devices/"*.svg
       fi
+    else
+      cp -r "${SRC_DIR}"/src/scalable/apps-colorscheme/*.svg                     "${THEME_DIR}/scalable/apps"
     fi
 
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"

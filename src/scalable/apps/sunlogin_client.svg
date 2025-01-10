@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="M32 5c14.912 0 27 12.088 27 27S46.912 59 32 59 5 46.912 5 32 17.088 5 32 5" fill="#ed186e"/>
+ <g transform="matrix(.2766 0 0 .2766 63.255 25.915)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+  <path d="m-160-30v70l63-36-63-36z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+  <path d="m-160 40 63-36h31l-62 36z" fill="#fbb8d0" style="paint-order:stroke fill markers"/>
+  <path d="m-66 74v-70l-63 36 63 36z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

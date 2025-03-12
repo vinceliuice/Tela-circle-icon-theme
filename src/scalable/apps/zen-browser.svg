@@ -1,15 +1,1 @@
-<svg xml:space="preserve" id="svg1" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <defs id="defs1">
-        <linearGradient id="e" x1="40" x2="40" y1="80" gradientUnits="userSpaceOnUse">
-            <stop id="stop1" offset=".1" stop-color="#fff" stop-opacity=".02"/>
-            <stop id="stop2" offset=".9" stop-color="#fff" stop-opacity=".1"/>
-        </linearGradient>
-        <style id="style1">
-            .i{stroke-width:0;fill:#fef9fe}
-        </style>
-    </defs>
-    <circle id="circle1" cx="32" cy="32" r="27" fill="#101010" style="fill:#232323;fill-opacity:1"/>
-    <circle style="fill:none;stroke:#fffbec;stroke-width:3.007;stroke-dasharray:none;stroke-opacity:1" id="path1" cx="31.946" cy="31.946" r="19.473"/>
-    <circle style="fill:none;stroke:#fffbec;stroke-width:2.269;stroke-dasharray:none;stroke-opacity:1" id="path1-5" cx="31.925" cy="32.09" r="11.453"/>
-    <circle style="fill:none;stroke:#fffbec;stroke-width:1.673;stroke-dasharray:none;stroke-opacity:1" id="path1-5-2" cx="31.873" cy="32.041" r="5.532"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64" height="64"><circle cx="32" cy="32" r="27" fill="#101010" style="fill:#232323;fill-opacity:1"/><circle cx="31.946" cy="31.946" r="19.473" style="fill:none;stroke:#fffbec;stroke-width:3.007;stroke-dasharray:none;stroke-opacity:1"/><circle cx="31.925" cy="32.09" r="11.453" style="fill:none;stroke:#fffbec;stroke-width:2.269;stroke-dasharray:none;stroke-opacity:1"/><circle cx="31.873" cy="32.041" r="5.532" style="fill:none;stroke:#fffbec;stroke-width:1.673;stroke-dasharray:none;stroke-opacity:1"/></svg>

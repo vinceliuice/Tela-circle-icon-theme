@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg1"
+   sodipodi:docname="protonmail.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.5"
+     inkscape:cx="44.090909"
+     inkscape:cy="57.636364"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     x="5"
+     y="5"
+     width="54"
+     height="54"
+     rx="27"
+     ry="27"
+     fill="#43435e"
+     fill-rule="evenodd"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.22615"
+     style="paint-order:stroke fill markers"
+     id="rect1" />
+  <path
+     d="m32 15.565c-5.8531 0-10.565 4.7121-10.565 10.565v6.4565l10.565 7.6304 10.565-7.6304v-6.4565c0-5.8531-4.7121-10.565-10.565-10.565zm0 4.6957c3.2517 0 5.8696 2.6178 5.8696 5.8696v3.5217h-11.739v-3.5217c0-3.2517 2.6178-5.8696 5.8696-5.8696zm-10.565 15.261v9.3913c0 0.65035 0.52356 1.1739 1.1739 1.1739h18.783c0.65035 0 1.1739-0.52356 1.1739-1.1739v-9.3913l-9.5862 6.8234c-0.19978 0.14345-0.43962 0.22011-0.68554 0.22011h-0.58696c-0.24594 0-0.48578-0.07666-0.68554-0.22011z"
+     fill="#d4d4e8"
+     stroke-width="1.1739"
+     style="paint-order:normal"
+     id="path1" />
+</svg>

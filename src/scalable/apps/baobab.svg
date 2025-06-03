@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:zoom="6.4140625"
-     inkscape:cx="55.269184"
-     inkscape:cy="15.824604"
+     inkscape:cx="71.015834"
+     inkscape:cy="-5.0669915"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -188,25 +188,41 @@
        id="rect20" />
   </g>
   <g
-     id="g1"
-     transform="matrix(1.3333333,0,0,1.3333333,-86.666664,1.6666669)">
-    <circle
-       cx="89"
-       cy="19"
-       r="12"
-       fill="#ff964a"
-       paint-order="markers stroke fill"
-       id="circle11" />
+     id="g7"
+     transform="matrix(1.8830279,0,0,1.80837,-144.00003,47.440528)">
+    <ellipse
+       style="fill:#57e389;fill-opacity:1;fill-rule:evenodd"
+       id="path6-2"
+       transform="scale(1,-1)"
+       cx="93.466499"
+       cy="11.303288"
+       rx="8.496953"
+       ry="8.8477468" />
     <path
-       fill="#6fbb55"
-       d="m 80.515,10.515 a 12,12 0 0 0 0,16.97 12,12 0 0 0 16.97,0 z"
-       paint-order="markers stroke fill"
-       id="path12-7" />
+       style="fill:#f9f06b;fill-opacity:1;fill-rule:evenodd"
+       id="path6-5"
+       sodipodi:type="arc"
+       sodipodi:cx="93.466499"
+       sodipodi:cy="-11.303288"
+       sodipodi:rx="8.496953"
+       sodipodi:ry="8.8477468"
+       sodipodi:start="0"
+       sodipodi:end="2.3561945"
+       sodipodi:arc-type="slice"
+       d="m 101.96345,-11.303288 a 8.496953,8.8477468 0 0 1 -5.245308,8.1742518 8.496953,8.8477468 0 0 1 -9.259896,-1.9179505 l 6.008253,-6.2563013 z" />
     <path
-       fill="#4babbe"
-       d="M 89,7 A 12,12 0 0 0 77,19 12,12 0 0 0 89,31 Z"
-       paint-order="markers stroke fill"
-       id="path13-5" />
+       style="fill:#62a0ea;fill-opacity:1;fill-rule:evenodd"
+       id="path6"
+       sodipodi:type="arc"
+       sodipodi:cx="93.466499"
+       sodipodi:cy="11.303288"
+       sodipodi:rx="8.496953"
+       sodipodi:ry="8.8477468"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       sodipodi:arc-type="slice"
+       d="m 101.96345,11.303288 a 8.496953,8.8477468 0 0 1 -8.496951,8.847747 v -8.847747 z"
+       transform="scale(1,-1)" />
   </g>
   <circle
      cx="32"

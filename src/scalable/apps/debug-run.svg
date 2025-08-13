@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+ </defs>
+ <path d="m2.3688 4.7619a7.1437 7.1437 0 0 0-1.0459 3.7046 7.1437 7.1437 0 0 0 7.1437 7.1437 7.1437 7.1437 0 0 0 7.1437-7.1437 7.1437 7.1437 0 0 0-1.0432-3.7046h-5.29e-4z" fill="#f0f0f0" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m8.467 1.323a7.14 7.14 0 0 0-6.098 3.439h12.198a7.14 7.14 0 0 0-6.1-3.44z" fill="#666666" style="paint-order:stroke markers fill"/>
+ <rect x="11.642" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="10.054" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <rect x="8.466" y="3.175" width=".794" height=".794" ry=".397" opacity=".35" style="paint-order:stroke markers fill"/>
+ <g stroke-linecap="square">
+  <circle cx="12.171" cy="12.171" r="4.2333" fill="#666666" stroke-width=".14111"/>
+  <path d="m12.197 9.5512-0.37413 0.37465 1.9807 1.9802h-4.2787v0.52916h4.2787l-1.9807 1.9802 0.37413 0.37465 2.6194-2.6194-0.37413-0.37413z" fill="#ffffff" stroke-width=".08101"/>
+ </g>
+</svg>

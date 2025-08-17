@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <path d="m31.998 5.0005c-14.956 0-26.998 12.042-26.998 27.001 0 14.96 12.042 26.998 26.998 26.998q2.2148-0.0038 4.3314-0.34772l22.322-22.319q0.34394-2.1166 0.34772-4.3314a26.949 26.949 0 0 0-26.998-27.001z" fill="#579c3b" stroke-width="3.7796"/>
- <path d="m58.652 36.333c-39.1 18.444-19.548 9.2222 0 0m0 0-22.322 22.319a26.911 26.911 0 0 0 22.322-22.326z" fill="#427a29" stroke-width="3.7796"/>
- <rect transform="rotate(90)" x="26" y="-47" width="20" height="4" fill="#ffffff"/>
- <rect x="32" y="22" width="24" height="4" fill="#ffffff"/>
- <path d="m22 14a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14zm0 4.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8 9.8 9.8 0 0 1-9.8-9.8 9.8 9.8 0 0 1 9.8-9.8z" fill="#ffffff"/>
- <circle cx="40" cy="9" r="1" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- <rect x="27" y="8" width="10" height="2" rx="1" ry="1" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6903"/>
- <path d="m36.33 58.652 22.322-22.319a26.911 26.911 0 0 0-22.322 22.319" fill="#85df66" stroke-width="3.7796"/>
- <circle cx="24" cy="9" r="1" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path fill="#579c3b" d="M31.998 5A26.94 26.94 0 0 0 5 32.002 26.94 26.94 0 0 0 31.998 59q2.215-.004 4.331-.348l22.322-22.32q.344-2.116.348-4.33A26.95 26.95 0 0 0 32.001 5z"/><path fill="#427a29" d="M58.652 36.333c-39.1 18.444-19.548 9.222 0 0m0 0L36.33 58.652a26.91 26.91 0 0 0 22.322-22.326z"/><path fill="#fff" d="M47 26v20h-4V26zM32 22h24v4H32z"/><path fill="#fff" d="M22 14A14 14 0 0 0 8 28a14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14m0 4.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8 9.8 9.8 0 0 1-9.8-9.8 9.8 9.8 0 0 1 9.8-9.8"/><circle cx="40" cy="9" r="1" fill="#fff"/><rect width="10" height="2" x="27" y="8" fill="#fff" rx="1" ry="1"/><path fill="#85df66" d="m36.33 58.652 22.322-22.319A26.91 26.91 0 0 0 36.33 58.652"/><circle cx="24" cy="9" r="1" fill="#fff"/></svg>

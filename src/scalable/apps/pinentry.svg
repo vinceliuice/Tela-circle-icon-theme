@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-width=".53383"/>
- <g transform="matrix(.72727 0 0 .72727 8.7273 6.2852)">
-  <path d="m32 5.1079c-8.864 0-16 7.1359-16 16v5.9999h6v-5.9999c0-5.5399 4.46-9.9998 10-9.9998s10 4.4599 10 9.9998v5.9999h6v-5.9999c0-8.8638-7.136-16-16-16z" fill="#ffffff"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-60.108" y="-54" width="33.999" height="44" rx="2.8" ry="2.8" fill="#ffb437"/>
-  <rect x="10" y="32" width="44" height="20" rx="0" ry="0" fill="#fed96a"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><circle cx="32" cy="32" r="27" fill="#e6e6e6"/><g transform="translate(8.727 6.285)scale(.72727)"><path fill="#fff" d="M32 5.108c-8.864 0-16 7.136-16 16v6h6v-6c0-5.54 4.46-10 10-10s10 4.46 10 10v6h6v-6c0-8.864-7.136-16-16-16"/><rect width="33.999" height="44" x="-60.108" y="-54" fill="#ffb437" rx="2.8" ry="2.8" transform="rotate(90)scale(-1 1)"/><rect width="44" height="20" x="10" y="32" fill="#fed96a" rx="0" ry="0"/></g></svg>

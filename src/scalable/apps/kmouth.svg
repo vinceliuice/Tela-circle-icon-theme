@@ -1,7 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="#f2f2f2" stroke-linecap="square" stroke-width=".56556"/>
- <path d="M35.656 45.06h9.115l-.194 8.79z" fill="#44d94d" stroke-linecap="square" stroke-width=".41583" style="paint-order:markers fill stroke"/>
- <path d="m32 5c-14.958 0-27 12.042-27 27 0 5.1225 1.4131 9.9026 3.8711 13.975h46.258c2.458-4.072 3.8711-8.8521 3.8711-13.975 0-14.958-12.042-27-27-27z" fill="#44d94d"/>
- <path transform="translate(18.17 11.752)scale(1.15279)" d="M11 5 6 9H2v6h4l5 4z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6603"/>
- <path d="m36.085 21.505a5.764 5.764 0 0 1 0 8.15m4.069-12.219a11.53 11.53 0 0 1 0 16.3" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.914"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="54" height="54" x="5" y="5" fill="#f2f2f2" rx="27" ry="27"/><path fill="#44d94d" d="M35.656 45.06h9.115l-.194 8.79z" style="paint-order:markers fill stroke"/><path fill="#44d94d" d="M32 5A26.94 26.94 0 0 0 5 32c0 5.123 1.413 9.903 3.871 13.975H55.13A26.95 26.95 0 0 0 59 32 26.94 26.94 0 0 0 32 5z"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9136313999999999" d="m30.85 17.516-5.763 4.611h-4.611v6.917h4.61l5.765 4.611z"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.914" d="M36.085 21.505a5.764 5.764 0 0 1 0 8.15m4.069-12.219a11.53 11.53 0 0 1 0 16.3"/></svg>

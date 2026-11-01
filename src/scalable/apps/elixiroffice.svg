@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fa8e8"/>
+      <stop offset="1" stop-color="#5f7bd0"/>
+    </linearGradient>
+    <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dfe6f7"/>
+    </linearGradient>
+    <clipPath id="flask">
+      <path d="M216 118h80v12h-12v92l76 126c10 17-2 38-22 38H174c-20 0-32-21-22-38l76-126v-92h-12z"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(32 32) scale(.1125) translate(-256 -256)">
+    <circle cx="256" cy="256" r="240" fill="url(#ring)"/>
+    <circle cx="256" cy="256" r="196" fill="url(#disc)"/>
+    <path d="M216 118h80v12h-12v92l76 126c10 17-2 38-22 38H174c-20 0-32-21-22-38l76-126v-92h-12z" fill="#5f7bd0"/>
+    <g clip-path="url(#flask)">
+      <path d="M120 318c40-14 70 14 136 0s96-10 136 0v140H120z" fill="#a9bdf0"/>
+    </g>
+    <path d="M216 118h80v12h-80z" fill="#4a66bd"/>
+  </g>
+</svg>
